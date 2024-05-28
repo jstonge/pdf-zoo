@@ -24,11 +24,9 @@ const surya_res = FileAttachment("results/surya-reading-order/courses/results.js
 const surya_res = FileAttachment("results/surya/courses/results.json").json();
 ```
 
-
 ```js
 const select = view(Inputs.select(Object.keys(surya_res), {label: "filename", value: Object.keys(surya_res)[0] }))
 ```
-
 
 <div class="grid grid-cols-2">
   <div>${
