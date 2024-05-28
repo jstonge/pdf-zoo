@@ -2,25 +2,31 @@
 toc: false
 ---
 
+# OCR leaderboard
+
+```js
+const select_ocr = view(Inputs.select(['surya'], {label: "OCR" }))
+```
+
+```js
+const select_config = view(Inputs.select(['reading-order'], {label: "config" }))
+```
+
 ```js
 const select_type = view(Inputs.select(['courses'], {label: "document type" }))
 ```
 
-```js
-const select = view(Inputs.select(Object.keys(surya_res), {label: "filename", value: Object.keys(surya_res)[0] }))
-
-```
-<!-- 
-```js
-const surya_res = FileAttachment("results/surya/courses/results.json").json();
+<!-- ```js
+const surya_res = FileAttachment("results/surya-reading-order/courses/results.json").json();
 ``` -->
 
 ```js
-const surya_res = FileAttachment("results/surya-reading-order/courses/results.json").json();
+const surya_res = FileAttachment("results/surya/courses/results.json").json();
 ```
 
+
 ```js
-const nb_lines = surya_res[select][0]['text_lines'].map(d=>d.text).length
+const select = view(Inputs.select(Object.keys(surya_res), {label: "filename", value: Object.keys(surya_res)[0] }))
 ```
 
 
@@ -61,7 +67,15 @@ const nb_lines = surya_res[select][0]['text_lines'].map(d=>d.text).length
 ```js
 const data = [
   {
-    link: `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/docs/assets/${select}.png`
+    link: `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/docs/results/surya-reading-order/courses/${select}.png`
   }
 ]
+```
+
+```js
+surya_res
+```
+
+```js
+const nb_lines = surya_res[select][0]['text_lines'].map(d=>d.text).length
 ```
