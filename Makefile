@@ -27,3 +27,14 @@ surya-layout:
 
 surya-reading-order:
 	surya_order $(COURSES_DIR) --images --results_dir $(SURYA_ORDER_RES)
+
+
+#############################
+#
+#         KOSMO 2.5         #
+#
+##############################
+
+# https://github.com/microsoft/unilm/tree/master/kosmos-2.5
+kosmo:
+	python $(SRC_DIR)/kosmo.py $(COURSES_DIR) $(RESULTS_DIR)

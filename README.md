@@ -2,6 +2,10 @@
 
 See [Makefile](./Makefile) for which OCR has been done.
 
+## Kosmo2.5
+
+To use Kosmo2.5, we had to clone `https://github.com/microsoft/unilm.git` as git submodule. We encapsulate the OCR tool within its own conda environment. You should do the same. It also only run on [Flash Attention 2](https://github.com/Dao-AILab/flash-attention), so we run the code on the VACC's A100s.
+
 ## References for the OCR
 
 ### Traditional
