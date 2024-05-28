@@ -22,6 +22,7 @@ To use Kosmo2.5, we had to clone `https://github.com/microsoft/unilm.git` as git
 ### Pdf2markdown
 
  - https://github.com/VikParuchuri/marker
+ - https://github.com/facebookresearch/nougat
 
 ### Wrappers
 
