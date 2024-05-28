@@ -4,6 +4,8 @@ toc: false
 
 # OCR leaderboard
 
+<div class="warning">This is a prototype. Right now, the text on the right doesn't not follow the reading order shown in the left. I still need to do that. I still need to also add an option to add a contender, so that we can compare two different OCR on the same PDF.</div>
+
 ```js
 const select_ocr = view(Inputs.select(['surya'], {label: "OCR" }))
 ```
