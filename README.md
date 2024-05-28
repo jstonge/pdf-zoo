@@ -1,6 +1,8 @@
 # Pdf Zoo
 
-## References
+See [Makefile](./Makefile) for which OCR has been done.
+
+## References for the OCR
 
 ### Traditional
 
