@@ -6,28 +6,44 @@ toc: false
 
 <div class="warning">This is a prototype. Right now, the text on the right doesn't not follow the reading order shown in the left. I still need to do that. I still need to also add an option to add a contender, so that we can compare two different OCR on the same PDF.</div>
 
-```js
-const select_ocr = view(Inputs.select(['surya'], {label: "OCR" }))
-```
-
-```js
-const select_config = view(Inputs.select(['reading-order'], {label: "config" }))
-```
+<!-- DOCUMENT LOGIC -->
 
 ```js
 const select_type = view(Inputs.select(['courses'], {label: "document type" }))
 ```
 
-<!-- ```js
-const surya_res = FileAttachment("results/surya-reading-order/courses/results.json").json();
-``` -->
+```js
+// Conditional on document type, we have different filenames
+const select = view(Inputs.select(Object.keys(surya_res), {label: "filename", value: Object.keys(surya_res)[0] }))
+```
+
+<!-- OCR LOGIC -->
 
 ```js
-const surya_res = FileAttachment("results/surya/courses/results.json").json();
+const select_ocr = view(Inputs.select(['surya', 'kosmo-2.5'], {label: "OCR", value: "surya" }))
 ```
 
 ```js
-const select = view(Inputs.select(Object.keys(surya_res), {label: "filename", value: Object.keys(surya_res)[0] }))
+// Conditional on the OCR, different configs will be possible.
+// config name should correspond to path, aka OCR / CONFIGS / DOCUMENT_TYPE / *
+config_surya = ['reading-order']
+config_kosmo = []
+```
+
+```js
+const select_config = view(
+  Inputs.select(select_ocr === 'surya' ? config_surya : config_kosmo, {label: "config" })
+  )
+```
+
+```js
+// Once OCR and Configs are chosen, grab the results
+// Remains to be seen if this is the best way to do it.
+// I like the format of surya. We should have a universal converter from all other OCR to this one.
+// That is, we have a json with keys being the filename (png associated with PDF), then values is a list
+// with one of the element being the dictionary containing text by line. For each line, there is metadata
+// about bboxing.
+const surya_res = FileAttachment(`results/${select_ocr}/${select_config}/${select_type}/results.json`).json();
 ```
 
 <div class="grid grid-cols-2">
