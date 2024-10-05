@@ -1,0 +1,2760 @@
+{
+  "1CM_01": [
+    {
+      "text_lines": [
+        {
+          "bbox": [
+            5.0,
+            4.97998046875,
+            198.73248291015625,
+            14.94677734375
+          ],
+          "text": "Courses : Catalogue 2010-11 : University of Vermont\n",
+          "block_no": 0,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            5.0,
+            778.97998046875,
+            605.2910766601562,
+            788.94677734375
+          ],
+          "text": "http://www.uvm.edu/...mics/catalogue2010-11/?Page=CatalogueCourses&subject=ALAN&agc=AGC&term=201009&SM=coursemenu.html[9/20/2018 8:15:17 AM]\n",
+          "block_no": 1,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            446.5,
+            45.48486328125,
+            593.2971801757812,
+            61.619384765625
+          ],
+          "text": "APPLY\n SEARCH \u25be MYUVM\n",
+          "block_no": 2,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.5,
+            243.24462890625,
+            81.94160461425781,
+            254.97509765625
+          ],
+          "text": "Academics\n",
+          "block_no": 3,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.5,
+            270.923583984375,
+            111.58387756347656,
+            281.816162109375
+          ],
+          "text": "Catalogue 2010-11\n",
+          "block_no": 4,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.5,
+            298.74462890625,
+            108.21099090576172,
+            310.47509765625
+          ],
+          "text": "Table of Contents\n",
+          "block_no": 5,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.5,
+            327.24163818359375,
+            65.59150695800781,
+            338.97210693359375
+          ],
+          "text": "Courses\n",
+          "block_no": 6,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            40.75,
+            354.99462890625,
+            124.10438537597656,
+            366.72509765625
+          ],
+          "text": "\u2022 About Catalogue\n",
+          "block_no": 7,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            46.00379943847656,
+            370.74462890625,
+            85.09529876708984,
+            382.47509765625
+          ],
+          "text": "Courses\n",
+          "block_no": 8,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            40.75,
+            398.49462890625,
+            122.90579223632812,
+            410.22509765625
+          ],
+          "text": "\u2022 Browse Courses\n",
+          "block_no": 9,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            46.00379943847656,
+            414.24462890625,
+            95.02652740478516,
+            425.97509765625
+          ],
+          "text": "by Subject\n",
+          "block_no": 10,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            40.75,
+            441.99462890625,
+            115.91439056396484,
+            453.72509765625
+          ],
+          "text": "\u2022 Course Search\n",
+          "block_no": 11,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            40.75,
+            469.74462890625,
+            132.26287841796875,
+            481.47509765625
+          ],
+          "text": "\u2022 Courses Approved\n",
+          "block_no": 12,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            46.00379943847656,
+            485.49462890625,
+            135.8715057373047,
+            497.22509765625
+          ],
+          "text": "for Graduate Credit\n",
+          "block_no": 13,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.505300521850586,
+            513.9916381835938,
+            117.88679504394531,
+            525.7221069335938
+          ],
+          "text": "Academic Oferings\n",
+          "block_no": 14,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.505300521850586,
+            542.4886474609375,
+            128.05079650878906,
+            554.2191162109375
+          ],
+          "text": "Colleges and Schools\n",
+          "block_no": 15,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.505300521850586,
+            570.985595703125,
+            132.12640380859375,
+            598.466064453125
+          ],
+          "text": "Academic Policies and\nGeneral Information\n",
+          "block_no": 16,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.505300521850586,
+            615.232666015625,
+            92.65689849853516,
+            642.713134765625
+          ],
+          "text": "Faculty and\nAdminisration\n",
+          "block_no": 17,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            26.505300521850586,
+            659.4796142578125,
+            116.97014617919922,
+            671.2100830078125
+          ],
+          "text": "Catalogue Archives\n",
+          "block_no": 18,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            34.0,
+            210.4951171875,
+            203.62596130371094,
+            227.53857421875
+          ],
+          "text": "2010-11 Online Catalogue\n",
+          "block_no": 19,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            267.5828857421875,
+            699.031494140625,
+            515.4835205078125,
+            708.248291015625
+          ],
+          "text": " |  Burlington, VT 05405 | (802) 656-3131 | Contact UVM \u00a9 2018\n",
+          "block_no": 20,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            165.25,
+            257.7451171875,
+            537.9699096679688,
+            274.78857421875
+          ],
+          "text": "Graduate Courses in ALANA U.S.Ethnic Studies (ALAN)\n",
+          "block_no": 21,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            165.25,
+            291.99462890625,
+            350.0359191894531,
+            303.72509765625
+          ],
+          "text": "ALAN 295 - Advanced Special Topics\n",
+          "block_no": 22,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            195.25900268554688,
+            307.74462890625,
+            552.4064331054688,
+            366.72509765625
+          ],
+          "text": "Advanced courses or seminars on topics beyond the scope of exising\ndepartments. See Schedule of Courses for specifc titles. Prerequisite: Junior\nsanding.\nCredits: 1.00 to 18.00\n",
+          "block_no": 23,
+          "block_type": 0
+        }
+      ]
+    }
+  ],
+  "3CN_01": [
+    {
+      "text_lines": [
+        {
+          "bbox": [
+            71.1532974243164,
+            124.07084655761719,
+            157.7396240234375,
+            140.52391052246094
+          ],
+          "text": "(d) Latm Amer can H story \n(e) East Asian H story \n",
+          "block_no": 0,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.3499984741211,
+            143.8809051513672,
+            234.94471740722656,
+            166.41357421875
+          ],
+          "text": "Special Courses: H S 294, 298 484 492 493, 494 \n497 498, 499 500, 580 584 590 591 592 593 594 \n598 599, 790 792, 799 (See pages 30 31 \n",
+          "block_no": 1,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            96.5199966430664,
+            193.71475219726562,
+            215.6981201171875,
+            207.21475219726562
+          ],
+          "text": "Home Economics \n",
+          "block_no": 2,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            125.83000183105469,
+            221.9408416748047,
+            183.37387084960938,
+            229.64083862304688
+          ],
+          "text": "PROFESSORS: \n",
+          "block_no": 3,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            78.30000305175781,
+            231.8147735595703,
+            229.80409240722656,
+            239.31488037109375
+          ],
+          "text": "HOOVER (HEC106), BARKLEY R LEWIS \n",
+          "block_no": 4,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            119.71890258789062,
+            241.9023895263672,
+            190.07752990722656,
+            249.40249633789062
+          ],
+          "text": "MONTS, MORGAN \n",
+          "block_no": 5,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            101.88999938964844,
+            253.62086486816406,
+            208.24960327148438,
+            261.32086181640625
+          ],
+          "text": "ASSOCIATE PROFESSORS: \n",
+          "block_no": 6,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            97.4000015258789,
+            263.8547668457031,
+            213.19427490234375,
+            271.3548889160156
+          ],
+          "text": "BAKER STANGE,STREUFERT \n",
+          "block_no": 7,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            102.25,
+            275.59088134765625,
+            207.8935089111328,
+            283.2908630371094
+          ],
+          "text": "ASSISTANT PROFESSORS: \n",
+          "block_no": 8,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            75.8499984741211,
+            285.46478271484375,
+            234.14036560058594,
+            292.96490478515625
+          ],
+          "text": "CARY, CAUBLE CRE GHTON F LS NGER, \n",
+          "block_no": 9,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            70.0199966430664,
+            295.5347595214844,
+            238.46633911132812,
+            303.0348815917969
+          ],
+          "text": "HUNTER, JACOB JEFFERY LAUB K. LEW S \n",
+          "block_no": 10,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            82.63802337646484,
+            305.62237548828125,
+            225.67718505859375,
+            313.12249755859375
+          ],
+          "text": "MORALES PETERS, SCHNITTGRUND \n",
+          "block_no": 11,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            127.06109619140625,
+            315.69476318359375,
+            182.8889923095703,
+            323.1951904296875
+          ],
+          "text": "WOOLDR DGE \n",
+          "block_no": 12,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.37000274658203,
+            340.3678283691406,
+            238.03761291503906,
+            361.80499267578125
+          ],
+          "text": "Departmental Major Requirements \nThe Dcp,1rtn1cnt of Hotnc Econo1n1c., ,l\\\\ard\" \n",
+          "block_no": 13,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.13999938964844,
+            363.1850280761719,
+            230.91632080078125,
+            371.885009765625
+          ],
+          "text": "the Bachelor al Arh or B.tL-hdor ol Sc1encL \n",
+          "block_no": 14,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.36000061035156,
+            372.905029296875,
+            240.75369262695312,
+            391.69500732421875
+          ],
+          "text": "dcgrcL: upon \\UCCe\\,,,fU con p euon 01 ,1 our \n\\Cdr curnculun1 ol \n26 \\C1nc\\lc1 hour\"'\\\\ pre\u00b7 \n",
+          "block_no": 15,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.16000366210938,
+            393.4350280761719,
+            235.45404052734375,
+            402.135009765625
+          ],
+          "text": "\\t..r bed on p,1gL-\" ::i6 ..,- undet I e (ul!cgt.. l 1 \n",
+          "block_no": 16,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.51000213623047,
+            403.4078369140625,
+            240.3172607421875,
+            422.2850036621094
+          ],
+          "text": "L bcr,tl \\rh lour'>e\" HEC 2JO ,1nd 41)t ,ire \nrcqu red \nh lUf\\ o! tic hon1t.. cconon11c\\ \n",
+          "block_no": 17,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.08000183105469,
+            423.6650085449219,
+            231.43431091308594,
+            432.364990234375
+          ],
+          "text": "cour\"c\" li...icd on p<1ge \n,1nd not v.1lh111 hL \n",
+          "block_no": 18,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.08999633789062,
+            433.0249938964844,
+            238.5117645263672,
+            451.80499267578125
+          ],
+          "text": "n1djor drca of :-.pee alizat on 1ntly be .tpp 1ed l \nlulf1l! the liberal ,1rh Gcncr.ll \nrequire \n",
+          "block_no": 19,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.1500015258789,
+            452.83502197265625,
+            89.05760955810547,
+            461.5350036621094
+          ],
+          "text": "n1enb \n",
+          "block_no": 20,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.9800033569336,
+            470.73785400390625,
+            218.70057678222656,
+            491.04498291015625
+          ],
+          "text": "Bachelor of Arts Degree Curriculum \nHome Economics \nConsi .... ts of 45 \n",
+          "block_no": 21,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.72000122070312,
+            492.0500183105469,
+            242.42706298828125,
+            520.5650024414062
+          ],
+          "text": "hours of credit of v. hich 30 arc 111 home ccono1n* \n1cs dnd I .'.'I in related field<>; 20 \"eme-;ter hour<> ol \ncredit mu<;l be 111 home economic.'. upper d1vi \n",
+          "block_no": 22,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.66999816894531,
+            522.3049926757812,
+            239.8319549560547,
+            550.4450073242188
+          ],
+          "text": ".'.!On Thl <.,pec1!1ccour\"e\"v.1I bcdctcrn11ncd by \nthe :-.tudenl 111 con:-.u tJtlon v. tth the Jdv1.,or, \ndepending on the area of .... pcc1tlhzat1on. \n",
+          "block_no": 23,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.4800033569336,
+            551.8349609375,
+            197.36192321777344,
+            560.5349731445312
+          ],
+          "text": "Degree Requirement:-., p.1ge,.., 'l6 .'.'ib. \n",
+          "block_no": 24,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            261.17999267578125,
+            123.33785247802734,
+            431.1005554199219,
+            144.19003295898438
+          ],
+          "text": "Bachelor of Science Degree Curriculum \nHome Economic.., \nCon'> .'.l'> of ')0 :-.cmc<>ter \n",
+          "block_no": 25,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            261.7099914550781,
+            145.38504028320312,
+            436.3143310546875,
+            164.16502380371094
+          ],
+          "text": "hour:.. of credit of which at lea.'.t 20 mu\"t be 111 \nupper divi .... 1011 hon1e cconom1c:-. cour\"e\" The \n",
+          "block_no": 26,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            261.2799987792969,
+            164.96002197265625,
+            434.2772521972656,
+            193.6950225830078
+          ],
+          "text": ".... pecif1c cour\"e\" v.ill be detern11ncd by the \\tu \ndent in con:-.ulttillon v.1th the advi:-.or, \ndepending on the .trca of .'.pecit!h11tion. (Sec \n",
+          "block_no": 27,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.0393981933594,
+            194.76499938964844,
+            401.9653015136719,
+            203.864990234375
+          ],
+          "text": "Degree Requ1re1nent\\, p,ige\" J6 50 ) \n",
+          "block_no": 28,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            271.3999938964844,
+            204.63002014160156,
+            437.1197814941406,
+            214.030029296875
+          ],
+          "text": "For either the BA. or B.S. degree, \"tudent'> \n",
+          "block_no": 29,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            261.6400146484375,
+            215.23501586914062,
+            433.88336181640625,
+            233.64500427246094
+          ],
+          "text": "1nU\\l <;elect one ol the follo\\\\ 1ng .irea\" of con* \nccntr.1t1on. \n",
+          "block_no": 30,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            271.3666076660156,
+            237.18502807617188,
+            406.5013122558594,
+            257.7649841308594
+          ],
+          "text": "l\u00abun1h ,l:o,tud1e\" Child Dcvclop1ncnt \nHun1,1n Nutrition Dietetic:. \n",
+          "block_no": 31,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            270.6328125,
+            260.94921875,
+            371.1265563964844,
+            269.6492004394531
+          ],
+          "text": "Gener.II Horne Fconon11c\\ \n",
+          "block_no": 32,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            271.2099914550781,
+            273.1850280761719,
+            440.53955078125,
+            293.8899841308594
+          ],
+          "text": "I lo1ne l:conon11c\" Educ.1t1on \nI lo1nc f-<L-onon11c:.. 111 Bu\" ne\"\" v. 1th ,in option \n",
+          "block_no": 33,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            279.8599853515625,
+            294.4350280761719,
+            425.6401062011719,
+            303.135009765625
+          ],
+          "text": "1n ont.. ol 1 he tollov. ng ( hild Develop \n",
+          "block_no": 34,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            280.3699951171875,
+            304.2538146972656,
+            426.09429931640625,
+            323.2850036621094
+          ],
+          "text": "rne1 t Uccui.il \\e \\rt..,, I ood .111d \nl::qutprnent, Textile<, ,ind C othing \n",
+          "block_no": 35,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            271.25,
+            326.5838317871094,
+            425.1172180175781,
+            335.5350036621094
+          ],
+          "text": "V.. hen field e\\pencnce i\" included 111 the \n",
+          "block_no": 36,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.0,
+            336.905029296875,
+            437.5550537109375,
+            345.6050109863281
+          ],
+          "text": "curnculu1n to complete requ1ren1ent\" for grJd \n",
+          "block_no": 37,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.79998779296875,
+            346.6250305175781,
+            436.4908142089844,
+            365.04498291015625
+          ],
+          "text": "uat on. \\ludcnh <,hould reg1\\ler for HEC 4'i 1 \nF 1cld \u00a3:.\\per ent..c. 1dcnt !\\tng t \\\\llh the .ire,1 \n",
+          "block_no": 38,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.3599853515625,
+            366.4350280761719,
+            322.11688232421875,
+            375.135009765625
+          ],
+          "text": "ol \\pec1,1 11,11!01 \n",
+          "block_no": 39,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            273.6000061035156,
+            376.8750305175781,
+            440.7178649902344,
+            385.57501220703125
+          ],
+          "text": "\\t ienc.in Dietetic A\"\"oc ,1t1on requ1ren1enh \n",
+          "block_no": 40,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.3699951171875,
+            386.2350158691406,
+            411.64337158203125,
+            394.93499755859375
+          ],
+          "text": "con:.01\\l ol \nhour.., o1 .1ppnJ\\cd cour:..c\" \n",
+          "block_no": 41,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.5299987792969,
+            396.3050231933594,
+            433.63677978515625,
+            415.0882873535156
+          ],
+          "text": "1ng to ,1n ntcrn,,,h1p. ,1:-,ct. cln11 of dep\u00b71nrnenL \nfor further 1nforintlllon \n",
+          "block_no": 42,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.2196044921875,
+            427.83782958984375,
+            430.16033935546875,
+            459.2138366699219
+          ],
+          "text": "Departmental Major Teaching Field \nRequirements \nBachelor of Arts m Education Degree \n",
+          "block_no": 43,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.760009765625,
+            462.9049987792969,
+            427.4860534667969,
+            471.60498046875
+          ],
+          "text": "Home Economic:-. \nCon'>l\\h al 36 \"crnc\\tcr \n",
+          "block_no": 44,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.3599853515625,
+            472.6228942871094,
+            424.94830322265625,
+            491.04498291015625
+          ],
+          "text": "hour\" of credll 111 ho1nc econo1n1c\" MaJor \ncour\\C\\ required arc: TX( 121: FON 141. \n",
+          "block_no": 45,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            263.5799865722656,
+            492.125,
+            427.0823669433594,
+            501.2250061035156
+          ],
+          "text": "142: C.Dl 212t: PGS 100: SOC 01, CDF \n",
+          "block_no": 46,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.3999938964844,
+            502.20501708984375,
+            430.8696594238281,
+            521.3099975585938
+          ],
+          "text": "117t. f AS 311t, J'7t. HLC 4<tt\u00b7 \n46lt. 4o0. 4olt. 5clccl 1\"0 Iron \n151. \n",
+          "block_no": 47,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.989990234375,
+            521.8700561523438,
+            310.2640380859375,
+            530.6700439453125
+          ],
+          "text": "DL 1-1 ,, 2. 1'\n",
+          "block_no": 48,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            309.8500061035156,
+            518.7049560546875,
+            430.39776611328125,
+            530.64501953125
+          ],
+          "text": "1 11 Genera Stud C\\ cour\\e\\ 1 c \n",
+          "block_no": 49,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.3500061035156,
+            532.0850219726562,
+            423.5506591796875,
+            541.18505859375
+          ],
+          "text": "quired. IJHI I '2, \n1>4. CllM ll or \n",
+          "block_no": 50,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            272.2799987792969,
+            542.10498046875,
+            436.220947265625,
+            550.8049926757812
+          ],
+          "text": "11-, ,1 1nathe1n<tllc\\ cour\\L \nn \\1nenc,1n h1\\ \n",
+          "block_no": 51,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            262.7799987792969,
+            551.8349609375,
+            400.29327392578125,
+            560.5349731445312
+          ],
+          "text": "torv LOUr\\C, dnd ! COUr\\L Ill \\riton, \n",
+          "block_no": 52,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            506.30999755859375,
+            53.6938591003418,
+            637.0651245117188,
+            62.493858337402344
+          ],
+          "text": "HISTORY; HOME ECONOMICS \n",
+          "block_no": 53,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            456.0299987792969,
+            123.07503509521484,
+            631.52783203125,
+            161.64503479003906
+          ],
+          "text": "Con<>titut1on and American national go\\ern \nment. Remtlin1ng credits to meet m.:iJor \nrequirements are :-.elected n con<;ultatton v. ith \nn1a or advl\\Or. \n",
+          "block_no": 54,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            456.4100036621094,
+            174.6538543701172,
+            635.248046875,
+            275.4150085449219
+          ],
+          "text": "Center for Family Studies \nThe Center for F1mily Studies is an educa \ntional, re<>edrch and <>ervice agency of the \nUn1vers1t) w1th1n the College of Liberal \\rh \nand .idn11ni,,,trathely related to the Depart \nment of Honie Econon1ic:-.. The Child \nDevelopment Laboratory 1s an integral ptirt of \nthe Center The purpo'>e of the Center j,,, to \ncoordinate Jnd develop acaden1 c .ind con11nu \nnil\\ progran1 .... \\\\htch \nthe \n",
+          "block_no": 55,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            456.74639892578125,
+            276.4350280761719,
+            627.2837524414062,
+            315.364990234375
+          ],
+          "text": "ol lan1ily lite fron1 Jn 1nterd \\Liplindr\\ point \no! viev. Polic1e\" and program\" of the Center \narc gu dcd b) an 1ntcrdepart1nental \nco1nn11ttce \n",
+          "block_no": 56,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            456.7699890136719,
+            323.4378356933594,
+            625.0850219726562,
+            365.04498291015625
+          ],
+          "text": "Departmental Graduate Programs \nThe Dcparttnent of Home Economic:-. offer:. \nprogrt.1111., lc,1d1ng to the degree of M,1,..,ter ol \nScience Can .... ult the Uraduat\u00a3 Catalog lor \n",
+          "block_no": 57,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            457.5481872558594,
+            366.06292724609375,
+            507.8446350097656,
+            374.7629089355469
+          ],
+          "text": "rcqu1remcnb \n",
+          "block_no": 58,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            503.5299987792969,
+            392.22088623046875,
+            591.7977294921875,
+            399.9208679199219
+          ],
+          "text": "CHILt' DEVELOPMENT \n",
+          "block_no": 59,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            457.42999267578125,
+            405.24090576171875,
+            633.5244140625,
+            443.6236877441406
+          ],
+          "text": "COE 232 Child Development. 3 F S \nOeve opment from concept on through later ch dhood \n8 gn f cance of fam1 y membersh p Recogn ton of nd \nvidua 1ty w th n the un versa pattern of human \ndeve opment Guided bserval!ons Prerequ s tes PGS \n",
+          "block_no": 60,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            458.3999938964844,
+            442.33502197265625,
+            502.1332092285156,
+            453.0350036621094
+          ],
+          "text": "100 soc 101 \n",
+          "block_no": 61,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            457.4800109863281,
+            454.5299377441406,
+            628.6285400390625,
+            493.9600524902344
+          ],
+          "text": "337 Nursery School Education I. 3 F S \nO scuss on and app cat on of methods for gu d ng \nyoung chi dren m act v ties re ated to earn ng exper \nences Obse vat on and part1c pat on n the Ch !d \nOeve opment Laboratory Prereq s te COE 232t Tw \n",
+          "block_no": 62,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            459.2900085449219,
+            494.70501708984375,
+            620.4024047851562,
+            501.8050231933594
+          ],
+          "text": "ectures 3 hou s aboratory May nclude fed tr ps \n",
+          "block_no": 63,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            457.510009765625,
+            504.5238037109375,
+            627.361328125,
+            527.4909057617188
+          ],
+          "text": "J38 Nursery School Education II. 4 5 F 8 \nExtens ve partrc pat on tn the Ch d Oeve opment Lab \nratory emphas \non prog am mplementah n and \n",
+          "block_no": 64,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            457.3900146484375,
+            528.7102661132812,
+            633.5856323242188,
+            551.4950561523438
+          ],
+          "text": "gu dance of the ch d s behav or Prerequ s le COE \n337t or equ va ent App cat on equ red pr rt regs \n!rat on One ecture 3 hours aboratory per cred I May \n",
+          "block_no": 65,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            459.2333068847656,
+            552.4708862304688,
+            512.8795166015625,
+            559.173583984375
+          ],
+          "text": "nc de held tr ps \n",
+          "block_no": 66,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            622.1300048828125,
+            569.89501953125,
+            636.9503173828125,
+            578.9950561523438
+          ],
+          "text": "101 \n",
+          "block_no": 67,
+          "block_type": 0
+        }
+      ]
+    }
+  ],
+  "3CT_01": [
+    {
+      "text_lines": [
+        {
+          "bbox": [
+            42.2599983215332,
+            13.340755462646484,
+            52.77946090698242,
+            21.14085578918457
+          ],
+          "text": "10 \n",
+          "block_no": 0,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            41.38199996948242,
+            52.464805603027344,
+            207.5540771484375,
+            130.8970184326172
+          ],
+          "text": "search, service and continuing educa-\ntion. The center develops and manages \ncommunity res8arch in th8 area of aging \nand serves 8 ', a resource center and \ninformation clearinghouse to assist \ncommunity agencies and organizations \nin planning and developing services for \nolder persons. \n",
+          "block_no": 1,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            41.900001525878906,
+            138.38375854492188,
+            207.99195861816406,
+            280.19482421875
+          ],
+          "text": "University Press of Kansas \nThe University Press is oper!'lted Jointly \nby six state Kansas univ81 sitics The \nUniversity of Kans.3.s, Kansas State Uni-\nversity, The Wichita State University, \nEmporia State University, Fort Hays \nState University and Pittsburg Stale Uni-\nversity. Founded July 1, 1967, it was the \nfirst university press in the United States \nto function on a statewide level under \nspecific sponsorship of all of the state's \nuniversities. Offices are located on the \ncampus of The University of Kansas in \nRoom 303, Carruth-O'Leary Hall. \n",
+          "block_no": 2,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            42.150001525878906,
+            287.92376708984375,
+            207.6476287841797,
+            389.99761962890625
+          ],
+          "text": "WSU Center for Energy Studies \nThe WSU Center for Energy Studies \nconducls energy research with particu-\nlar emphasis to Kan sas applications. \nCurrent areas of speciali zation are wind \nenergy, electric utility and conservation \nresearch. Research in the engineering \nand technical use of microcomputers is \nalso conducted. The center is directed \nby the College of Engineering. \n",
+          "block_no": 3,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            43.52000045776367,
+            406.3807373046875,
+            209.0769805908203,
+            489.93402099609375
+          ],
+          "text": "Special Facilities \nInstructional facilities on the 320-acre \nWichita State campus are used for edu-\ncational purposes more hours per day \nthan at any other Kansas college or uni-\nversity. Many of the University's special \nfacilities are described on the following \npages \n",
+          "block_no": 4,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            43.86360168457031,
+            497.6637878417969,
+            209.09971618652344,
+            609.8447875976562
+          ],
+          "text": "Ablah Library \nThrough a wide range of materials, ser-\nvices and facilities, Ablah Library sup-\nports WSU courses and research . Its \ngrowing collection of more than two mil-\nlion items includes not only books and \nperiodicals, but microforms, corporate \nannual reports, college catalogs, pho-\nnograph records and audio tapes. The \nlibrary also serves as a depository for \nselected official publications of \nthe \n",
+          "block_no": 5,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            44.16659927368164,
+            611.126220703125,
+            104.76935577392578,
+            619.7262573242188
+          ],
+          "text": "United States. \n",
+          "block_no": 6,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            53.44599914550781,
+            620.9989624023438,
+            206.37298583984375,
+            629.5989990234375
+          ],
+          "text": "The library has open stacks, and ref-\n",
+          "block_no": 7,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            44.252601623535156,
+            631.112548828125,
+            209.65493774414062,
+            729.2926025390625
+          ],
+          "text": "erence librarians help students and fac-\nulty locate information and use the on-\nline catalog and reference collection. \nThey also perform literature searches in \nthe numerous comput erized data bases \nto which the library has access. Materi-\nals not owned by th e library may be \nborrowed from other institutions through \ninterlibrary loan. The library also makes \navailable study carrels, electronic car-\n",
+          "block_no": 8,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            44.22060012817383,
+            730.8147583007812,
+            208.51011657714844,
+            739.414794921875
+          ],
+          "text": "rels containing listening and viewing \n",
+          "block_no": 9,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            223.91700744628906,
+            52.713401794433594,
+            388.3681945800781,
+            81.28837585449219
+          ],
+          "text": "equipment, group-study rooms, micro-\nform reading equipment, copy machines \nand typewriters. \n",
+          "block_no": 10,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            232.85240173339844,
+            82.56978607177734,
+            388.5230407714844,
+            91.16978454589844
+          ],
+          "text": "The Department of Special Collections \n",
+          "block_no": 11,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            224.1320037841797,
+            92.44258880615234,
+            388.6562805175781,
+            141.0076141357422
+          ],
+          "text": "houses a rapidly growing manuscript \ncollection of more than 700,000 pieces \nincluding papers of the abolitionist Wil-\nliarn Lloyd Garrison and many US. con-\ngressmen \nOther collections include \n",
+          "block_no": 12,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            224.16720581054688,
+            142.27182006835938,
+            388.6293640136719,
+            180.7375946044922
+          ],
+          "text": "origin?1 editorial cartoons by Pulitzer \nprize-winning cartoonists, publications \nof U.S radical organizations and maps \nand books. \n",
+          "block_no": 13,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            233.406005859375,
+            182.25979614257812,
+            388.5054016113281,
+            190.8597869873047
+          ],
+          "text": "A \nthree-year \nexpansion/renovation \n",
+          "block_no": 14,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            224.63800048828125,
+            192.12478637695312,
+            388.5964050292969,
+            230.82981872558594
+          ],
+          "text": "project of Ablah Library is scheduled to \nbe finished by 1988. When completed, \nthe library will have a new entrance and \nadditional space for its collections . \n",
+          "block_no": 15,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            224.35000610351562,
+            238.32376098632812,
+            389.00946044921875,
+            340.1590270996094
+          ],
+          "text": "Cable Television \nThe Wichita State University operates \nChannel 13 on Wichita's cable television \nsystem. WSU 13 broadcasts 136 hours \nper week of adult-oriented educational, \ncultural and informational programming. \nThis programming includes 10 to 15 \ntelevision courses per semester offered \nfor academic credit by the various col-\nleges at WSU \nChannel 13 also pro-\n",
+          "block_no": 16,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            224.88819885253906,
+            341.4276123046875,
+            389.8016662597656,
+            449.9598083496094
+          ],
+          "text": "duces programs featuring distinguished \nguest speakers, fine arts performances \nand other campus events. WSU 13 is \naffiliated with The Discovery Channel, \nBizNet , Spanish International Network \nand Campus Network, nationally deliv-\nered program services . In addition to \nfull-time staff, 15 students are involved in \nthe operation of the channel and the \nproduction of programs Facilities are \nlocated in the Media Resources Center. \n",
+          "block_no": 17,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            225.32000732421875,
+            457.69378662109375,
+            390.5245666503906,
+            529.9048461914062
+          ],
+          "text": "Campus Activities Center \nThe Campus Activities Center (student \nunion) is the community center for The \nWichita State University. Through its fa-\ncilities and services, the center serves \nstudents, faculty, staff, alumni and \nguests of the University. \n",
+          "block_no": 18,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            234.785400390625,
+            531.1748046875,
+            389.3756408691406,
+            539.7776489257812
+          ],
+          "text": "The CAC has several dining areas to \n",
+          "block_no": 19,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            225.5377960205078,
+            541.2847900390625,
+            390.3639221191406,
+            639.7247924804688
+          ],
+          "text": "provide a variety of atmospheres and \nmenus as well as a catering department \nto meet special needs; the University \nBookstore which stocks textbooks, sup-\nplies and gifts; a recreation center for \nleisure use that includes bowling, bil-\nlards and a hair-styling shop; a theater; \nand a variety of rooms that can be \nscheduled for meetings, special events \nand conferences . \n",
+          "block_no": 20,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            235.0469970703125,
+            641.0061645507812,
+            389.9109191894531,
+            649.606201171875
+          ],
+          "text": "The reservations office schedules the \n",
+          "block_no": 21,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            226.03419494628906,
+            650.8547973632812,
+            390.5111999511719,
+            739.1661987304688
+          ],
+          "text": "use of all facilities in the ceter as well as \nmost University facilities for out-of-class-\nroom use. Through the Student Activities \nCouncil, students are provided an op-\nportunity to learn and develop leader-\nship skills while planning a variety of \nprograms for the campus. The CAC is \nalso home for the Student Government \nAssociation, Student Ombudsman, Ecu-\n",
+          "block_no": 22,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            406.60321044921875,
+            52.704795837402344,
+            571.3660888671875,
+            81.28758239746094
+          ],
+          "text": "menical Christian Ministries and In-\nformed Sources, a student-run campus \ninformation center. \n",
+          "block_no": 23,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            415.6265869140625,
+            82.8048324584961,
+            570.9671630859375,
+            91.40977478027344
+          ],
+          "text": "The CAC is supported through student \n",
+          "block_no": 24,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            406.7301940917969,
+            92.6776351928711,
+            570.75830078125,
+            111.15037536621094
+          ],
+          "text": "fees and revenues generated from within \nthe operation. \n",
+          "block_no": 25,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            406.3999938964844,
+            118.8837661743164,
+            571.8932495117188,
+            250.81700134277344
+          ],
+          "text": "Computer Laboratory Facilities \nThe Department of Electrical Engineer-\ning within the College of Engineering has \na Hewlett-Packard 2108 minicomputer \nsystem for its laboratories. This is a \ndisc-based system with a real-time ex-\necutive software operating system ca-\npable of operating in a foreground-\nbackground mode with a 16-terminal \nmultiplexer. Every laboratory within the \ndepartment has at least 10 coaxial data \nlines connected to this minicomputer for \nterminals and/or data collection . \n",
+          "block_no": 26,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            416.12359619140625,
+            252.08480834960938,
+            571.8923950195312,
+            260.6898193359375
+          ],
+          "text": "The department also has an Apollo \n",
+          "block_no": 27,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.1686096191406,
+            261.9576110839844,
+            572.1073608398438,
+            300.4148254394531
+          ],
+          "text": "DN-320 Digital Workstation . This work \nstation has 1 .5M byte main memory with \na Winchester Disk Diskette system with \n70/12M bits memory \n",
+          "block_no": 28,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            416.3522033691406,
+            301.93701171875,
+            571.3811645507812,
+            310.5370178222656
+          ],
+          "text": "The department has several Zenith \n",
+          "block_no": 29,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.7005920410156,
+            311.80120849609375,
+            571.1756591796875,
+            320.4048156738281
+          ],
+          "text": "150 microcomputers and a terminal to \n",
+          "block_no": 30,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.1700134277344,
+            321.9148254394531,
+            572.2199096679688,
+            360.37841796875
+          ],
+          "text": "access the University mainframe com-\nputers. There are other microcomputers \nand terminals available in the College of \nEngineering computer laboratory. \n",
+          "block_no": 31,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.20001220703125,
+            367.873779296875,
+            572.3220825195312,
+            480.06182861328125
+          ],
+          "text": "Computing Center \nThe Computing Center serves students, \nfaculty and staff of the University by \nproviding contemporary computing ser-\nvices for instruction, res8ilrch and spon-\nsored programs, administrative data \nprocessing and public service. These \nservices include consultation, systems \nanalysis and deSign, programming, in-\nteractive time-sharing, batch computer \noperations, an \non-line administrative \n",
+          "block_no": 32,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.42340087890625,
+            481.5747985839844,
+            572.04833984375,
+            529.9089965820312
+          ],
+          "text": "data base and assistance to computer \nusers in their preparation of requests for \ncompetitive bids for the acquisition and \nselection of computer-related equip-\nment. \n",
+          "block_no": 33,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            416.36041259765625,
+            531.414794921875,
+            571.7786254882812,
+            540.0226440429688
+          ],
+          "text": "The central processing unit is an IBM \n",
+          "block_no": 34,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.1571960449219,
+            541.2847900390625,
+            571.6497192382812,
+            569.87841796875
+          ],
+          "text": "3081-0 with 16 million characters of \nmain storage and more than 26 billion \ncharacters of on-line disk storage. Mag-\n",
+          "block_no": 35,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.4200134277344,
+            571.144775390625,
+            572.335693359375,
+            649.6004028320312
+          ],
+          "text": "netic tape drives, line printers and an \noff-line digital plotter are available for \ngeneral use A network of more than 500 \nterminals provides interactive computing \nfor campus classrooms, laboratories \nand offices. These terminals may be \nused with the academic time-sharing \nsystem (CMS), \ninteractive computer \n",
+          "block_no": 36,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.6521911621094,
+            650.8731689453125,
+            571.9400024414062,
+            709.3062133789062
+          ],
+          "text": "graphics, computer-assisted instruction \nand the administrative terminal system \n(CICS) . Interactive terminal facilities for \nstudents and faculty are located in Ablah \nLibrary, the College of Business Admin-\nistration, the College of Engineering, the \n",
+          "block_no": 37,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            407.0899963378906,
+            711.0505981445312,
+            571.3029174804688,
+            739.4048461914062
+          ],
+          "text": "departments of chemistry, mathematics, \nphysics, geology and anthropology and \nin the Social Science Laboratory, where \n",
+          "block_no": 38,
+          "block_type": 0
+        }
+      ]
+    }
+  ],
+  "3CT_02": [
+    {
+      "text_lines": [
+        {
+          "bbox": [
+            13.606599807739258,
+            57.478267669677734,
+            176.58895874023438,
+            105.88230895996094
+          ],
+          "text": "tions ot international trade and investment. \nAft~r a stu~y of int~rnational trade, theory and \npolicy {the_ InternatIonal economy), it explores \nthe operations of the multinational firm within \nthat environment. Prerequisites: Econ. 2020 \nand junior standing. B 16 561 o 0513 \n",
+          "block_no": 0,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            13.550470352172852,
+            111.27345275878906,
+            176.73902893066406,
+            119.57344818115234
+          ],
+          "text": "663. Or(;Janizational \nInteractions. (3). A \n",
+          "block_no": 1,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            13.760370254516602,
+            119.57830810546875,
+            176.8981170654297,
+            151.80453491210938
+          ],
+          "text": "study of interpersonal intraorganizational and \ninterorganizational interactions. Prerequisites: \nMgmt. 360, or concurrent enrollment, and \njunior standing. B 16 663 0 0506 \n",
+          "block_no": 2,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            13.73037052154541,
+            157.53334045410156,
+            177.0259246826172,
+            165.83334350585938
+          ],
+          "text": "665. Organizational \nDevelopment. \n",
+          "block_no": 3,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            13.73037052154541,
+            165.469482421875,
+            177.25791931152344,
+            214.2946319580078
+          ],
+          "text": "(3). Planned organizational change. Empha-\nsis is upon team building in organizations. \nIndividual, group and structural develop-\nments are included. Prerequisites: Mgmt. 360 \nor concurrent enrollment, and junior standing. \nB 16 665 O 0506 \n",
+          "block_no": 4,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            13.910470008850098,
+            219.81336975097656,
+            176.74334716796875,
+            324.1148986816406
+          ],
+          "text": "667. Or9anizational Structure and Design. \n(3). An introduction and exploration of the \nt~eories pertinent to the study of organiza-\n~1onal su~syst~m structur~ and design. The \n1nterrelat1onsh1ps of organizational goals, de-\ncision making, environment, technology, cli-\nmate, innovation and organizational struc-\nture/design are analyzed utilizing a systems \napproach. Additional topics include formal \nversus informal structure, differentiation, inte-\ngration and matrix organizations. Prerequi-\nsite: junior standing and Mgmt. 360. B 16 667 \n0 0506 \n",
+          "block_no": 5,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            14.27047061920166,
+            329.97332763671875,
+            177.81231689453125,
+            410.4645080566406
+          ],
+          "text": "680. Decision Making. (3). Cross-listed as \nUA 730. A study of the theories of decision \nmaking, with attention directed to the factors \nof creativity, the quest for subjective certainty, \nrationality, cognitive inhibitors, problem iden-\ntification, evaluation of alternatives, applica-\ntions of quantitative methods to decision \nprocesses and decision implementation. Pre-\nrequisites: Mgmt. 360 or concurrent enroll-\nment, and junior standing. B 16 680 0 0506 \n",
+          "block_no": 6,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            14.460370063781738,
+            416.0133361816406,
+            177.9960174560547,
+            472.2583923339844
+          ],
+          "text": "~1. Administrative Polley. (3). An integra-\ntion of all aspects of business administration \nin the analysis of and making decisions for \npolicy development. Prerequisites: OS 350, \nFin. 340, Mkt. 300, Mgmt. 360, or departmen-\ntal consent, and junior standing. B 16 681 0 \n0506 \n",
+          "block_no": 7,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            14.63046932220459,
+            477.934326171875,
+            178.2575225830078,
+            684.1141967773438
+          ],
+          "text": "683. Comparative and International Man-\nagement. (3). The study of contemporary \nmanageme~t concepts and practices appli-\ncable to private and public sector organiza-\ntions in an international setting, and their im-\npact on operational and management \nfunctions of multi-national corporations. The \nstudent is introduced to the dynamic growth \nof business and government interaction on a \nglobal basis. The course includes an exami-\nnation of: nationalism and industrial develop-\nment, labor, and industrial relations; host \ncountry activities to promote or restrict inter-\nnational business; development of techno-\nlogical and managerial skills, and marketing \nexpertise. Prerequisites: Mgmt. 360, or con-\ncurrent enrollment and junior standing. B 16 \n683 0 0506 \n~- Health Administration Polley. (3). An \nintegration of all aspects of health adminis-\ntration in the analysis of and making decisions \nfor policy development. Prerequisites: a basic \ncourse in economics, accounting, finance \nand management or administration, and jun-\nior standing. B 16 684 0 0506 \n",
+          "block_no": 8,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            15.540369987487793,
+            689.7933349609375,
+            178.51910400390625,
+            713.8154907226562
+          ],
+          "text": "690. Seminar In Selected Topics. (1-\n5). Repeatable with departmental consent. \nPrerequisite: junior standing. B 16 690 9 0506 \n",
+          "block_no": 9,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            10.600370407104492,
+            719.493408203125,
+            176.44073486328125,
+            727.9845581054688
+          ],
+          "text": "\u00b7 750. Workshop in \nManagement. (1-\n",
+          "block_no": 10,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            15.750470161437988,
+            727.61962890625,
+            178.85194396972656,
+            743.885009765625
+          ],
+          "text": "4). Prerequisite: junior standing. B 16 750 2 \n0506 \n",
+          "block_no": 11,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            331.5804443359375,
+            20.168346405029297,
+            533.717041015625,
+            28.968347549438477
+          ],
+          "text": "COLLEGE OF BUSINESS ADMINISTRATION \n27 \n",
+          "block_no": 12,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            192.99037170410156,
+            59.63934326171875,
+            289.56768798828125,
+            77.86334228515625
+          ],
+          "text": "Courses for Graduate \nStudents Only \n",
+          "block_no": 13,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            193.0304718017578,
+            83.73335266113281,
+            356.7096862792969,
+            204.00448608398438
+          ],
+          "text": "830. Socio-Legal Environment of Busi-\nness. (3). An examination of the economic \npol_itical, s~cial and legal environment in \nwhich business operates. Consideration is \ngi~en to the philosophic foundation of capi-\ntalism and how business has interacted with \ngovernment, consumers and labor over time. \nEmphasis is placed on the role of business in \ndeali_ng with various societal problems. Cur-\nrent issues, such as the social responsibility \nof business, affirmative action, occupational \nsafety and health, environmental protection \nand the challenge to the legitimacy of the firm \nare dealt with from the perspective of the \ndecision-making manager. B 16 830 0 0506 \n",
+          "block_no": 14,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            193.75047302246094,
+            209.55335998535156,
+            357.0556335449219,
+            281.94451904296875
+          ],
+          "text": "836. International Business Administra-\ntion. (3). An introduction to international \nbusiness administration with particular atten-\ntion given to the development of multinational \nbusiness strategies in light of the diverse \neconomic, political, social and cultural di-\nmensions of the environments that exist in \nboth developed and developing areas of the \nworld. B 16 836 0 0513 \n",
+          "block_no": 15,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            194.2804718017578,
+            287.4934387207031,
+            357.99090576171875,
+            335.62908935546875
+          ],
+          "text": "860. Management of Organizations. \n(3). An introduction to management and or-\nganizational theory .. Includes such topics as: \nclassical and contemporary management \ntheory, human relations, group dynamics, \nmotivation, communication, \norganizational \n",
+          "block_no": 16,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            194.82977294921875,
+            335.74609375,
+            356.9862365722656,
+            351.7733459472656
+          ],
+          "text": "structure and design, and behavioral control. \nB 16 860 0 0506 \n",
+          "block_no": 17,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            194.65037536621094,
+            357.3333435058594,
+            358.173095703125,
+            429.7245178222656
+          ],
+          "text": "862. Organizational Behavior. (3). A study \nin individual behavior in an organizational \nsetting. Human variables in business are an-\nalyzed from the standpoint of job placement, \nperformance and individual development. \nTopics covered include behavioral develop-\nment, motivation and learning in human rela-\ntions. Prerequisite: Mgmt. 860 or departmen-\ntal consent. B 16 862 0 0506 \n",
+          "block_no": 18,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            195.1803741455078,
+            435.09332275390625,
+            358.8824768066406,
+            515.9444580078125
+          ],
+          "text": "865. Communication. (3). An analysis of \ncommunication models with emphasis on \ntheir applications to communication problems \nin organizations. Social-psychological proc-\nesses underlying persuasion in interpersonal \nrelations and through the mass media are \nexplored. Communication systems and tech-\nniques within formal organizations are ana-\nlyzed critically. Prerequisite: Mgmt. 860 or \ndepartmental consent. B 16 865 0 0506 \n",
+          "block_no": 19,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            194.8104705810547,
+            523.6533203125,
+            358.1651916503906,
+            579.8446044921875
+          ],
+          "text": "866. Organizational Conflict and Stress. \n(3). Studies in flexibility and rigidity. A review \nis made of research and thinking in the areas \nof innovation, conflict, resolution, stress and \nanxiety as relevant to organizational struc-\ntures and behaviors. Prerequisite: Mgmt. 860 \nor departmental consent. B 16 866 0 0506 \n",
+          "block_no": 20,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            194.82037353515625,
+            587.3733520507812,
+            357.950927734375,
+            651.5421142578125
+          ],
+          "text": "869. Research In Behavioral Science. \n(3). An analysis of some of the concepts and \ntools in behavioral science that are relevant to \nresearch in organizations. One or two areas \nsuch as motivation, cognitive processes, atti-\ntudes and values, etc., may be analyzed in \ndepth. Prerequisite: Mgmt. 862 or depart-\nmental consent. B 16 869 0 0506 \n",
+          "block_no": 21,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            195.1803741455078,
+            657.0333251953125,
+            358.4604187011719,
+            721.1962890625
+          ],
+          "text": "880. Analysis of Behavioral Systems. \n(3). Concentration on theoretical and metho-\ndological contributions to the understanding \nof behavioral systems. Models and research \nmethodology in individual behavior, small-\ngroup processes and organizations are criti-\ncally analyzed. Prerequisite: departm-ental \nconsent. B 16 880 0 0506 \n",
+          "block_no": 22,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            195.72047424316406,
+            726.8733520507812,
+            359.1089782714844,
+            743.2095336914062
+          ],
+          "text": "881. The Philosophy of Management. \n(3). Concentrated readings and research to \n",
+          "block_no": 23,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            372.8549499511719,
+            59.276180267333984,
+            533.8623657226562,
+            82.91838073730469
+          ],
+          "text": "define the relationship of management lead-\nership in our society. Prerequisite: depart-\nmental consent. B 16 881 0 0506 \n",
+          "block_no": 24,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            372.8304443359375,
+            88.59333801269531,
+            536.0870361328125,
+            121.22450256347656
+          ],
+          "text": "885. Business Policies. (3). An analysis of \nbusiness problem~ from the perspective of \ntop management. Prerequisite: departmental \nconsent. B 16 885 O 0506 \n",
+          "block_no": 25,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            373.0103454589844,
+            126.39332580566406,
+            536.4656982421875,
+            150.59849548339844
+          ],
+          "text": "886. Seminar In Re~arch Methodology. \n(3). A study of concepts and procedures in \nthe design and per.tormance of research. B \n",
+          "block_no": 26,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            373.7603454589844,
+            150.71826171875,
+            427.0608825683594,
+            158.5183563232422
+          ],
+          "text": "16 886 9 0501 \n",
+          "block_no": 27,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            373.3804626464844,
+            164.3733673095703,
+            536.3712158203125,
+            187.85838317871094
+          ],
+          "text": "890. Seminar in Special Topics. (1-\n3). Repeatable with departmental consent. B \n16 890 9 0506 \n. \n",
+          "block_no": 28,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            373.7504577636719,
+            194.2533721923828,
+            536.8934326171875,
+            210.35838317871094
+          ],
+          "text": "891. Directed\u00b7 Studies. (1\u00b75). Prerequisite: \ndepartmental consent. B 16 891. 3 0506 \n",
+          "block_no": 29,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            373.93035888671875,
+            216.03334045410156,
+            536.5716552734375,
+            264.0443420410156
+          ],
+          "text": "893. Special Project in Management. (1-\n4). A special project including original case \nresearch, supervised internships or field re-\nsearch. Pr.erequisite: approval of the MS \nCommittee. Open only to MS in administration \ncandidates. B 16 893 3 0506 \n",
+          "block_no": 30,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.29034423828125,
+            269.67333984375,
+            537.092529296875,
+            278.1645202636719
+          ],
+          "text": "895-896. Thesis. (2-2). B 16 895 4 0501 ; B \n",
+          "block_no": 31,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.8439636230469,
+            278.15478515625,
+            429.7475280761719,
+            285.95489501953125
+          ],
+          "text": "16 896 4 0506 \n",
+          "block_no": 32,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.6904602050781,
+            329.8992919921875,
+            423.4128723144531,
+            340.3992919921875
+          ],
+          "text": "Marketing \n",
+          "block_no": 33,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.9099426269531,
+            352.3193359375,
+            537.2798461914062,
+            370.90032958984375
+          ],
+          "text": "Department of Marketing and Small \nBusiness \n",
+          "block_no": 34,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.79095458984375,
+            383.2763366699219,
+            511.5562438964844,
+            401.6788330078125
+          ],
+          "text": "Courses for \nGraduate/Undergraduate Credit \n",
+          "block_no": 35,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.6304626464844,
+            407.1933288574219,
+            538.158935546875,
+            455.4645080566406
+          ],
+          "text": "601. International Marketing. (3). Problems \nand procedures of marketing in foreign \ncountries. The effects of foreign cultures and \nmarketing systems on the design of market-\ning programs are included. Prerequisites: \nMkt. 300 and junior standing. B 17 601 0 0509 \n",
+          "block_no": 36,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            374.8203430175781,
+            461.0133361816406,
+            538.0059814453125,
+            541.5045166015625
+          ],
+          "text": "604. Distribution Management. (3). A study \nof all areas involved with the distribution of a \nfirm's products or services. These areas \nfocus on such issues as the d~velopment of a \nfirm's marketing channels \u00b7 and its relation-\nships with wholesalers and retailers, as well \nas the management of the firm's storage fa-\ncilities, inventory control, procedures and \nshipping facilities .. Prerequisites: Mkt. 300 \n~nd junior standing. B 17 604 O 0509 \n",
+          "block_no": 37,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            375.17047119140625,
+            542.8844604492188,
+            538.4296875,
+            618.7691040039062
+          ],
+          "text": "606. Product and Price Policies. (3). An \nexamination of the issues involved with prod-\nuct development, planning of product ser-\nvices, branding and packaging. P'rice pol1-\nc ies focus on such aspects as the \nestablishment of a firm's basic price strate-\ngies, price alternations, credit policies and \ntransport and handling terms. Prerequisites: \nMkt. 300 and junior standing. B 17 606 0 0509 \n",
+          "block_no": 38,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            375.3604431152344,
+            624.4533081054688,
+            538.716064453125,
+            704.0917358398438
+          ],
+          "text": "607. Promotion Management. (3). An anal-\nysis of all issues involved with the promotion \nof an organization and . its products or ser-\nvices. These promotion issues deal with the \ndevelopment of advertising campaigns, \nmanagement of the personal sales force, de-\nvelopment of special promotional activities \nand management of public relations. Prereq-\nuisites: Mkt. 300 and junior standing. B 17 607 \n0 0509 \n. \u00b7 \n",
+          "block_no": 39,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            375.53045654296875,
+            710.3133544921875,
+            538.2073974609375,
+            742.62841796875
+          ],
+          "text": "608. Selling and Sales Force Management. \n(3). An analysis of current behavioral con-\ncepts of personal selling and the problems \nand policies involved in managing a sales \n",
+          "block_no": 40,
+          "block_type": 0
+        }
+      ]
+    }
+  ],
+  "2CD_01": [
+    {
+      "text_lines": [
+        {
+          "bbox": [
+            0.0,
+            61.7899169921875,
+            41.90399932861328,
+            72.6400146484375
+          ],
+          "text": "deration for y  \n",
+          "block_no": 0,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            74.73992919921875,
+            41.35953140258789,
+            85.59002685546875
+          ],
+          "text": "\u00b0\u00b01 counselors at\n",
+          "block_no": 1,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            96.08990478515625,
+            41.909400939941406,
+            106.94000244140625
+          ],
+          "text": ",General Militan \n",
+          "block_no": 2,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            3.0999999046325684,
+            106.638916015625,
+            41.90440368652344,
+            117.489013671875
+          ],
+          "text": "is offered. This \n",
+          "block_no": 3,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            117.93792724609375,
+            41.89860153198242,
+            128.78802490234375
+          ],
+          "text": "\u201c 35 others wh \n",
+          "block_no": 4,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            2.6500000953674316,
+            128.7369384765625,
+            41.89719772338867,
+            139.5870361328125
+          ],
+          "text": "t0 compete fa \n",
+          "block_no": 5,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            140.2369384765625,
+            42.15239715576172,
+            160.68701171875
+          ],
+          "text": "g application for \nemaining in ft, \n",
+          "block_no": 6,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.5,
+            161.5869140625,
+            41.65879821777344,
+            172.43701171875
+          ],
+          "text": "erospace Studies \n",
+          "block_no": 7,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            172.1859130859375,
+            41.65019607543945,
+            183.0360107421875
+          ],
+          "text": "\u201cJanuary period \n",
+          "block_no": 8,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            182.98593139648438,
+            41.898597717285156,
+            193.83602905273438
+          ],
+          "text": "i a flying career \n",
+          "block_no": 9,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            193.78591918945312,
+            41.088768005371094,
+            204.63601684570312
+          ],
+          "text": "\u00ae n a l fields an\n",
+          "block_no": 10,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            1.899899959564209,
+            215.83493041992188,
+            41.90309524536133,
+            226.68502807617188
+          ],
+          "text": "the Professional \n",
+          "block_no": 11,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            226.88491821289062,
+            41.644798278808594,
+            237.73501586914062
+          ],
+          "text": "s, includes Aero \n",
+          "block_no": 12,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            237.68392944335938,
+            41.65559768676758,
+            248.53402709960938
+          ],
+          "text": "f)- These coursa \n",
+          "block_no": 13,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            248.23391723632812,
+            41.63939666748047,
+            259.0840148925781
+          ],
+          "text": "' security of tin \n",
+          "block_no": 14,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            259.2829284667969,
+            41.736602783203125,
+            270.1330261230469
+          ],
+          "text": "it military force \n",
+          "block_no": 15,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            270.3319091796875,
+            41.445003509521484,
+            281.1820068359375
+          ],
+          "text": "inces. Aerospace \n",
+          "block_no": 16,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            281.1319274902344,
+            41.655601501464844,
+            291.9820251464844
+          ],
+          "text": "r Force base for \n",
+          "block_no": 17,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            292.180908203125,
+            41.298274993896484,
+            303.031005859375
+          ],
+          "text": "y Course and is\n",
+          "block_no": 18,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            313.9809265136719,
+            41.709598541259766,
+            335.1800231933594
+          ],
+          "text": "nd Development \nortunity to lean \n",
+          "block_no": 19,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            335.3799133300781,
+            41.45039749145508,
+            346.2300109863281
+          ],
+          "text": "zation and func- \n",
+          "block_no": 20,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            346.429931640625,
+            41.43419647216797,
+            357.280029296875
+          ],
+          "text": "tification for es- \n",
+          "block_no": 21,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            357.6789245605469,
+            41.45359420776367,
+            378.8290100097656
+          ],
+          "text": "1A-141B-141C! \ny duty, manage \n",
+          "block_no": 22,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            378.7779235839844,
+            41.47739791870117,
+            389.6280212402344
+          ],
+          "text": "Beer, leadershif \n",
+          "block_no": 23,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            389.8279113769531,
+            40.49374008178711,
+            400.6780090332031
+          ],
+          "text": "and functions d\n",
+          "block_no": 24,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            411.6769104003906,
+            41.44499969482422,
+            422.5270080566406
+          ],
+          "text": "ur-year program \n",
+          "block_no": 25,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            422.7269287109375,
+            41.19660568237305,
+            433.5770263671875
+          ],
+          "text": "ding the student \n",
+          "block_no": 26,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.6999899744987488,
+            433.5259094238281,
+            41.18918228149414,
+            444.3760070800781
+          ],
+          "text": "fees and a bool \n",
+          "block_no": 27,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            444.7759094238281,
+            41.191200256347656,
+            465.97601318359375
+          ],
+          "text": "pients.\nce officer will be \n",
+          "block_no": 28,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            466.1759033203125,
+            41.20199966430664,
+            477.0260009765625
+          ],
+          "text": "Federal Aviation \n",
+          "block_no": 29,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            476.97491455078125,
+            36.85499954223633,
+            487.82501220703125
+          ],
+          "text": ")TC program, \n",
+          "block_no": 30,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            487.97491455078125,
+            40.94818878173828,
+            498.82501220703125
+          ],
+          "text": "e and interest in \n",
+          "block_no": 31,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            498.77392578125,
+            40.94280242919922,
+            509.6240234375
+          ],
+          "text": "1, and is subject \n",
+          "block_no": 32,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            509.57293701171875,
+            40.69440460205078,
+            520.4230346679688
+          ],
+          "text": "ovides uniforms, \n",
+          "block_no": 33,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            520.3719482421875,
+            40.94279479980469,
+            531.2220458984375
+          ],
+          "text": "ie program. For \n",
+          "block_no": 34,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            531.1708984375,
+            40.699798583984375,
+            542.02099609375
+          ],
+          "text": "nent procedures \n",
+          "block_no": 35,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            542.470947265625,
+            39.193206787109375,
+            553.321044921875
+          ],
+          "text": "ber school, etc,\n",
+          "block_no": 36,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            585.8599853515625,
+            40.709999084472656,
+            595.137451171875
+          ],
+          "text": "1 Cowse, AerofU \n",
+          "block_no": 37,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.0,
+            593.3099975585938,
+            40.59000015258789,
+            602.5874633789062
+          ],
+          "text": "A tie General Ml \n",
+          "block_no": 38,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            2.0537500381469727,
+            601.4598999023438,
+            34.58277893066406,
+            610.7373657226562
+          ],
+          "text": "military service.\n",
+          "block_no": 39,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            0.08072499930858612,
+            609.3599243164062,
+            40.2301025390625,
+            618.6373901367188
+          ],
+          "text": "; AFROTC Staff (S\u00bb)\n",
+          "block_no": 40,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            175.9001007080078,
+            34.91815185546875,
+            425.53662109375,
+            46.37103271484375
+          ],
+          "text": "AEROSPACE STUDIES; AGRICULTURAL CH EM ISTRY \n/ \n141\n",
+          "block_no": 41,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            70.34210205078125,
+            53.99787902832031,
+            208.19309997558594,
+            62.65687942504883
+          ],
+          "text": "Upper Division (Professional Officer Course)\n",
+          "block_no": 42,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            55.890098571777344,
+            66.573974609375,
+            215.39466857910156,
+            75.721923828125
+          ],
+          "text": "13 1A-13 1B -13 1C . Growth and Development of \n",
+          "block_no": 43,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            71.73909759521484,
+            77.37298583984375,
+            159.147705078125,
+            86.52093505859375
+          ],
+          "text": "Aerospace Power. (3-3-3)\n",
+          "block_no": 44,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            63.08919906616211,
+            87.6253662109375,
+            235.03024291992188,
+            96.0643310546875
+          ],
+          "text": "Two l^-hour lecture and seminar meetings and \n",
+          "block_no": 45,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            54.93920135498047,
+            95.275390625,
+            234.66419982910156,
+            103.71435546875
+          ],
+          "text": "one 1-hour laboratory per week. Prere quisite: course \n",
+          "block_no": 46,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            55.330467224121094,
+            102.97540283203125,
+            235.0352325439453,
+            111.41436767578125
+          ],
+          "text": "1A\u2014B \u2014C  a nd 2 1 A \u2014B\u2014C  or e quiva le nt. Development \n",
+          "block_no": 47,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            54.489200592041016,
+            110.4254150390625,
+            235.02626037597656,
+            202.61386108398438
+          ],
+          "text": "and employment of airpower with emphasis on the \nproblems of growth to its present stature as a prime \nsecurity element of the armed forces; underlying and \nimmediate causes of war, the nature of present war-\nfare, and the principles of war to form a basis for \nunderstanding the organization, technological efforts, \ndoctrine, and employment of modem military forces; \nspace operations, including importance and develop-\nment of the U.S. space program, vehicles, propulsion \nand power sources, guidance and control systems, \nproblems in space exploration, and operations in \nspace. \nThe Staff, 131, (F ); 131B (W ); 131C.(Sp)\n",
+          "block_no": 48,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            55.889198303222656,
+            208.67236328125,
+            204.83526611328125,
+            217.8203125
+          ],
+          "text": "132. Officer Advanced Military Training. (3)\n",
+          "block_no": 49,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            62.889198303222656,
+            219.12490844726562,
+            234.54319763183594,
+            227.56387329101562
+          ],
+          "text": "Four weeks advanced officer training conducted \n",
+          "block_no": 50,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            54.68920135498047,
+            226.57489013671875,
+            235.04917907714844,
+            250.1136474609375
+          ],
+          "text": "at an active Air Force base for four-year program \nadvanced cadets. Normally attended between junior \nand senior years. \nAFROTC Staff (Su)\n",
+          "block_no": 51,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            247.43919372558594,
+            54.13214111328125,
+            425.4927978515625,
+            63.28009033203125
+          ],
+          "text": "141 A\u201414 1B\u201414 1C. The Professional Officer. (3-3-3)\n",
+          "block_no": 52,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            254.64077758789062,
+            65.03460693359375,
+            427.4722595214844,
+            73.47357177734375
+          ],
+          "text": "Prere quisite: course 1 3 1 A \u2014B \u2014C . Leadership theory \n",
+          "block_no": 53,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            247.18919372558594,
+            73.234619140625,
+            427.124267578125,
+            81.673583984375
+          ],
+          "text": "and techniques, individual and group behavior, \n",
+          "block_no": 54,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            246.48919677734375,
+            81.134521484375,
+            427.4992370605469,
+            129.87335205078125
+          ],
+          "text": "problems in human relations, authority, responsi-\nbility and functions of junior officers and Air Force \ncommunications channels; problem solving, manage-\nment principles and functions, and management \ntools, practices and controls; meaning of profession-\nalism, \nprofessional \nresponsibilities,' the \nmilitary \n",
+          "block_no": 55,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            246.68919372558594,
+            129.63427734375,
+            427.47119140625,
+            145.9732666015625
+          ],
+          "text": "justice system, and preparation for commissioned \nservice.\n",
+          "block_no": 56,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            270.48919677734375,
+            145.23431396484375,
+            425.7423400878906,
+            153.67327880859375
+          ],
+          "text": "Mr. Edwards, 141A (F); 141B (W); 141C (Sp)\n",
+          "block_no": 57,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            247.68919372558594,
+            164.28076171875,
+            362.26275634765625,
+            173.4287109375
+          ],
+          "text": "142. Light Aircraft Operations. (3)\n",
+          "block_no": 58,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            254.6392059326172,
+            175.2332763671875,
+            426.2571105957031,
+            183.6722412109375
+          ],
+          "text": "Prerequisite: \ndesignation \nby \nCom m a nd a nt,\n",
+          "block_no": 59,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            245.8414764404297,
+            183.13320922851562,
+            427.4822692871094,
+            239.82174682617188
+          ],
+          "text": "A F R O T C , or a pprova l b y instructor. Three 1-hour \nlecture and one 1-hour laboratory per week. Prepara-\ntion for qualification as Federally-licensed Private \nPilot. Studies cover Federal Aviation Regulations, \nbasic meteorology for pilots, navigation by dead \nreckoning and pilotage, radio and radio navigation, \nelementary aerodynamics and aircraft structures.\n",
+          "block_no": 60,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            380.37921142578125,
+            239.28268432617188,
+            424.95526123046875,
+            247.72164916992188
+          ],
+          "text": "The Staff (F )\n",
+          "block_no": 61,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            55.18920135498047,
+            280.05718994140625,
+            194.72064208984375,
+            292.25445556640625
+          ],
+          "text": "0  AGRICULTURAL CHEMISTRY\n",
+          "block_no": 62,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            104.88819885253906,
+            296.5233459472656,
+            298.7079772949219,
+            307.9762268066406
+          ],
+          "text": "Administered by an Interdepartmental Group\n",
+          "block_no": 63,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            55.438201904296875,
+            314.2733459472656,
+            243.0846405029297,
+            325.7262268066406
+          ],
+          "text": "David L. Brink, Ph.D., Professor of Forestry.\n",
+          "block_no": 64,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            50.38819885253906,
+            326.0233459472656,
+            278.5956726074219,
+            337.4762268066406
+          ],
+          "text": "I Harold T. Gordon, Ph.D., Lecturer in Entomology.\n",
+          "block_no": 65,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.28820037841797,
+            339.47235107421875,
+            424.9532165527344,
+            350.92523193359375
+          ],
+          "text": "Graduate Advisers: Mr. Brink, 145 Mulford Hall; Mr. Gordon, 110 Agriculture Hall.\n",
+          "block_no": 66,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.78820037841797,
+            361.0723571777344,
+            425.5507507324219,
+            372.5252380371094
+          ],
+          "text": "Work in agricultural chemistry is available only at the graduate level. It is de-\n",
+          "block_no": 67,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            54.688201904296875,
+            372.3223571777344,
+            427.40478515625,
+            406.3752136230469
+          ],
+          "text": "sirable that students have the equivalent of the bachelor\u2019s degree in chemistry from \nthe University of California. Minor deficiencies may be removed by taking suitable \ncourses after admission.\n",
+          "block_no": 68,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            65.28820037841797,
+            406.1723327636719,
+            426.6587829589844,
+            417.6252136230469
+          ],
+          "text": "Study leading to the Ph.D. degree is offered by an interdepartmental group of \n",
+          "block_no": 69,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            53.98820114135742,
+            417.4713439941406,
+            427.6453857421875,
+            518.6242065429688
+          ],
+          "text": "agricultural chemists who are engaged in research. This field is open to students \ninterested in the application of chemistry to agricultural problems. Courses may be \ntaken in various departments in the College of Agricultural Sciences, the Department \nof Biochemistry in the College of Letters and Science, the College of Chemistry, and \nthe School of Forestry and Conservation. Graduate research is directed by a member \nof the group whose activities most closely coincide with the interests of the student. \nThe following special fields are represented: insecticide chemistry and insect bio-\nchemistry in the Department of Entomology and Parasitology; soil chemistry and \nplant nutrition in the Department of Soils and Plant Nutrition; wood chemistry in the\n",
+          "block_no": 70,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            51.08829879760742,
+            518.5213623046875,
+            424.8372802734375,
+            529.9742431640625
+          ],
+          "text": "\u25a0 School of Forestry and Conservation; food chemistry and animal nutrition in the De-\n",
+          "block_no": 71,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            53.98820114135742,
+            529.5213623046875,
+            426.9201965332031,
+            574.5732421875
+          ],
+          "text": "partment of Nutritional Sciences. In addition to his major field of specialization, each \npredoctoral student must take such courses in chemistry, biochemistry, and allied \nsciences as may be necessary to enable him to pass a qualifying examination in agri-\ncultural chemistry. For further details, consult the adviser.\n",
+          "block_no": 72,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            68.92320251464844,
+            582.2500610351562,
+            118.5497055053711,
+            590.9090576171875
+          ],
+          "text": "Graduate Course\n",
+          "block_no": 73,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            50.63819885253906,
+            596.7251586914062,
+            214.6517333984375,
+            605.8731079101562
+          ],
+          "text": "- 299. Research in Agricultural Chemistry. (1-12)\n",
+          "block_no": 74,
+          "block_type": 0
+        },
+        {
+          "bbox": [
+            64.08719635009766,
+            607.6776123046875,
+            285.96624755859375,
+            616.1165771484375
+          ],
+          "text": "Agricultural Chemistry Group (Mr. Brink in charge) (Su, F, W , Sp)\n",
+          "block_no": 75,
+          "block_type": 0
+        }
+      ]
+    }
+  ]
+}

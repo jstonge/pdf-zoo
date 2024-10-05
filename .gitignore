@@ -1,4 +1,11 @@
 .DS_Store
-/dist/
+dist/
+src/.observablehq/cache/
 node_modules/
 yarn-error.log
+kosmos25.pt
+.venv/
+src/results/mineru/courses/ocr/
+src/wrangle.py
+PDF-Extract-Kit/
+src/results/textra/
