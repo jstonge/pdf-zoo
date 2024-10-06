@@ -7,7 +7,7 @@ DATA_DIR=./src/data
 COURSES_DIR=$(DATA_DIR)/courses
 FACULTY_DIR=$(DATA_DIR)/faculties
 
-SRC_DIR=./src
+PYTHON_DIR=./python
 
 RESULTS_DIR=./src/results
 
@@ -27,10 +27,14 @@ convert-course-dir-pdf-to-png:
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
 
-convert-mineru-pdf-to-png:
-	for file in $(MINERU_RES)/*.pdf; do \
+convert-faculties-dir-pdf-to-png:
+	for file in $(FACULTY_DIR)/*.pdf; do \
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
+	mv $(FACULTY_DIR)/*.png src/assets/
+	cd src/assets && rename 's/-1//' *
+
+
 
 #########################
 #
@@ -40,7 +44,7 @@ convert-mineru-pdf-to-png:
 
 pymupdf-ocr:
 	mkdir -p $(PYMUPDF_RES)/courses/text-extraction
-	python $(SRC_DIR)/pymupdf_ocr.py $(COURSES_DIR) $(PYMUPDF_RES)/courses/text-extraction
+	python $(PYTHON_DIR)/pymupdf_ocr.py $(COURSES_DIR) $(PYMUPDF_RES)/courses/text-extraction
 
 #########################
 #
@@ -54,9 +58,15 @@ mineru-ocr:
 	mkdir -p $(MINERU_RES)/courses/reading-order
 	for dir in $(MINERU_RES)/courses/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/courses/reading-order; done;
 
-#!TODO: this doesn;t work
-# mineru-reading-order:
-# 	for file in $(MINERU_RES)/courses/reading-order/*.pdf; do \
+mineru-ocr-faculties:
+	mkdir -p $(MINERU_RES)/faculties/ocr
+	magic-pdf -p $(FACULTY_DIR) -o $(MINERU_RES)/faculties/ocr -m auto
+	mkdir -p $(MINERU_RES)/faculties/reading-order
+	for dir in $(MINERU_RES)/faculties/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/faculties/reading-order; done;
+
+#!TODO: this doesn;t work, need to fix
+# convert-mineru-reading-order:
+# 	for file in $(MINERU_RES)/faculties/reading-order/*.pdf; do \
 # 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 # 	done
 # 	rm *pdf  
@@ -111,4 +121,4 @@ textra-ocr-p:
 
 # https://github.com/microsoft/unilm/tree/master/kosmos-2.5
 kosmo:
-	python $(SRC_DIR)/kosmo.py $(COURSES_DIR) $(RESULTS_DIR)
+	python $(PYTHON_DIR)/kosmo.py $(COURSES_DIR) $(RESULTS_DIR)

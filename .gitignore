@@ -1,12 +1,23 @@
 .DS_Store
 dist/
 src/.observablehq/cache/
+src/.observablehq/deploy.json
 node_modules/
 yarn-error.log
-kosmos25.pt
 .venv/
-src/results/mineru/courses/ocr/
-src/wrangle.py
+
+# models
 PDF-Extract-Kit/
+kosmos25.pt
+
+src/results/mineru/courses/ocr/
+!src/results/mineru/courses/ocr/results
+
+src/results/mineru/faculties/ocr/
+!src/results/mineru/faculties/ocr/results
+
+# still dirty
+src/wrangle.py
+
+# need to finish it first
 src/results/textra/
-src/.observablehq/deploy.json

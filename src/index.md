@@ -5,7 +5,7 @@ sql:
 ---
 
 
-# Software for text extraction from PDFs leaderboard
+# Softwares for text extraction from PDFs leaderboard
 
 <div class="warning">This is a prototype. Right now, the text on the right doesn't not follow the reading order shown in the left. I still need to do that. I still need to also add an option to add a contender, so that we can compare two different softwars on the same PDF.</div>
 
@@ -15,14 +15,15 @@ sql:
 const select_type = view(Inputs.select(['courses', 'faculties'], {value: 'courses', label: "document type" }))
 ```
 
+```sql id=[...raw_db]
+SELECT * FROM results WHERE doc_type = ${select_type}
+```
+
 ```js
 // Select software tool
 const select_libname = view(Inputs.select(['surya', 'pymupdf', 'mineru'], {label: "libname", value: "surya" }))
 ```
 
-```sql id=[...raw_db]
-SELECT * FROM results
-```
 
 ```js
 const all_fnames = new Set(raw_db.map(d=>d.fname))
@@ -39,35 +40,10 @@ WHERE fname = ${select_fname} AND libname = ${select_libname} AND doc_type = ${s
 ```
 
 ```js
-// Conditional on the library, different configs will be possible.
-// config name should correspond to path, aka OCR / CONFIGS / DOCUMENT_TYPE / *
-const config_surya = ['reading-order', 'layout']
-const config_kosmo = []
-const config_pymupdf = []
-const config_mineru = ['reading-order']
+// CONFIG == different modes of the software. Maybe there is a better name.
+// see below for more.
+const select_config = view(Inputs.select(config, {value: 'reading-order', label: "config"}));
 ```
-```js
-let config;
-
-if (select_libname === 'surya') {
-  config = config_surya;
-} else if (select_libname === 'kosmo') {
-  config = config_kosmo;
-} else if (select_libname === 'pymupdf') {
-  config = config_pymupdf;
-} else if (select_libname === 'mineru') {
-  config = config_mineru;
-} else {
-  config = []; // default config if no match
-}
-
-```
-```js
-const select_config = view(
-  Inputs.select(config, {value: 'reading-order', label: "config"})
-);
-```
-
 
 <div class="grid grid-cols-2">
   <div>${
@@ -88,22 +64,13 @@ const select_config = view(
 </div>
 
 ```js
-`https://raw.githubusercontent.com/jstonge/pdf-zoo/main/src/results/${select_libname}/${select_type}/${select_config}/${select_fname}.png`
-```
-
-```js
-const link_fstring = `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/src/results/${select_libname}/${select_type}/${select_config}/${select_fname}.png`
-
-
 const pngdata = [
   {
-    link: `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/src/results/${select_libname}/${select_type}/${select_config}/${select_fname}.png`
+    link: select_config === null ? 
+      `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/src/assets/${select_fname}.png` : 
+      `https://raw.githubusercontent.com/jstonge/pdf-zoo/main/src/results/${select_libname}/${select_type}/${select_config}/${select_fname}.png`
   }
 ]
-```
-
-```js
-const nb_lines = filtered_data.map(d=>d.text).length
 ```
 
 
@@ -125,4 +92,30 @@ For instance
 ```
 1CHN_01.pdf # 1 column-layout, with some hand-annotations, and with some noise (here pixelated).
 0CAT_01.pdf # Table-of-content style, that is tilted and yellowish 
+```
+
+```js
+// Conditional on the library, different configs will be possible.
+// config name should correspond to path, aka OCR / CONFIGS / DOCUMENT_TYPE / *
+const config_surya = ['reading-order', 'layout']
+const config_kosmo = []
+const config_pymupdf = []
+const config_mineru = ['reading-order']
+```
+
+```js
+let config;
+
+if (select_libname === 'surya') {
+  config = config_surya;
+} else if (select_libname === 'kosmo') {
+  config = config_kosmo;
+} else if (select_libname === 'pymupdf') {
+  config = config_pymupdf;
+} else if (select_libname === 'mineru') {
+  config = config_mineru;
+} else {
+  config = []; // default config if no match
+}
+
 ```
