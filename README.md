@@ -210,6 +210,29 @@ live: https://molmo.allenai.org/
 }
 ```
 
+## Adding more PDF types
+
+First, you need to make sure to have `poppler` install to convert pdf to pngs. See [here](https://github.com/UB-Mannheim/zotero-ocr/wiki/Install-pdftoppm) for instructions. Each OCR tool might have more or less involved dependencies as well. See the section of the tool for the dependencies. Now, say we want to add new pdfs for `policies`. It takes the form of adding the relevant step to the `Makefile`.
+
+ - Add the PDFs in a new dir called `src/data/policies`
+ - Convert PDF to PNGs in Make
+```
+convert-policies-dir-pdf-to-png:
+	for file in $(POLICIES_DIR)/*.pdf; do \
+		pdftoppm "$$file" "$${file%.pdf}" -png; \
+	done
+```
+ - Use the different softwares to extract text data, e.g. minerU (making sure you did `conda activate MinerU` beforehand):
+```
+mineru-ocr-policies:
+	mkdir -p $(MINERU_RES)/policies/ocr
+	magic-pdf -p $(POLICIES_DIR) -o $(MINERU_RES)/policies/ocr -m auto
+	mkdir -p $(MINERU_RES)/policies/reading-order
+	for dir in $(MINERU_RES)/policies/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/policies/reading-order; done;
+```
+ - When adding documents to `reading-order/`, we must make sure to provide PNGs. Then they must be pushed to the github.
+ - Finally, we wrangle the data in `wrangle.py` if the output from previous step is not formatted properly. The data app is expecting a single `results.json` in OCR following the aforementionned format.
+
 
 ## Changelog
 

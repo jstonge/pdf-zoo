@@ -1,0 +1,2000 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        51,
+                        527,
+                        132
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                52,
+                                525,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        54,
+                                        107,
+                                        62
+                                    ],
+                                    "score": 0.8,
+                                    "content": "6.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        52,
+                                        525,
+                                        64
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Method of Payment. In consideration for providing the services required by the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                64,
+                                525,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        65,
+                                        477,
+                                        77
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Agreement, the Department shall be paid on a flat fee basis of fifty dollars",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        478,
+                                        64,
+                                        506,
+                                        77
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\{\\mathfrak{H}\\,50\\}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        507,
+                                        65,
+                                        525,
+                                        77
+                                    ],
+                                    "score": 0.66,
+                                    "content": "pe1",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                78,
+                                527,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        78,
+                                        527,
+                                        92
+                                    ],
+                                    "score": 0.97,
+                                    "content": "reporred compliance check.  The flat fee payment for each compliance check",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                92,
+                                526,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        92,
+                                        526,
+                                        104
+                                    ],
+                                    "score": 0.97,
+                                    "content": "constitutes the full and exclusive remuneration for the compliance checks.  For",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                105,
+                                526,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        105,
+                                        526,
+                                        118
+                                    ],
+                                    "score": 0.98,
+                                    "content": "example, compensation of youth participants is the sole responsibility of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                118,
+                                390,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        118,
+                                        390,
+                                        131
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Departmenr and is to be paid from the flat fee payment.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        144,
+                        528,
+                        197
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                145,
+                                525,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        146,
+                                        108,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        145,
+                                        525,
+                                        157
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Eligible Claims. Compliance checks that were conducted on 0r after July 18, 2006,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                158,
+                                526,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        158,
+                                        526,
+                                        170
+                                    ],
+                                    "score": 0.99,
+                                    "content": "are eligible for payment provided that the results are reported in accordance with",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                172,
+                                525,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        172,
+                                        525,
+                                        183
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Section 5. Any compliance checks that were funded by a non-departmental entity",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                185,
+                                259,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        185,
+                                        259,
+                                        196
+                                    ],
+                                    "score": 0.97,
+                                    "content": "are not eligible for payment.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        209,
+                        528,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                211,
+                                526,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        211,
+                                        526,
+                                        223
+                                    ],
+                                    "score": 0.98,
+                                    "content": "6.3 Allocations. The costs of the services referred ro in Section 6.1 shall be allocated as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                224,
+                                165,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        224,
+                                        165,
+                                        236
+                                    ],
+                                    "score": 0.96,
+                                    "content": "follows:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        131,
+                        249,
+                        531,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                251,
+                                525,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        252,
+                                        162,
+                                        262
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5.3.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        251,
+                                        525,
+                                        263
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Sole Activity. Money paid to the Deparrment, pursuant to the Agreement,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                165,
+                                263,
+                                527,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        263,
+                                        527,
+                                        277
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shall be used to fund overtime of full- or part-time peace officer positions",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                165,
+                                277,
+                                484,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        277,
+                                        484,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "solely for tobacco enforcement activities described in the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                303,
+                                528,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        304,
+                                        155,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.3.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        303,
+                                        528,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Payment in Arrears. T'he ABD may pay all approved invoices in arrears and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                316,
+                                527,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        316,
+                                        320,
+                                        328
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in conformance with Iowa Code",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        316,
+                                        330,
+                                        328
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\S",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        316,
+                                        527,
+                                        328
+                                    ],
+                                    "score": 0.99,
+                                    "content": "421.40. The ABD, consistent with Iowa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                165,
+                                330,
+                                527,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        330,
+                                        527,
+                                        343
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Code S 421.40, may pay in less than the specified time period. Payment by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                343,
+                                527,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        343,
+                                        527,
+                                        354
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the ABD in fewer than sixry (60) days, however, does not constitute an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                357,
+                                335,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        357,
+                                        335,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "implied waiver of that Code section.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        394,
+                        528,
+                        423
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                396,
+                                526,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        396,
+                                        526,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SECTION 7. ADMINISTRATION OF AGREEMENT. The ABD and the Department",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                410,
+                                273,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        410,
+                                        273,
+                                        422
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shall jointly administer the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        447,
+                        529,
+                        475
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                450,
+                                526,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        450,
+                                        526,
+                                        462
+                                    ],
+                                    "score": 0.98,
+                                    "content": "SECTION 8. NO SEPARATE ADMINISTRATIVE ENTITY. No new or separate legai",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                463,
+                                337,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        463,
+                                        337,
+                                        475
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or administrative entity is created by the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        499,
+                        530,
+                        541
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                502,
+                                528,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        502,
+                                        528,
+                                        513
+                                    ],
+                                    "score": 0.96,
+                                    "content": "SECTION 9.  NO PROPERTY ACQUIRED.  The ABD and the Department, in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                516,
+                                527,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        516,
+                                        527,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "connection with the performance of the Agreement, shall acquire no real or personal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                532,
+                                136,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        532,
+                                        136,
+                                        542
+                                    ],
+                                    "score": 0.96,
+                                    "content": "property.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        566,
+                        262,
+                        580
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                569,
+                                260,
+                                578
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        569,
+                                        260,
+                                        578
+                                    ],
+                                    "score": 0.95,
+                                    "content": "SECTION 10. TERMINAT1ON.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        591,
+                        531,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                595,
+                                527,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        595,
+                                        116,
+                                        605
+                                    ],
+                                    "score": 0.86,
+                                    "content": "1 0.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        595,
+                                        527,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Termination For Convenience. Following thirty (30) days wrirten notice, either",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                607,
+                                528,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        607,
+                                        528,
+                                        619
+                                    ],
+                                    "score": 0.99,
+                                    "content": "party may terminate the Agreement, in whole or in part, for convenience without the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                621,
+                                529,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        621,
+                                        529,
+                                        633
+                                    ],
+                                    "score": 0.99,
+                                    "content": "payment of any penalty or incurring any further obligation to the non-terminating",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                633,
+                                529,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        633,
+                                        529,
+                                        646
+                                    ],
+                                    "score": 0.99,
+                                    "content": "party. Following termination for convenience, the non-terminating party shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                647,
+                                527,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        647,
+                                        527,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "entitled to compensation, upon submission of invoices and proper proof of claim, for",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                660,
+                                529,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        660,
+                                        529,
+                                        673
+                                    ],
+                                    "score": 0.99,
+                                    "content": "services provided under the Agreement to the terminating party up to and including",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                674,
+                                241,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        674,
+                                        241,
+                                        685
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the date of termination.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        51,
+                        610.5599975585938,
+                        687
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        51,
+                        610.5599975585938,
+                        687
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        308,
+                        724,
+                        315,
+                        734
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                308,
+                                725,
+                                315,
+                                734
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        725,
+                                        315,
+                                        734
+                                    ],
+                                    "score": 1.0,
+                                    "content": "4",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        51,
+                        527,
+                        132
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                52,
+                                529,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        54,
+                                        107,
+                                        62
+                                    ],
+                                    "score": 0.8,
+                                    "content": "6.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        52,
+                                        525,
+                                        64
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Method of Payment. In consideration for providing the services required by the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                64,
+                                529,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        65,
+                                        477,
+                                        77
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Agreement, the Department shall be paid on a flat fee basis of fifty dollars",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        478,
+                                        64,
+                                        506,
+                                        77
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\{\\mathfrak{H}\\,50\\}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        507,
+                                        65,
+                                        525,
+                                        77
+                                    ],
+                                    "score": 0.66,
+                                    "content": "pe1",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                78,
+                                529,
+                                92
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        78,
+                                        527,
+                                        92
+                                    ],
+                                    "score": 0.97,
+                                    "content": "reporred compliance check.  The flat fee payment for each compliance check",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                92,
+                                529,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        92,
+                                        526,
+                                        104
+                                    ],
+                                    "score": 0.97,
+                                    "content": "constitutes the full and exclusive remuneration for the compliance checks.  For",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                105,
+                                529,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        105,
+                                        526,
+                                        118
+                                    ],
+                                    "score": 0.98,
+                                    "content": "example, compensation of youth participants is the sole responsibility of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                118,
+                                390,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        118,
+                                        390,
+                                        131
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Departmenr and is to be paid from the flat fee payment.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        52,
+                        529,
+                        131
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        144,
+                        528,
+                        197
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                145,
+                                529,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        146,
+                                        108,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "6.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        145,
+                                        525,
+                                        157
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Eligible Claims. Compliance checks that were conducted on 0r after July 18, 2006,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                158,
+                                529,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        127,
+                                        158,
+                                        526,
+                                        170
+                                    ],
+                                    "score": 0.99,
+                                    "content": "are eligible for payment provided that the results are reported in accordance with",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                172,
+                                529,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        172,
+                                        525,
+                                        183
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Section 5. Any compliance checks that were funded by a non-departmental entity",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                185,
+                                259,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        185,
+                                        259,
+                                        196
+                                    ],
+                                    "score": 0.97,
+                                    "content": "are not eligible for payment.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        145,
+                        529,
+                        196
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        90,
+                        209,
+                        528,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                211,
+                                529,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        211,
+                                        526,
+                                        223
+                                    ],
+                                    "score": 0.98,
+                                    "content": "6.3 Allocations. The costs of the services referred ro in Section 6.1 shall be allocated as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                224,
+                                165,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        224,
+                                        165,
+                                        236
+                                    ],
+                                    "score": 0.96,
+                                    "content": "follows:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        211,
+                        529,
+                        236
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        131,
+                        249,
+                        531,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                127,
+                                251,
+                                529,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        252,
+                                        162,
+                                        262
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5.3.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        251,
+                                        525,
+                                        263
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Sole Activity. Money paid to the Deparrment, pursuant to the Agreement,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                263,
+                                529,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        263,
+                                        527,
+                                        277
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shall be used to fund overtime of full- or part-time peace officer positions",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                277,
+                                484,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        277,
+                                        484,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "solely for tobacco enforcement activities described in the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                303,
+                                529,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        304,
+                                        155,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.3.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        303,
+                                        528,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Payment in Arrears. T'he ABD may pay all approved invoices in arrears and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                316,
+                                529,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        316,
+                                        320,
+                                        328
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in conformance with Iowa Code",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        321,
+                                        316,
+                                        330,
+                                        328
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\S",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        316,
+                                        527,
+                                        328
+                                    ],
+                                    "score": 0.99,
+                                    "content": "421.40. The ABD, consistent with Iowa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                330,
+                                529,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        165,
+                                        330,
+                                        527,
+                                        343
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Code S 421.40, may pay in less than the specified time period. Payment by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                343,
+                                529,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        343,
+                                        527,
+                                        354
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the ABD in fewer than sixry (60) days, however, does not constitute an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                357,
+                                337,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        357,
+                                        335,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "implied waiver of that Code section.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        127,
+                        251,
+                        529,
+                        367
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        394,
+                        528,
+                        423
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                396,
+                                529,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        396,
+                                        526,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SECTION 7. ADMINISTRATION OF AGREEMENT. The ABD and the Department",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                410,
+                                273,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        410,
+                                        273,
+                                        422
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shall jointly administer the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        396,
+                        529,
+                        422
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        447,
+                        529,
+                        475
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                450,
+                                529,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        450,
+                                        526,
+                                        462
+                                    ],
+                                    "score": 0.98,
+                                    "content": "SECTION 8. NO SEPARATE ADMINISTRATIVE ENTITY. No new or separate legai",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                463,
+                                337,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        463,
+                                        337,
+                                        475
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or administrative entity is created by the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        450,
+                        529,
+                        475
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        499,
+                        530,
+                        541
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                502,
+                                529,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        502,
+                                        528,
+                                        513
+                                    ],
+                                    "score": 0.96,
+                                    "content": "SECTION 9.  NO PROPERTY ACQUIRED.  The ABD and the Department, in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                516,
+                                529,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        516,
+                                        527,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "connection with the performance of the Agreement, shall acquire no real or personal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                532,
+                                136,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        532,
+                                        136,
+                                        542
+                                    ],
+                                    "score": 0.96,
+                                    "content": "property.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        502,
+                        529,
+                        542
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        93,
+                        566,
+                        262,
+                        580
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                569,
+                                260,
+                                578
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        569,
+                                        260,
+                                        578
+                                    ],
+                                    "score": 0.95,
+                                    "content": "SECTION 10. TERMINAT1ON.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        93,
+                        566,
+                        262,
+                        580
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        591,
+                        531,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                595,
+                                529,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        595,
+                                        116,
+                                        605
+                                    ],
+                                    "score": 0.86,
+                                    "content": "1 0.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        595,
+                                        527,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Termination For Convenience. Following thirty (30) days wrirten notice, either",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                607,
+                                529,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        607,
+                                        528,
+                                        619
+                                    ],
+                                    "score": 0.99,
+                                    "content": "party may terminate the Agreement, in whole or in part, for convenience without the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                621,
+                                529,
+                                633
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        621,
+                                        529,
+                                        633
+                                    ],
+                                    "score": 0.99,
+                                    "content": "payment of any penalty or incurring any further obligation to the non-terminating",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                633,
+                                529,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        633,
+                                        529,
+                                        646
+                                    ],
+                                    "score": 0.99,
+                                    "content": "party. Following termination for convenience, the non-terminating party shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                647,
+                                529,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        647,
+                                        527,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "entitled to compensation, upon submission of invoices and proper proof of claim, for",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                660,
+                                529,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        660,
+                                        529,
+                                        673
+                                    ],
+                                    "score": 0.99,
+                                    "content": "services provided under the Agreement to the terminating party up to and including",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                127,
+                                674,
+                                241,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        674,
+                                        241,
+                                        685
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the date of termination.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        595,
+                        529,
+                        685
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

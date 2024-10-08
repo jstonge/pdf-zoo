@@ -1,0 +1,689 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    1104.2208251953125,
+                    1939.9656982421875,
+                    1449.1400146484375,
+                    1939.9656982421875,
+                    1449.1400146484375,
+                    2078.165283203125,
+                    1104.2208251953125,
+                    2078.165283203125
+                ],
+                "score": 0.9999998807907104
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    176.4617156982422,
+                    828.8377075195312,
+                    1476.0367431640625,
+                    828.8377075195312,
+                    1476.0367431640625,
+                    981.878173828125,
+                    176.4617156982422,
+                    981.878173828125
+                ],
+                "score": 0.9999910593032837
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    173.99403381347656,
+                    603.8681640625,
+                    1479.3541259765625,
+                    603.8681640625,
+                    1479.3541259765625,
+                    795.6253051757812,
+                    173.99403381347656,
+                    795.6253051757812
+                ],
+                "score": 0.9999908208847046
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    175.1929473876953,
+                    301.90057373046875,
+                    1496.417236328125,
+                    301.90057373046875,
+                    1496.417236328125,
+                    534.2562255859375,
+                    175.1929473876953,
+                    534.2562255859375
+                ],
+                "score": 0.9999896883964539
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    173.50357055664062,
+                    1462.1285400390625,
+                    1470.69091796875,
+                    1462.1285400390625,
+                    1470.69091796875,
+                    1617.9371337890625,
+                    173.50357055664062,
+                    1617.9371337890625
+                ],
+                "score": 0.999987006187439
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    173.41912841796875,
+                    1162.6712646484375,
+                    1479.5780029296875,
+                    1162.6712646484375,
+                    1479.5780029296875,
+                    1433.3580322265625,
+                    173.41912841796875,
+                    1433.3580322265625
+                ],
+                "score": 0.9999825358390808
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    177.55335998535156,
+                    1015.3890380859375,
+                    1273.1671142578125,
+                    1015.3890380859375,
+                    1273.1671142578125,
+                    1056.0694580078125,
+                    177.55335998535156,
+                    1056.0694580078125
+                ],
+                "score": 0.9999780654907227
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    168.5270538330078,
+                    1736.17041015625,
+                    1329.3570556640625,
+                    1736.17041015625,
+                    1329.3570556640625,
+                    1942.9490966796875,
+                    168.5270538330078,
+                    1942.9490966796875
+                ],
+                "score": 0.9998353719711304
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    345.39697265625,
+                    157.9870147705078,
+                    1024.09228515625,
+                    157.9870147705078,
+                    1024.09228515625,
+                    235.371337890625,
+                    345.39697265625,
+                    235.371337890625
+                ],
+                "score": 0.9998006820678711
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    177.90313720703125,
+                    1092.84375,
+                    250.67510986328125,
+                    1092.84375,
+                    250.67510986328125,
+                    1128.643310546875,
+                    177.90313720703125,
+                    1128.643310546875
+                ],
+                "score": 0.9994751811027527
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    345.665771484375,
+                    32.77195358276367,
+                    652.9083862304688,
+                    32.77195358276367,
+                    652.9083862304688,
+                    134.82699584960938,
+                    345.665771484375,
+                    134.82699584960938
+                ],
+                "score": 0.9992083311080933
+            },
+            {
+                "category_id": 8,
+                "poly": [
+                    273.4628601074219,
+                    1636.1329345703125,
+                    1175.896240234375,
+                    1636.1329345703125,
+                    1175.896240234375,
+                    1693.2205810546875,
+                    273.4628601074219,
+                    1693.2205810546875
+                ],
+                "score": 0.9842510223388672
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1217.0,
+                    1942.0,
+                    1334.0,
+                    1942.0,
+                    1334.0,
+                    1966.0,
+                    1217.0,
+                    1966.0
+                ],
+                "score": 1.0,
+                "text": "M033299"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    833.0,
+                    1386.0,
+                    833.0,
+                    1386.0,
+                    879.0,
+                    179.0,
+                    879.0
+                ],
+                "score": 0.98,
+                "text": "WHEREAS SIMECA is making application to join the Agency created by the Agreement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.0,
+                    871.0,
+                    1437.0,
+                    871.0,
+                    1437.0,
+                    914.0,
+                    177.0,
+                    914.0
+                ],
+                "score": 0.99,
+                "text": "Establishing the Iowa Stored Energy Plant Agency under Iowa Code chapter 28E between the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    912.0,
+                    1468.0,
+                    912.0,
+                    1468.0,
+                    947.0,
+                    180.0,
+                    947.0
+                ],
+                "score": 0.99,
+                "text": "Algona Municipal Utilities and Waverly Power and Light filed with the Secretary of State of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    949.0,
+                    638.0,
+                    949.0,
+                    638.0,
+                    984.0,
+                    179.0,
+                    984.0
+                ],
+                "score": 0.98,
+                "text": "State of Iowa on August 19, 2005;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    611.0,
+                    1468.0,
+                    611.0,
+                    1468.0,
+                    646.0,
+                    182.0,
+                    646.0
+                ],
+                "score": 0.99,
+                "text": "WHEREAS SIMECA by action of its Board of Directors has determined it is in the best interest"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    646.0,
+                    1418.0,
+                    646.0,
+                    1418.0,
+                    687.0,
+                    179.0,
+                    687.0
+                ],
+                "score": 0.98,
+                "text": "of SIMECA to enter into and become a party to the Agreement Establishing the Iowa Stored"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    685.0,
+                    1470.0,
+                    685.0,
+                    1470.0,
+                    722.0,
+                    179.0,
+                    722.0
+                ],
+                "score": 0.97,
+                "text": "Energy Plant Agency under Iowa Code chapter 28E between the Algona Municipal Utilities and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    723.0,
+                    1427.0,
+                    723.0,
+                    1427.0,
+                    760.0,
+                    182.0,
+                    760.0
+                ],
+                "score": 0.97,
+                "text": "Waverly Power and Light filed with the Secretary of State of the State of lowa on August 19,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    758.0,
+                    323.0,
+                    758.0,
+                    323.0,
+                    797.0,
+                    179.0,
+                    797.0
+                ],
+                "score": 0.93,
+                "text": "2005,and;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    312.0,
+                    1484.0,
+                    312.0,
+                    1484.0,
+                    346.0,
+                    181.0,
+                    346.0
+                ],
+                "score": 0.95,
+                "text": "RESOLUTION OF THE BOARD OF DIRECTORS OF SOUTH JOWA MUNICIPAL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    349.0,
+                    1485.0,
+                    349.0,
+                    1485.0,
+                    383.0,
+                    181.0,
+                    383.0
+                ],
+                "score": 0.95,
+                "text": "ELECTRIC ASSOCIATION (SIMECA)AGREEING TO AND ADOPTING THE"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    389.0,
+                    1482.0,
+                    389.0,
+                    1482.0,
+                    419.0,
+                    181.0,
+                    419.0
+                ],
+                "score": 0.96,
+                "text": "PROVISIONS AND AGREEING TO BECOME A PARTY TO THE AGREEMENT"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    428.0,
+                    1484.0,
+                    428.0,
+                    1484.0,
+                    456.0,
+                    183.0,
+                    456.0
+                ],
+                "score": 0.99,
+                "text": "ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY UNDER IOWA CODE"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    462.0,
+                    1484.0,
+                    462.0,
+                    1484.0,
+                    496.0,
+                    183.0,
+                    496.0
+                ],
+                "score": 0.99,
+                "text": "CHAPTER 28E AS PREVIOUSLY ADOPTED BY THE ALGONA MUNICIPAL UTILITIES"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    502.0,
+                    748.0,
+                    502.0,
+                    748.0,
+                    531.0,
+                    183.0,
+                    531.0
+                ],
+                "score": 0.97,
+                "text": "ANDWAVERLY LIGHT ANDPOWER"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.0,
+                    1469.0,
+                    1455.0,
+                    1469.0,
+                    1455.0,
+                    1509.0,
+                    177.0,
+                    1509.0
+                ],
+                "score": 0.99,
+                "text": "SECTION TWO: The President of SIMECA is authorized and directed to execute all necessary"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    175.0,
+                    1506.0,
+                    1463.0,
+                    1506.0,
+                    1463.0,
+                    1549.0,
+                    175.0,
+                    1549.0
+                ],
+                "score": 1.0,
+                "text": "documents, and to submit the same, agreeing to be bound by said Agreement and Bylaws and to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    174.0,
+                    1543.0,
+                    1434.0,
+                    1543.0,
+                    1434.0,
+                    1584.0,
+                    174.0,
+                    1584.0
+                ],
+                "score": 0.99,
+                "text": "take all steps necessary and appropriate for SIMECA to become a member of the lowa Stored"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    174.0,
+                    1578.0,
+                    528.0,
+                    1578.0,
+                    528.0,
+                    1621.0,
+                    174.0,
+                    1621.0
+                ],
+                "score": 1.0,
+                "text": "Energy Plant and Agency."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    1170.0,
+                    1469.0,
+                    1170.0,
+                    1469.0,
+                    1209.0,
+                    179.0,
+                    1209.0
+                ],
+                "score": 0.99,
+                "text": "SECTION ONE: The Agreement Establishing the lowa Stored Energy Plant Agency under Iowa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.0,
+                    1208.0,
+                    1440.0,
+                    1208.0,
+                    1440.0,
+                    1245.0,
+                    177.0,
+                    1245.0
+                ],
+                "score": 0.99,
+                "text": "Code chapter 28E between the Algona Municipal Utilities and Waverly Power and Light filed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.0,
+                    1245.0,
+                    1460.0,
+                    1245.0,
+                    1460.0,
+                    1283.0,
+                    177.0,
+                    1283.0
+                ],
+                "score": 0.98,
+                "text": "with the Secretary of State of the State of lowa on August 19, 2005, a copy of which is attached"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    176.0,
+                    1282.0,
+                    1448.0,
+                    1282.0,
+                    1448.0,
+                    1319.0,
+                    176.0,
+                    1319.0
+                ],
+                "score": 0.98,
+                "text": "hereto as \"Exhibit A\" is hereby agreed to in accord with Article Fifteen of said Agreement and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    176.0,
+                    1319.0,
+                    1446.0,
+                    1319.0,
+                    1446.0,
+                    1358.0,
+                    176.0,
+                    1358.0
+                ],
+                "score": 0.99,
+                "text": "SIMECA hereby agrees and upon acceptance in accord with said Agreement and Bylaws to be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    176.0,
+                    1357.0,
+                    1462.0,
+                    1357.0,
+                    1462.0,
+                    1399.0,
+                    176.0,
+                    1399.0
+                ],
+                "score": 1.0,
+                "text": "bound by said Agreement and Bylaws made pursuant to the Agreement to the same extent as an"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    1393.0,
+                    365.0,
+                    1393.0,
+                    365.0,
+                    1434.0,
+                    179.0,
+                    1434.0
+                ],
+                "score": 0.96,
+                "text": "originalparty."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    1023.0,
+                    1264.0,
+                    1023.0,
+                    1264.0,
+                    1053.0,
+                    181.0,
+                    1053.0
+                ],
+                "score": 0.98,
+                "text": "NOW THEREFORE BE IT RESOLVED BY the Board of Directors of SIMECA"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    348.0,
+                    169.0,
+                    655.0,
+                    169.0,
+                    655.0,
+                    202.0,
+                    348.0,
+                    202.0
+                ],
+                "score": 0.83,
+                "text": "Fra1 3 30 P1 'B6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    649.0,
+                    200.0,
+                    1016.0,
+                    200.0,
+                    1016.0,
+                    228.0,
+                    649.0,
+                    228.0
+                ],
+                "score": 0.97,
+                "text": "RESOLUTION No. 2006-1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    177.0,
+                    1091.0,
+                    251.0,
+                    1091.0,
+                    251.0,
+                    1127.0,
+                    177.0,
+                    1127.0
+                ],
+                "score": 1.0,
+                "text": "That:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    436.0,
+                    36.0,
+                    564.0,
+                    36.0,
+                    564.0,
+                    72.0,
+                    436.0,
+                    72.0
+                ],
+                "score": 0.84,
+                "text": "F1LED"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    351.0,
+                    79.0,
+                    647.0,
+                    79.0,
+                    647.0,
+                    100.0,
+                    351.0,
+                    100.0
+                ],
+                "score": 0.88,
+                "text": "SECRETARY CF STAiE"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    462.0,
+                    103.0,
+                    540.0,
+                    103.0,
+                    540.0,
+                    131.0,
+                    462.0,
+                    131.0
+                ],
+                "score": 0.69,
+                "text": "10WA"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

@@ -1,0 +1,1716 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        192,
+                        53,
+                        528,
+                        78
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                194,
+                                54,
+                                526,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        54,
+                                        526,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement constirutes a legal, valid and binding obligation upon itself",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                68,
+                                324,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        68,
+                                        324,
+                                        77
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in accordance with its terms.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        92,
+                        528,
+                        133
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                94,
+                                526,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        94,
+                                        526,
+                                        105
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.15 Successors in Interest. All the terms, provisions and conditions of the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                106,
+                                527,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        106,
+                                        527,
+                                        119
+                                    ],
+                                    "score": 0.97,
+                                    "content": "shall be binding upon and inure to the benefir of the parries hereto and their",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                120,
+                                379,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        120,
+                                        379,
+                                        131
+                                    ],
+                                    "score": 0.98,
+                                    "content": "respective sliccessors, assigns and legal representatives.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        144,
+                        529,
+                        316
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                145,
+                                527,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        145,
+                                        527,
+                                        157
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.16 Record Retention and Access. The Department shall maintain books, records and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                158,
+                                527,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        158,
+                                        527,
+                                        171
+                                    ],
+                                    "score": 0.99,
+                                    "content": "documents which sufficiently and properly document and calculate all charges billed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                171,
+                                527,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        171,
+                                        527,
+                                        184
+                                    ],
+                                    "score": 0.99,
+                                    "content": "to ABD throughout the term of the Agreement for a period of ar least three (3) years",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                185,
+                                528,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        185,
+                                        528,
+                                        197
+                                    ],
+                                    "score": 0.99,
+                                    "content": "following the date of final payment or completion of any required audit, whichever is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                132,
+                                198,
+                                528,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        200,
+                                        154,
+                                        209
+                                    ],
+                                    "score": 0.93,
+                                    "content": "ater,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        198,
+                                        528,
+                                        210
+                                    ],
+                                    "score": 0.96,
+                                    "content": "The Department shall permit the Auditor of the Stare of Iowa or any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                212,
+                                527,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        212,
+                                        527,
+                                        223
+                                    ],
+                                    "score": 0.98,
+                                    "content": "authorized representative of the State and where federal funds are involved, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                224,
+                                528,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        224,
+                                        528,
+                                        236
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Comptroller General of the United States or any other authorized representarive of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                237,
+                                527,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        237,
+                                        527,
+                                        251
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the United States government, to access and examine, audit, excerpt and transcribe",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                250,
+                                528,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        250,
+                                        528,
+                                        264
+                                    ],
+                                    "score": 1.0,
+                                    "content": "any directly pertinent books, documents, papers, electronic or optically stored and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                265,
+                                528,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        265,
+                                        528,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "created records or other records of the Department relating to orders, invoices, or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                278,
+                                526,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        280,
+                                        381,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "payments or any other documentation or materials",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        278,
+                                        526,
+                                        289
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pertaining to the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                290,
+                                528,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        290,
+                                        528,
+                                        302
+                                    ],
+                                    "score": 0.98,
+                                    "content": "The Department shall not impose a charge for audit or examination of the books and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                305,
+                                166,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        305,
+                                        166,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "fecords.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        328,
+                        530,
+                        356
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                330,
+                                527,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        330,
+                                        527,
+                                        342
+                                    ],
+                                    "score": 0.97,
+                                    "content": "13.17 Additional Provisions.  The parties agree that any Addendum, Rider or Exhibit,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                344,
+                                503,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        344,
+                                        503,
+                                        355
+                                    ],
+                                    "score": 0.99,
+                                    "content": "attached hereto by the parties, shall be deemed incorporated herein by reference.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        368,
+                        531,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                370,
+                                527,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        370,
+                                        527,
+                                        381
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.18 Further Assurances and Corrective Instruments. The parties agree that they shall.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                383,
+                                527,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        383,
+                                        527,
+                                        394
+                                    ],
+                                    "score": 0.99,
+                                    "content": "from time to time, execute, acknowledge and deliver, or cause to be executed,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                395,
+                                529,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        395,
+                                        529,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "acknowiedged and delivered, such supplements hereto and such further instruments",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                409,
+                                528,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        409,
+                                        528,
+                                        420
+                                    ],
+                                    "score": 0.96,
+                                    "content": "as may reasonably be required for carrying out the expressed intention of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                424,
+                                184,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        424,
+                                        184,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        446,
+                        247,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                450,
+                                244,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        450,
+                                        244,
+                                        459
+                                    ],
+                                    "score": 0.96,
+                                    "content": "SECT1ON 14. EXECUTION",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        473,
+                        530,
+                        525.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                475,
+                                528,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        475,
+                                        528,
+                                        487
+                                    ],
+                                    "score": 0.97,
+                                    "content": "IN WITNESS WHEREOA, in consideration of the mutual covenants set forth",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                488,
+                                528,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        488,
+                                        528,
+                                        502
+                                    ],
+                                    "score": 0.98,
+                                    "content": "above and for other good and/vqluable consideration, the receipt, adequacy and legal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                503,
+                                528,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        503,
+                                        528,
+                                        514
+                                    ],
+                                    "score": 0.97,
+                                    "content": "sufficiency of which are hgreby Aclnowledged, the parties have entered into the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                515,
+                                466,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        515,
+                                        466,
+                                        527
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and have caused their dulyautbrjzed representatives to execute the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        38,
+                        526.25,
+                        589,
+                        660
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                38,
+                                526,
+                                589,
+                                660
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        526,
+                                        589,
+                                        660
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                38,
+                                                526,
+                                                589,
+                                                660
+                                            ],
+                                            "score": 0.9997087717056274,
+                                            "type": "image",
+                                            "image_path": "52a0b8a3850f86fdb64f55a7c5bd2f53b3f7493e3a3dc904f7de87673f472936.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        53,
+                        610.5599975585938,
+                        660
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        53,
+                        610.5599975585938,
+                        660
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        38,
+                        526.25,
+                        589,
+                        660
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                38,
+                                526,
+                                589,
+                                660
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        526,
+                                        589,
+                                        660
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                38,
+                                                526,
+                                                589,
+                                                660
+                                            ],
+                                            "score": 0.9997087717056274,
+                                            "type": "image",
+                                            "image_path": "52a0b8a3850f86fdb64f55a7c5bd2f53b3f7493e3a3dc904f7de87673f472936.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        308,
+                        725,
+                        316,
+                        735
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                309,
+                                726,
+                                316,
+                                736
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        726,
+                                        316,
+                                        736
+                                    ],
+                                    "score": 1.0,
+                                    "content": "8",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        192,
+                        53,
+                        528,
+                        78
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                193,
+                                54,
+                                529,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        54,
+                                        526,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement constirutes a legal, valid and binding obligation upon itself",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                193,
+                                68,
+                                324,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        193,
+                                        68,
+                                        324,
+                                        77
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in accordance with its terms.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        193,
+                        54,
+                        529,
+                        77
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        92,
+                        528,
+                        133
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                94,
+                                529,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        94,
+                                        526,
+                                        105
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.15 Successors in Interest. All the terms, provisions and conditions of the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                106,
+                                529,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        106,
+                                        527,
+                                        119
+                                    ],
+                                    "score": 0.97,
+                                    "content": "shall be binding upon and inure to the benefir of the parries hereto and their",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                120,
+                                379,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        120,
+                                        379,
+                                        131
+                                    ],
+                                    "score": 0.98,
+                                    "content": "respective sliccessors, assigns and legal representatives.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        94,
+                        529,
+                        131
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        144,
+                        529,
+                        316
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                145,
+                                529,
+                                157
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        145,
+                                        527,
+                                        157
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.16 Record Retention and Access. The Department shall maintain books, records and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                158,
+                                529,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        158,
+                                        527,
+                                        171
+                                    ],
+                                    "score": 0.99,
+                                    "content": "documents which sufficiently and properly document and calculate all charges billed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                171,
+                                529,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        171,
+                                        527,
+                                        184
+                                    ],
+                                    "score": 0.99,
+                                    "content": "to ABD throughout the term of the Agreement for a period of ar least three (3) years",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                185,
+                                529,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        185,
+                                        528,
+                                        197
+                                    ],
+                                    "score": 0.99,
+                                    "content": "following the date of final payment or completion of any required audit, whichever is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                198,
+                                529,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        200,
+                                        154,
+                                        209
+                                    ],
+                                    "score": 0.93,
+                                    "content": "ater,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        198,
+                                        528,
+                                        210
+                                    ],
+                                    "score": 0.96,
+                                    "content": "The Department shall permit the Auditor of the Stare of Iowa or any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                212,
+                                529,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        212,
+                                        527,
+                                        223
+                                    ],
+                                    "score": 0.98,
+                                    "content": "authorized representative of the State and where federal funds are involved, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                224,
+                                529,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        224,
+                                        528,
+                                        236
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Comptroller General of the United States or any other authorized representarive of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                237,
+                                529,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        237,
+                                        527,
+                                        251
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the United States government, to access and examine, audit, excerpt and transcribe",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                250,
+                                529,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        250,
+                                        528,
+                                        264
+                                    ],
+                                    "score": 1.0,
+                                    "content": "any directly pertinent books, documents, papers, electronic or optically stored and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                265,
+                                529,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        265,
+                                        528,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "created records or other records of the Department relating to orders, invoices, or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                278,
+                                529,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        280,
+                                        381,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "payments or any other documentation or materials",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        278,
+                                        526,
+                                        289
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pertaining to the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                290,
+                                529,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        290,
+                                        528,
+                                        302
+                                    ],
+                                    "score": 0.98,
+                                    "content": "The Department shall not impose a charge for audit or examination of the books and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                305,
+                                166,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        305,
+                                        166,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "fecords.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        145,
+                        529,
+                        314
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        328,
+                        530,
+                        356
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                330,
+                                529,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        330,
+                                        527,
+                                        342
+                                    ],
+                                    "score": 0.97,
+                                    "content": "13.17 Additional Provisions.  The parties agree that any Addendum, Rider or Exhibit,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                344,
+                                503,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        344,
+                                        503,
+                                        355
+                                    ],
+                                    "score": 0.99,
+                                    "content": "attached hereto by the parties, shall be deemed incorporated herein by reference.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        330,
+                        529,
+                        355
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        368,
+                        531,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                370,
+                                529,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        370,
+                                        527,
+                                        381
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.18 Further Assurances and Corrective Instruments. The parties agree that they shall.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                383,
+                                529,
+                                394
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        383,
+                                        527,
+                                        394
+                                    ],
+                                    "score": 0.99,
+                                    "content": "from time to time, execute, acknowledge and deliver, or cause to be executed,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                395,
+                                529,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        395,
+                                        529,
+                                        408
+                                    ],
+                                    "score": 0.98,
+                                    "content": "acknowiedged and delivered, such supplements hereto and such further instruments",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                409,
+                                529,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        409,
+                                        528,
+                                        420
+                                    ],
+                                    "score": 0.96,
+                                    "content": "as may reasonably be required for carrying out the expressed intention of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                424,
+                                184,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        424,
+                                        184,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        370,
+                        529,
+                        435
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        446,
+                        247,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                450,
+                                244,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        450,
+                                        244,
+                                        459
+                                    ],
+                                    "score": 0.96,
+                                    "content": "SECT1ON 14. EXECUTION",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        450,
+                        244,
+                        459
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        473,
+                        530,
+                        525.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                129,
+                                475,
+                                529,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        475,
+                                        528,
+                                        487
+                                    ],
+                                    "score": 0.97,
+                                    "content": "IN WITNESS WHEREOA, in consideration of the mutual covenants set forth",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                488,
+                                529,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        488,
+                                        528,
+                                        502
+                                    ],
+                                    "score": 0.98,
+                                    "content": "above and for other good and/vqluable consideration, the receipt, adequacy and legal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                503,
+                                529,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        503,
+                                        528,
+                                        514
+                                    ],
+                                    "score": 0.97,
+                                    "content": "sufficiency of which are hgreby Aclnowledged, the parties have entered into the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                515,
+                                466,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        515,
+                                        466,
+                                        527
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and have caused their dulyautbrjzed representatives to execute the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        94,
+                        475,
+                        529,
+                        527
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        38,
+                        526.25,
+                        589,
+                        660
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                38,
+                                526,
+                                589,
+                                660
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        38,
+                                        526,
+                                        589,
+                                        660
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                38,
+                                                526,
+                                                589,
+                                                660
+                                            ],
+                                            "score": 0.9997087717056274,
+                                            "type": "image",
+                                            "image_path": "52a0b8a3850f86fdb64f55a7c5bd2f53b3f7493e3a3dc904f7de87673f472936.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        38,
+                        526.25,
+                        589,
+                        660
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

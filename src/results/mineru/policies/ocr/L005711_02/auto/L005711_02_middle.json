@@ -1,0 +1,1824 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        100,
+                        574,
+                        344
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                104,
+                                561,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        104,
+                                        561,
+                                        122
+                                    ],
+                                    "score": 0.98,
+                                    "content": "5. Each notification to Job Service from the Employer shall include the number of employees",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                117,
+                                542,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        117,
+                                        542,
+                                        134
+                                    ],
+                                    "score": 0.97,
+                                    "content": "needed by job title, qualifications, hiring dates, rates of pay, hours of work, anticipated",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                128,
+                                367,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        128,
+                                        367,
+                                        144
+                                    ],
+                                    "score": 0.99,
+                                    "content": "duration of employment and work to be performed.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                151,
+                                541,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        151,
+                                        541,
+                                        170
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. At the expiration of the ten (10) day period following the date of each job opening, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                163,
+                                565,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        163,
+                                        565,
+                                        181
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Employer shall be free to follow its standard recruitment and selection procedures to fill the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                175,
+                                560,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        175,
+                                        560,
+                                        193
+                                    ],
+                                    "score": 0.98,
+                                    "content": "vacant position(s), so long as the same full and fair consideration is given to the applicants",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                187,
+                                397,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        187,
+                                        397,
+                                        203
+                                    ],
+                                    "score": 0.99,
+                                    "content": "referred by Job Service as is given to all other candidates.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                210,
+                                550,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        210,
+                                        550,
+                                        227
+                                    ],
+                                    "score": 0.99,
+                                    "content": "7. Employer shall assist in the verification of interviews made by Job Service applicants by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                222,
+                                549,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        222,
+                                        549,
+                                        240
+                                    ],
+                                    "score": 0.97,
+                                    "content": "returming the Job Service referral card (Form 508) to Job Service, indicating whether the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                236,
+                                296,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        236,
+                                        296,
+                                        248
+                                    ],
+                                    "score": 0.99,
+                                    "content": "applicant has been hired or not hired.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                256,
+                                573,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        256,
+                                        573,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "8. Job openings filled by intemal promotion from the Employer's current workforce shall not be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                269,
+                                243,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        269,
+                                        243,
+                                        284
+                                    ],
+                                    "score": 0.98,
+                                    "content": "subject to this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                94,
+                                291,
+                                561,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        291,
+                                        561,
+                                        311
+                                    ],
+                                    "score": 0.96,
+                                    "content": "9. Until the period set out in Article III of this Agreement expires, the Employer shall include",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                304,
+                                553,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        304,
+                                        553,
+                                        322
+                                    ],
+                                    "score": 0.98,
+                                    "content": "any and all of its responsibilities under this Agreement in any assignment, conveyance or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                316,
+                                561,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        316,
+                                        561,
+                                        335
+                                    ],
+                                    "score": 0.96,
+                                    "content": "transfer of its interest whether reai or personal property in the above-enumerated Project to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                112,
+                                327,
+                                539,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        327,
+                                        539,
+                                        347
+                                    ],
+                                    "score": 0.97,
+                                    "content": "another individual, limited or general partnership, corporation or other business entity.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        75,
+                        350,
+                        252,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                351,
+                                249,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        351,
+                                        249,
+                                        364
+                                    ],
+                                    "score": 0.99,
+                                    "content": "B. Responsibilities of Iob Service",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        372,
+                        566,
+                        567
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                374,
+                                566,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        374,
+                                        566,
+                                        392
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Job Service shall provide recruitment, referral and hiring services to the Employer under the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                386,
+                                235,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        386,
+                                        235,
+                                        401
+                                    ],
+                                    "score": 0.98,
+                                    "content": "terms of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                409,
+                                558,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        409,
+                                        558,
+                                        429
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Job Service shall be responsible for timely and expedited referral of qualified applicants to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                421,
+                                183,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        421,
+                                        183,
+                                        436
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the Employer.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                444,
+                                534,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        444,
+                                        534,
+                                        464
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. Job Service shallfollow its standard screening procedures in determining whether the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                457,
+                                357,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        457,
+                                        357,
+                                        474
+                                    ],
+                                    "score": 0.99,
+                                    "content": "applicant is qualified for referral to the Employer.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                479,
+                                560,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        479,
+                                        560,
+                                        499
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. Job Service shail notify the Employer prior to the anticipated hiring dates of the number of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                112,
+                                492,
+                                564,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        492,
+                                        564,
+                                        511
+                                    ],
+                                    "score": 0.97,
+                                    "content": "applicants Job Service anticipates referring. Job Service shall make every reasonable effort",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                504,
+                                431,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        504,
+                                        431,
+                                        523
+                                    ],
+                                    "score": 0.98,
+                                    "content": "t0 refer at least two (2) qualified applicants for each job opening.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                527,
+                                562,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        527,
+                                        562,
+                                        547
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5. Job Service shall maintain appropriate statistical data on its referrals and the ultimate hiring",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                540,
+                                540,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        540,
+                                        540,
+                                        558
+                                    ],
+                                    "score": 0.98,
+                                    "content": "decisions made by the Employer and shall forward such staistical data to the City on a",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                112,
+                                553,
+                                187,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        553,
+                                        187,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "quarterly basis.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        73,
+                        574,
+                        233,
+                        590
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                575,
+                                230,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        575,
+                                        230,
+                                        588
+                                    ],
+                                    "score": 0.98,
+                                    "content": "C. Responsibilities of the City",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        598,
+                        554,
+                        649
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                598,
+                                544,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        598,
+                                        423,
+                                        617
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. The City shall require the Employer as a condition of receiving",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        423,
+                                        601,
+                                        472,
+                                        614
+                                    ],
+                                    "score": 0.69,
+                                    "content": "\\Im{100,000}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        473,
+                                        598,
+                                        544,
+                                        617
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or moredirect",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                610,
+                                532,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        610,
+                                        532,
+                                        628
+                                    ],
+                                    "score": 0.97,
+                                    "content": "federal, state or local public financing (exciuding SBA Guarantees and urban renewal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                622,
+                                552,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        622,
+                                        552,
+                                        641
+                                    ],
+                                    "score": 0.98,
+                                    "content": "writedowns) for the above-enumerated project to enter into this First Source Empioyment",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                635,
+                                169,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        635,
+                                        169,
+                                        647
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        656,
+                        565,
+                        695
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                655,
+                                522,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        655,
+                                        522,
+                                        676
+                                    ],
+                                    "score": 0.95,
+                                    "content": "2. The City shall secure all necessary signatures and executions and thereafier file this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                669,
+                                563,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        669,
+                                        563,
+                                        686
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement with the Secretary of State and file it for record with the Polk County Recorder's",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                111,
+                                680,
+                                145,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        680,
+                                        145,
+                                        693
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Office.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        100,
+                        610.5599975585938,
+                        695
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                1008.0
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        100,
+                        610.5599975585938,
+                        695
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        321,
+                        53,
+                        336,
+                        65
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        100,
+                        574,
+                        344
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                104,
+                                566,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        104,
+                                        561,
+                                        122
+                                    ],
+                                    "score": 0.98,
+                                    "content": "5. Each notification to Job Service from the Employer shall include the number of employees",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                117,
+                                544,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        117,
+                                        542,
+                                        134
+                                    ],
+                                    "score": 0.97,
+                                    "content": "needed by job title, qualifications, hiring dates, rates of pay, hours of work, anticipated",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                128,
+                                367,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        128,
+                                        367,
+                                        144
+                                    ],
+                                    "score": 0.99,
+                                    "content": "duration of employment and work to be performed.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                151,
+                                544,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        151,
+                                        541,
+                                        170
+                                    ],
+                                    "score": 0.96,
+                                    "content": "6. At the expiration of the ten (10) day period following the date of each job opening, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                163,
+                                566,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        163,
+                                        565,
+                                        181
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Employer shall be free to follow its standard recruitment and selection procedures to fill the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                175,
+                                566,
+                                193
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        175,
+                                        560,
+                                        193
+                                    ],
+                                    "score": 0.98,
+                                    "content": "vacant position(s), so long as the same full and fair consideration is given to the applicants",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                187,
+                                397,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        187,
+                                        397,
+                                        203
+                                    ],
+                                    "score": 0.99,
+                                    "content": "referred by Job Service as is given to all other candidates.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                210,
+                                553,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        210,
+                                        550,
+                                        227
+                                    ],
+                                    "score": 0.99,
+                                    "content": "7. Employer shall assist in the verification of interviews made by Job Service applicants by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                222,
+                                553,
+                                240
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        222,
+                                        549,
+                                        240
+                                    ],
+                                    "score": 0.97,
+                                    "content": "returming the Job Service referral card (Form 508) to Job Service, indicating whether the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                236,
+                                296,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        236,
+                                        296,
+                                        248
+                                    ],
+                                    "score": 0.99,
+                                    "content": "applicant has been hired or not hired.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                256,
+                                573,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        256,
+                                        573,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "8. Job openings filled by intemal promotion from the Employer's current workforce shall not be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                269,
+                                243,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        269,
+                                        243,
+                                        284
+                                    ],
+                                    "score": 0.98,
+                                    "content": "subject to this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                291,
+                                566,
+                                311
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        291,
+                                        561,
+                                        311
+                                    ],
+                                    "score": 0.96,
+                                    "content": "9. Until the period set out in Article III of this Agreement expires, the Employer shall include",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                304,
+                                553,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        304,
+                                        553,
+                                        322
+                                    ],
+                                    "score": 0.98,
+                                    "content": "any and all of its responsibilities under this Agreement in any assignment, conveyance or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                316,
+                                566,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        316,
+                                        561,
+                                        335
+                                    ],
+                                    "score": 0.96,
+                                    "content": "transfer of its interest whether reai or personal property in the above-enumerated Project to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                327,
+                                544,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        327,
+                                        539,
+                                        347
+                                    ],
+                                    "score": 0.97,
+                                    "content": "another individual, limited or general partnership, corporation or other business entity.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        104,
+                        573,
+                        347
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        75,
+                        350,
+                        252,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                351,
+                                249,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        351,
+                                        249,
+                                        364
+                                    ],
+                                    "score": 0.99,
+                                    "content": "B. Responsibilities of Iob Service",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        75,
+                        351,
+                        249,
+                        364
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        372,
+                        566,
+                        567
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                374,
+                                566,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        374,
+                                        566,
+                                        392
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. Job Service shall provide recruitment, referral and hiring services to the Employer under the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                386,
+                                235,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        386,
+                                        235,
+                                        401
+                                    ],
+                                    "score": 0.98,
+                                    "content": "terms of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                409,
+                                566,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        409,
+                                        558,
+                                        429
+                                    ],
+                                    "score": 0.99,
+                                    "content": "2. Job Service shall be responsible for timely and expedited referral of qualified applicants to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                421,
+                                183,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        421,
+                                        183,
+                                        436
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the Employer.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                444,
+                                534,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        444,
+                                        534,
+                                        464
+                                    ],
+                                    "score": 0.97,
+                                    "content": "3. Job Service shallfollow its standard screening procedures in determining whether the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                457,
+                                357,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        457,
+                                        357,
+                                        474
+                                    ],
+                                    "score": 0.99,
+                                    "content": "applicant is qualified for referral to the Employer.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                479,
+                                566,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        479,
+                                        560,
+                                        499
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. Job Service shail notify the Employer prior to the anticipated hiring dates of the number of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                492,
+                                566,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        492,
+                                        564,
+                                        511
+                                    ],
+                                    "score": 0.97,
+                                    "content": "applicants Job Service anticipates referring. Job Service shall make every reasonable effort",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                504,
+                                431,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        504,
+                                        431,
+                                        523
+                                    ],
+                                    "score": 0.98,
+                                    "content": "t0 refer at least two (2) qualified applicants for each job opening.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                91,
+                                527,
+                                566,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        527,
+                                        562,
+                                        547
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5. Job Service shall maintain appropriate statistical data on its referrals and the ultimate hiring",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                540,
+                                544,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        540,
+                                        540,
+                                        558
+                                    ],
+                                    "score": 0.98,
+                                    "content": "decisions made by the Employer and shall forward such staistical data to the City on a",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                553,
+                                187,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        112,
+                                        553,
+                                        187,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "quarterly basis.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        374,
+                        566,
+                        565
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        73,
+                        574,
+                        233,
+                        590
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                575,
+                                230,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        575,
+                                        230,
+                                        588
+                                    ],
+                                    "score": 0.98,
+                                    "content": "C. Responsibilities of the City",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        75,
+                        575,
+                        230,
+                        588
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        598,
+                        554,
+                        649
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                598,
+                                544,
+                                617
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        598,
+                                        423,
+                                        617
+                                    ],
+                                    "score": 0.97,
+                                    "content": "1. The City shall require the Employer as a condition of receiving",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        423,
+                                        601,
+                                        472,
+                                        614
+                                    ],
+                                    "score": 0.69,
+                                    "content": "\\Im{100,000}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        473,
+                                        598,
+                                        544,
+                                        617
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or moredirect",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                610,
+                                534,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        610,
+                                        532,
+                                        628
+                                    ],
+                                    "score": 0.97,
+                                    "content": "federal, state or local public financing (exciuding SBA Guarantees and urban renewal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                622,
+                                553,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        622,
+                                        552,
+                                        641
+                                    ],
+                                    "score": 0.98,
+                                    "content": "writedowns) for the above-enumerated project to enter into this First Source Empioyment",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                635,
+                                169,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        635,
+                                        169,
+                                        647
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        598,
+                        553,
+                        647
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        656,
+                        565,
+                        695
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                655,
+                                522,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        655,
+                                        522,
+                                        676
+                                    ],
+                                    "score": 0.95,
+                                    "content": "2. The City shall secure all necessary signatures and executions and thereafier file this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                669,
+                                566,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        669,
+                                        563,
+                                        686
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement with the Secretary of State and file it for record with the Polk County Recorder's",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                110,
+                                680,
+                                145,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        680,
+                                        145,
+                                        693
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Office.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        91,
+                        655,
+                        566,
+                        693
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

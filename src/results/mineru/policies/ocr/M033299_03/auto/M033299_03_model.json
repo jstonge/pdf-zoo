@@ -1,0 +1,648 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    178.28054809570312,
+                    1534.0819091796875,
+                    1489.2691650390625,
+                    1534.0819091796875,
+                    1489.2691650390625,
+                    1908.679443359375,
+                    178.28054809570312,
+                    1908.679443359375
+                ],
+                "score": 0.9999921321868896
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    178.97364807128906,
+                    1242.29052734375,
+                    1489.8746337890625,
+                    1242.29052734375,
+                    1489.8746337890625,
+                    1494.236572265625,
+                    178.97364807128906,
+                    1494.236572265625
+                ],
+                "score": 0.9999876022338867
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    180.5161590576172,
+                    827.0349731445312,
+                    1491.1572265625,
+                    827.0349731445312,
+                    1491.1572265625,
+                    1033.62744140625,
+                    180.5161590576172,
+                    1033.62744140625
+                ],
+                "score": 0.9999772906303406
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    182.20709228515625,
+                    241.70721435546875,
+                    1493.133056640625,
+                    241.70721435546875,
+                    1493.133056640625,
+                    451.18316650390625,
+                    182.20709228515625,
+                    451.18316650390625
+                ],
+                "score": 0.9999747276306152
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    180.68658447265625,
+                    1078.18896484375,
+                    1487.718994140625,
+                    1078.18896484375,
+                    1487.718994140625,
+                    1200.2069091796875,
+                    180.68658447265625,
+                    1200.2069091796875
+                ],
+                "score": 0.999941349029541
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    182.37142944335938,
+                    618.543212890625,
+                    1491.13134765625,
+                    618.543212890625,
+                    1491.13134765625,
+                    784.2890625,
+                    182.37142944335938,
+                    784.2890625
+                ],
+                "score": 0.9998177886009216
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    818.5222778320312,
+                    1921.489013671875,
+                    840.4788208007812,
+                    1921.489013671875,
+                    840.4788208007812,
+                    1951.0028076171875,
+                    818.5222778320312,
+                    1951.0028076171875
+                ],
+                "score": 0.9998084306716919
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    182.5492706298828,
+                    495.07122802734375,
+                    1490.6309814453125,
+                    495.07122802734375,
+                    1490.6309814453125,
+                    577.0612182617188,
+                    182.5492706298828,
+                    577.0612182617188
+                ],
+                "score": 0.9998073577880859
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    1537.0,
+                    1486.0,
+                    1537.0,
+                    1486.0,
+                    1582.0,
+                    181.0,
+                    1582.0
+                ],
+                "score": 0.99,
+                "text": "Article Twelve. The Agency shall hold all real, personal and intangible property which it"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    1582.0,
+                    1480.0,
+                    1582.0,
+                    1480.0,
+                    1622.0,
+                    181.0,
+                    1622.0
+                ],
+                "score": 0.98,
+                "text": "acquires in its own name. The Agency may acquire such property as it needs to accomplish"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    1623.0,
+                    1483.0,
+                    1623.0,
+                    1483.0,
+                    1662.0,
+                    180.0,
+                    1662.0
+                ],
+                "score": 0.98,
+                "text": "its pubfic purposes by sale, exchange or otherwise. The Agency may also acquire real"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    178.0,
+                    1666.0,
+                    1483.0,
+                    1666.0,
+                    1483.0,
+                    1703.0,
+                    178.0,
+                    1703.0
+                ],
+                "score": 0.99,
+                "text": "property by use of the power of eminent domain and is authorized to bring an action in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    1706.0,
+                    1485.0,
+                    1706.0,
+                    1485.0,
+                    1746.0,
+                    180.0,
+                    1746.0
+                ],
+                "score": 0.99,
+                "text": "eminent domain for a public purpose in its own name or may request a Member to bring such"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    178.0,
+                    1748.0,
+                    1482.0,
+                    1748.0,
+                    1482.0,
+                    1788.0,
+                    178.0,
+                    1788.0
+                ],
+                "score": 0.99,
+                "text": "action, which the Member shall then do, but the agency shall fully reimburse the Member for"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    179.0,
+                    1789.0,
+                    1482.0,
+                    1789.0,
+                    1482.0,
+                    1828.0,
+                    179.0,
+                    1828.0
+                ],
+                "score": 0.99,
+                "text": "all costs of acquisition including not only damages to be paid the owner but all administrative"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    178.0,
+                    1829.0,
+                    1480.0,
+                    1829.0,
+                    1480.0,
+                    1874.0,
+                    178.0,
+                    1874.0
+                ],
+                "score": 0.98,
+                "text": "and related costs incurred by the Member to compiete the acquisition. The Agency may"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    1874.0,
+                    1482.0,
+                    1874.0,
+                    1482.0,
+                    1912.0,
+                    181.0,
+                    1912.0
+                ],
+                "score": 1.0,
+                "text": "dispose of any of its property in the same manner as a city. All proceeds from the sale or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    1249.0,
+                    1482.0,
+                    1249.0,
+                    1482.0,
+                    1291.0,
+                    182.0,
+                    1291.0
+                ],
+                "score": 0.99,
+                "text": "Article Eleven. The Agency is specifically empowered to exercise all powers available under"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    1289.0,
+                    1483.0,
+                    1289.0,
+                    1483.0,
+                    1330.0,
+                    180.0,
+                    1330.0
+                ],
+                "score": 0.98,
+                "text": "lowa Code chapter 28F and lowa Code section 476A, subchapter II (2005, or successor laws)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    1332.0,
+                    1482.0,
+                    1332.0,
+                    1482.0,
+                    1374.0,
+                    180.0,
+                    1374.0
+                ],
+                "score": 0.99,
+                "text": "and for purposes of such chapters shall be an electric power agency. The terms \"city utility,\""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    178.0,
+                    1370.0,
+                    1485.0,
+                    1370.0,
+                    1485.0,
+                    1420.0,
+                    178.0,
+                    1420.0
+                ],
+                "score": 0.95,
+                "text": "\"electric power agency,\" \"project” or \"projects, “\"facility” and other terms used in this"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    181.0,
+                    1417.0,
+                    1482.0,
+                    1417.0,
+                    1482.0,
+                    1456.0,
+                    181.0,
+                    1456.0
+                ],
+                "score": 0.99,
+                "text": "Agreement or in Bylaws shall have the meanings ascribed in lowa Code sections 28F.2,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    1459.0,
+                    757.0,
+                    1459.0,
+                    757.0,
+                    1494.0,
+                    180.0,
+                    1494.0
+                ],
+                "score": 1.0,
+                "text": "362.2 and 476A.20 (2005), as amended."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    830.0,
+                    1485.0,
+                    830.0,
+                    1485.0,
+                    874.0,
+                    183.0,
+                    874.0
+                ],
+                "score": 0.99,
+                "text": "Article Nine. The Board of Trustees shall annually adopt a budget prior to the start of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    873.0,
+                    1484.0,
+                    873.0,
+                    1484.0,
+                    916.0,
+                    183.0,
+                    916.0
+                ],
+                "score": 0.99,
+                "text": "Agency's fiscal year. The budget shall provide for such contributions from Members as may"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    914.0,
+                    1488.0,
+                    914.0,
+                    1488.0,
+                    957.0,
+                    180.0,
+                    957.0
+                ],
+                "score": 0.99,
+                "text": "be deemed necessary. A copy of a proposed budget shall be forwarded to each Member at"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    180.0,
+                    957.0,
+                    1484.0,
+                    957.0,
+                    1484.0,
+                    999.0,
+                    180.0,
+                    999.0
+                ],
+                "score": 0.99,
+                "text": "least 30 days before adoption. A copy of the budget as adopted shall be sent to each Member"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1000.0,
+                    615.0,
+                    1000.0,
+                    615.0,
+                    1035.0,
+                    183.0,
+                    1035.0
+                ],
+                "score": 0.99,
+                "text": "within ten days after adoption"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    249.0,
+                    1486.0,
+                    249.0,
+                    1486.0,
+                    288.0,
+                    188.0,
+                    288.0
+                ],
+                "score": 0.99,
+                "text": "Article Six. The Board of Trustees shall adopt Bylaws consistent with this Agreement. The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    189.0,
+                    291.0,
+                    1486.0,
+                    291.0,
+                    1486.0,
+                    329.0,
+                    189.0,
+                    329.0
+                ],
+                "score": 0.99,
+                "text": "Bylaws shall provide for officers of the Agency. The Bylaws shall provide for the periodic"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    334.0,
+                    1489.0,
+                    334.0,
+                    1489.0,
+                    371.0,
+                    186.0,
+                    371.0
+                ],
+                "score": 0.99,
+                "text": "meeting of the Board of Trustees and may provide for an executive committee which may act"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    372.0,
+                    1487.0,
+                    372.0,
+                    1487.0,
+                    414.0,
+                    185.0,
+                    414.0
+                ],
+                "score": 0.98,
+                "text": "On behaif of the Agency between meetings of the Board of Trustees. The Agency's fiscal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    418.0,
+                    613.0,
+                    418.0,
+                    613.0,
+                    451.0,
+                    185.0,
+                    451.0
+                ],
+                "score": 0.98,
+                "text": "year shall be set in its Bylaws."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1082.0,
+                    1484.0,
+                    1082.0,
+                    1484.0,
+                    1122.0,
+                    183.0,
+                    1122.0
+                ],
+                "score": 0.99,
+                "text": "Article Ten. The Agency may join or form joint action agencies under the laws of this or any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    1125.0,
+                    1483.0,
+                    1125.0,
+                    1483.0,
+                    1163.0,
+                    184.0,
+                    1163.0
+                ],
+                "score": 0.99,
+                "text": "other state to carry out the purposes of this Agreement to the same extent as any Member"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1165.0,
+                    678.0,
+                    1165.0,
+                    678.0,
+                    1204.0,
+                    183.0,
+                    1204.0
+                ],
+                "score": 0.99,
+                "text": "could join or form such an agency."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    623.0,
+                    1484.0,
+                    623.0,
+                    1484.0,
+                    662.0,
+                    186.0,
+                    662.0
+                ],
+                "score": 0.99,
+                "text": "Article Eight. The Board of Trustees shall control the finances of the Agency and may"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    665.0,
+                    1485.0,
+                    665.0,
+                    1485.0,
+                    702.0,
+                    185.0,
+                    702.0
+                ],
+                "score": 0.99,
+                "text": "expend or invest funds of the Agency as it deems necessary to accomplish the purposes of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    709.0,
+                    1484.0,
+                    709.0,
+                    1484.0,
+                    743.0,
+                    188.0,
+                    743.0
+                ],
+                "score": 0.99,
+                "text": "Agency, provided, however, that all funds shall be invested in accord with lowa Code"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    748.0,
+                    1262.0,
+                    748.0,
+                    1262.0,
+                    787.0,
+                    184.0,
+                    787.0
+                ],
+                "score": 0.98,
+                "text": "sections 12B.10 and 12B.10A through 12B.10C (2005), 0r successor laws."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    819.0,
+                    1922.0,
+                    841.0,
+                    1922.0,
+                    841.0,
+                    1953.0,
+                    819.0,
+                    1953.0
+                ],
+                "score": 1.0,
+                "text": "2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    498.0,
+                    1486.0,
+                    498.0,
+                    1486.0,
+                    540.0,
+                    186.0,
+                    540.0
+                ],
+                "score": 0.99,
+                "text": "Article Seven. The Board of Trustees may employ an executive director for the Agency and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    543.0,
+                    1464.0,
+                    543.0,
+                    1464.0,
+                    579.0,
+                    186.0,
+                    579.0
+                ],
+                "score": 0.99,
+                "text": "provide for direct employment of such other persons as are deemed necessary or prudent"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

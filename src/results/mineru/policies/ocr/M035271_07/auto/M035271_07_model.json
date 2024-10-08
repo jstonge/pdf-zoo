@@ -1,0 +1,821 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    261.8963317871094,
+                    1135.4427490234375,
+                    1479.1680908203125,
+                    1135.4427490234375,
+                    1479.1680908203125,
+                    1364.150634765625,
+                    261.8963317871094,
+                    1364.150634765625
+                ],
+                "score": 0.99998939037323
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    260.9468994140625,
+                    249.55397033691406,
+                    1478.62744140625,
+                    249.55397033691406,
+                    1478.62744140625,
+                    547.4985961914062,
+                    260.9468994140625,
+                    547.4985961914062
+                ],
+                "score": 0.9999871253967285
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    262.4765319824219,
+                    1392.7598876953125,
+                    1478.5643310546875,
+                    1392.7598876953125,
+                    1478.5643310546875,
+                    1509.532958984375,
+                    262.4765319824219,
+                    1509.532958984375
+                ],
+                "score": 0.999982476234436
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    359.9862365722656,
+                    141.5271759033203,
+                    1471.122314453125,
+                    141.5271759033203,
+                    1471.122314453125,
+                    216.3395233154297,
+                    359.9862365722656,
+                    216.3395233154297
+                ],
+                "score": 0.9999752044677734
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    259.4894104003906,
+                    1540.110107421875,
+                    1478.647705078125,
+                    1540.110107421875,
+                    1478.647705078125,
+                    1618.5347900390625,
+                    259.4894104003906,
+                    1618.5347900390625
+                ],
+                "score": 0.9999136924743652
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    259.0234375,
+                    1651.568359375,
+                    1475.6307373046875,
+                    1651.568359375,
+                    1475.6307373046875,
+                    1727.0546875,
+                    259.0234375,
+                    1727.0546875
+                ],
+                "score": 0.9997905492782593
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    857.279541015625,
+                    2009.589599609375,
+                    876.0490112304688,
+                    2009.589599609375,
+                    876.0490112304688,
+                    2038.431884765625,
+                    857.279541015625,
+                    2038.431884765625
+                ],
+                "score": 0.9995262026786804
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    763.1359252929688,
+                    601.8687744140625,
+                    1276.7451171875,
+                    601.8687744140625,
+                    1276.7451171875,
+                    837.508056640625,
+                    763.1359252929688,
+                    837.508056640625
+                ],
+                "score": 0.9984742403030396
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    391.6564025878906,
+                    1836.6651611328125,
+                    1477.40576171875,
+                    1836.6651611328125,
+                    1477.40576171875,
+                    1918.753662109375,
+                    391.6564025878906,
+                    1918.753662109375
+                ],
+                "score": 0.9967254996299744
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    762.5077514648438,
+                    866.9008178710938,
+                    1273.119873046875,
+                    866.9008178710938,
+                    1273.119873046875,
+                    1101.1116943359375,
+                    762.5077514648438,
+                    1101.1116943359375
+                ],
+                "score": 0.994574785232544
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    390.8277282714844,
+                    1727.5142822265625,
+                    1475.8875732421875,
+                    1727.5142822265625,
+                    1475.8875732421875,
+                    1807.4342041015625,
+                    390.8277282714844,
+                    1807.4342041015625
+                ],
+                "score": 0.9905793070793152
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    459.249755859375,
+                    869.634033203125,
+                    697.6424560546875,
+                    869.634033203125,
+                    697.6424560546875,
+                    904.0066528320312,
+                    459.249755859375,
+                    904.0066528320312
+                ],
+                "score": 0.6795701384544373
+            },
+            {
+                "category_id": 6,
+                "poly": [
+                    779.6558837890625,
+                    583.6156616210938,
+                    940.523681640625,
+                    583.6156616210938,
+                    940.523681640625,
+                    612.3588256835938,
+                    779.6558837890625,
+                    612.3588256835938
+                ],
+                "score": 0.6597900390625
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    459.3849792480469,
+                    580.2052001953125,
+                    603.1304931640625,
+                    580.2052001953125,
+                    603.1304931640625,
+                    616.5127563476562,
+                    459.3849792480469,
+                    616.5127563476562
+                ],
+                "score": 0.4405015707015991
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    385.32440185546875,
+                    1726.562255859375,
+                    1479.3067626953125,
+                    1726.562255859375,
+                    1479.3067626953125,
+                    1920.7454833984375,
+                    385.32440185546875,
+                    1920.7454833984375
+                ],
+                "score": 0.3198249042034149
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    259.0,
+                    1142.0,
+                    336.0,
+                    1142.0,
+                    336.0,
+                    1169.0,
+                    259.0,
+                    1169.0
+                ],
+                "score": 1.0,
+                "text": "13.11"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    387.0,
+                    1141.0,
+                    1477.0,
+                    1141.0,
+                    1477.0,
+                    1176.0,
+                    387.0,
+                    1176.0
+                ],
+                "score": 0.99,
+                "text": "Cumulative Rights. The various rights, powers, options, elections and remedies of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    384.0,
+                    1176.0,
+                    1475.0,
+                    1176.0,
+                    1475.0,
+                    1214.0,
+                    384.0,
+                    1214.0
+                ],
+                "score": 0.99,
+                "text": "any party provided in the Agreement, shal be construed as cumulative and not one"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    385.0,
+                    1213.0,
+                    1473.0,
+                    1213.0,
+                    1473.0,
+                    1250.0,
+                    385.0,
+                    1250.0
+                ],
+                "score": 0.99,
+                "text": "of them is exclusive of the others or exclusive of any rights, remedies or priorities"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    388.0,
+                    1249.0,
+                    1473.0,
+                    1249.0,
+                    1473.0,
+                    1289.0,
+                    388.0,
+                    1289.0
+                ],
+                "score": 0.99,
+                "text": "allowed any party by law, and shall in no way affect or impair the right of any party"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    385.0,
+                    1288.0,
+                    1475.0,
+                    1288.0,
+                    1475.0,
+                    1327.0,
+                    385.0,
+                    1327.0
+                ],
+                "score": 0.98,
+                "text": "to pursue any other equitable or legal remedy to which any party may be entitled as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    385.0,
+                    1324.0,
+                    1429.0,
+                    1324.0,
+                    1429.0,
+                    1360.0,
+                    385.0,
+                    1360.0
+                ],
+                "score": 1.0,
+                "text": "long as any default remains in any way unremedied, unsatisfied or undischarged."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    264.0,
+                    254.0,
+                    1469.0,
+                    254.0,
+                    1469.0,
+                    285.0,
+                    264.0,
+                    285.0
+                ],
+                "score": 0.97,
+                "text": "13.10 Notices.  Notices under the Agreement shall be in writing and delivered to the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    290.0,
+                    1470.0,
+                    290.0,
+                    1470.0,
+                    323.0,
+                    358.0,
+                    323.0
+                ],
+                "score": 0.99,
+                "text": "representative of the party to receive notice (identified below) at the address of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    326.0,
+                    1470.0,
+                    326.0,
+                    1470.0,
+                    363.0,
+                    357.0,
+                    363.0
+                ],
+                "score": 0.99,
+                "text": "parry to receive notice as it appears below or as otherwise provided for by proper"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    365.0,
+                    1469.0,
+                    365.0,
+                    1469.0,
+                    394.0,
+                    358.0,
+                    394.0
+                ],
+                "score": 0.98,
+                "text": "notice here under. This person shall be the Contacr Person. The effective date for"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    399.0,
+                    1469.0,
+                    399.0,
+                    1469.0,
+                    431.0,
+                    360.0,
+                    431.0
+                ],
+                "score": 0.99,
+                "text": "any notice under the Agreement shall be the date of delivery of such notice (nor the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    432.0,
+                    1472.0,
+                    432.0,
+                    1472.0,
+                    474.0,
+                    362.0,
+                    474.0
+                ],
+                "score": 0.95,
+                "text": "date of mailing) which may be effected by certified U.S. Mail return receipt"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    473.0,
+                    1470.0,
+                    473.0,
+                    1470.0,
+                    514.0,
+                    360.0,
+                    514.0
+                ],
+                "score": 1.0,
+                "text": "requested with postage prepaid thereon or by recognized overnight delivery service,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    510.0,
+                    1450.0,
+                    510.0,
+                    1450.0,
+                    545.0,
+                    357.0,
+                    545.0
+                ],
+                "score": 0.99,
+                "text": "such as Federal Express or UPS. Failure to accept \"receipt\" shall constitute delivery."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    261.0,
+                    1401.0,
+                    341.0,
+                    1401.0,
+                    341.0,
+                    1427.0,
+                    261.0,
+                    1427.0
+                ],
+                "score": 1.0,
+                "text": "13.12"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    386.0,
+                    1400.0,
+                    1476.0,
+                    1400.0,
+                    1476.0,
+                    1433.0,
+                    386.0,
+                    1433.0
+                ],
+                "score": 0.98,
+                "text": "Severability. If any provision of the Agreement is determined by a court of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    385.0,
+                    1436.0,
+                    1474.0,
+                    1436.0,
+                    1474.0,
+                    1469.0,
+                    385.0,
+                    1469.0
+                ],
+                "score": 0.99,
+                "text": "competent jurisdiction to be invalid or unenforceable, such determination shall not"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    388.0,
+                    1471.0,
+                    1464.0,
+                    1471.0,
+                    1464.0,
+                    1508.0,
+                    388.0,
+                    1508.0
+                ],
+                "score": 0.98,
+                "text": "affect the validiry or enforceabiliry of any orher part or provision of the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    142.0,
+                    1469.0,
+                    142.0,
+                    1469.0,
+                    180.0,
+                    361.0,
+                    180.0
+                ],
+                "score": 0.98,
+                "text": "Agreement shall not be construed as affecting any subsequent breach or the right ro"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    184.0,
+                    1424.0,
+                    184.0,
+                    1424.0,
+                    214.0,
+                    362.0,
+                    214.0
+                ],
+                "score": 0.98,
+                "text": "require performance with respect thereto or to claim a breach with respect thereto."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    263.0,
+                    1550.0,
+                    362.0,
+                    1550.0,
+                    362.0,
+                    1575.0,
+                    263.0,
+                    1575.0
+                ],
+                "score": 1.0,
+                "text": "13.13"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    382.0,
+                    1546.0,
+                    1476.0,
+                    1546.0,
+                    1476.0,
+                    1582.0,
+                    382.0,
+                    1582.0
+                ],
+                "score": 0.99,
+                "text": "Time is of the Essence. Time is of the essence with respect to the performance of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    388.0,
+                    1583.0,
+                    749.0,
+                    1583.0,
+                    749.0,
+                    1617.0,
+                    388.0,
+                    1617.0
+                ],
+                "score": 0.97,
+                "text": "the terms of rhe Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    262.0,
+                    1657.0,
+                    1470.0,
+                    1657.0,
+                    1470.0,
+                    1690.0,
+                    262.0,
+                    1690.0
+                ],
+                "score": 0.99,
+                "text": "13.14 Authorization. Each party to the Agreement represents and warrants ro the other"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    387.0,
+                    1693.0,
+                    449.0,
+                    1693.0,
+                    449.0,
+                    1728.0,
+                    387.0,
+                    1728.0
+                ],
+                "score": 0.89,
+                "text": "that:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    857.0,
+                    2012.0,
+                    876.0,
+                    2012.0,
+                    876.0,
+                    2042.0,
+                    857.0,
+                    2042.0
+                ],
+                "score": 0.6,
+                "text": "7."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    392.0,
+                    1842.0,
+                    1471.0,
+                    1842.0,
+                    1471.0,
+                    1876.0,
+                    392.0,
+                    1876.0
+                ],
+                "score": 0.97,
+                "text": "13.14.2  It has taken afl requisite action (corporate, statutory or otherwise) to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    539.0,
+                    1882.0,
+                    1470.0,
+                    1882.0,
+                    1470.0,
+                    1912.0,
+                    539.0,
+                    1912.0
+                ],
+                "score": 1.0,
+                "text": "approve execution, delivery and performance of the Agreement, and the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    391.0,
+                    1732.0,
+                    493.0,
+                    1732.0,
+                    493.0,
+                    1760.0,
+                    391.0,
+                    1760.0
+                ],
+                "score": 1.0,
+                "text": "13.14.1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    534.0,
+                    1730.0,
+                    1472.0,
+                    1730.0,
+                    1472.0,
+                    1766.0,
+                    534.0,
+                    1766.0
+                ],
+                "score": 0.99,
+                "text": "It has the right, power and authoriry to enter into and perform its"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    542.0,
+                    1766.0,
+                    973.0,
+                    1766.0,
+                    973.0,
+                    1807.0,
+                    542.0,
+                    1807.0
+                ],
+                "score": 0.98,
+                "text": "obligations under the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    461.0,
+                    868.0,
+                    695.0,
+                    868.0,
+                    695.0,
+                    903.0,
+                    461.0,
+                    903.0
+                ],
+                "score": 1.0,
+                "text": "If to Department:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    780.0,
+                    582.0,
+                    941.0,
+                    582.0,
+                    941.0,
+                    614.0,
+                    780.0,
+                    614.0
+                ],
+                "score": 0.97,
+                "text": "Nicole Gehl"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    460.0,
+                    582.0,
+                    602.0,
+                    582.0,
+                    602.0,
+                    614.0,
+                    460.0,
+                    614.0
+                ],
+                "score": 0.96,
+                "text": "If to ABD:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    388.0,
+                    1731.0,
+                    1473.0,
+                    1731.0,
+                    1473.0,
+                    1768.0,
+                    388.0,
+                    1768.0
+                ],
+                "score": 0.97,
+                "text": "13.14.1  It has the right, power and authoriry to enter into and perform its"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    539.0,
+                    1768.0,
+                    973.0,
+                    1768.0,
+                    973.0,
+                    1806.0,
+                    539.0,
+                    1806.0
+                ],
+                "score": 0.99,
+                "text": "obligations under the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    389.0,
+                    1844.0,
+                    532.0,
+                    1844.0,
+                    532.0,
+                    1869.0,
+                    389.0,
+                    1869.0
+                ],
+                "score": 1.0,
+                "text": "13.14.2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    535.0,
+                    1843.0,
+                    1472.0,
+                    1843.0,
+                    1472.0,
+                    1877.0,
+                    535.0,
+                    1877.0
+                ],
+                "score": 0.98,
+                "text": "It has taken all requisite action (corporate, statutory or otherwise) to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    539.0,
+                    1879.0,
+                    1472.0,
+                    1879.0,
+                    1472.0,
+                    1914.0,
+                    539.0,
+                    1914.0
+                ],
+                "score": 0.99,
+                "text": "approve execution, delivery and performance of the Agreement, and the"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

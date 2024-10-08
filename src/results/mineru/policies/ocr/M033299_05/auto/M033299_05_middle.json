@@ -1,0 +1,586 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        113,
+                        56,
+                        128
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        38,
+                        554,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                38,
+                                554,
+                                233
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        38,
+                                        554,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                38,
+                                                554,
+                                                233
+                                            ],
+                                            "score": 0.30132800340652466,
+                                            "type": "image",
+                                            "image_path": "511242d26ffeb8f235da61e09f8b4c2d3a33d0a7da4c311a65765769c3fff7d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        83,
+                        242,
+                        510,
+                        337
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                258,
+                                170,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        258,
+                                        170,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "PHONE NUMBER:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                281,
+                                143,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        281,
+                                        143,
+                                        290
+                                    ],
+                                    "score": 0.95,
+                                    "content": "MC/VISA #,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                386,
+                                284,
+                                402,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        284,
+                                        402,
+                                        293
+                                    ],
+                                    "score": 0.96,
+                                    "content": "exp.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                302,
+                                455,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        302,
+                                        115,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CASH",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        169,
+                                        303,
+                                        213,
+                                        313
+                                    ],
+                                    "score": 0.96,
+                                    "content": "CHECK #",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        276,
+                                        304,
+                                        326,
+                                        313
+                                    ],
+                                    "score": 0.95,
+                                    "content": "BILLING #",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        399,
+                                        305,
+                                        455,
+                                        314
+                                    ],
+                                    "score": 0.92,
+                                    "content": "AMOUNT: S",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                86,
+                                326,
+                                225,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        326,
+                                        202,
+                                        335
+                                    ],
+                                    "score": 0.94,
+                                    "content": "CLERKS: DB PK PM",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        327,
+                                        225,
+                                        335
+                                    ],
+                                    "score": 0.97,
+                                    "content": "KU",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        41,
+                        38,
+                        56,
+                        233
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        82,
+                        38,
+                        554,
+                        233
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        242,
+                        610.5599975585938,
+                        337
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        38,
+                        610.5599975585938,
+                        233
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": [
+                        {
+                            "layout_bbox": [
+                                41,
+                                38,
+                                56,
+                                233
+                            ],
+                            "layout_label": "V",
+                            "sub_layout": []
+                        },
+                        {
+                            "layout_bbox": [
+                                82,
+                                38,
+                                554,
+                                233
+                            ],
+                            "layout_label": "V",
+                            "sub_layout": []
+                        }
+                    ]
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        242,
+                        610.5599975585938,
+                        337
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        38,
+                        554,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                38,
+                                554,
+                                233
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        38,
+                                        554,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                38,
+                                                554,
+                                                233
+                                            ],
+                                            "score": 0.30132800340652466,
+                                            "type": "image",
+                                            "image_path": "511242d26ffeb8f235da61e09f8b4c2d3a33d0a7da4c311a65765769c3fff7d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        41,
+                        113,
+                        56,
+                        128
+                    ],
+                    "lines": [],
+                    "bbox_fs": [
+                        41,
+                        113,
+                        56,
+                        128
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        38,
+                        554,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                82,
+                                38,
+                                554,
+                                233
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        38,
+                                        554,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                38,
+                                                554,
+                                                233
+                                            ],
+                                            "score": 0.30132800340652466,
+                                            "type": "image",
+                                            "image_path": "511242d26ffeb8f235da61e09f8b4c2d3a33d0a7da4c311a65765769c3fff7d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        82,
+                        38,
+                        554,
+                        233
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        83,
+                        242,
+                        510,
+                        337
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                258,
+                                170,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        258,
+                                        170,
+                                        268
+                                    ],
+                                    "score": 1.0,
+                                    "content": "PHONE NUMBER:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                281,
+                                143,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        281,
+                                        143,
+                                        290
+                                    ],
+                                    "score": 0.95,
+                                    "content": "MC/VISA #,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                386,
+                                284,
+                                402,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        386,
+                                        284,
+                                        402,
+                                        293
+                                    ],
+                                    "score": 0.96,
+                                    "content": "exp.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                302,
+                                455,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        302,
+                                        115,
+                                        313
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CASH",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        169,
+                                        303,
+                                        213,
+                                        313
+                                    ],
+                                    "score": 0.96,
+                                    "content": "CHECK #",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        276,
+                                        304,
+                                        326,
+                                        313
+                                    ],
+                                    "score": 0.95,
+                                    "content": "BILLING #",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        399,
+                                        305,
+                                        455,
+                                        314
+                                    ],
+                                    "score": 0.92,
+                                    "content": "AMOUNT: S",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                326,
+                                225,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        326,
+                                        202,
+                                        335
+                                    ],
+                                    "score": 0.94,
+                                    "content": "CLERKS: DB PK PM",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        327,
+                                        225,
+                                        335
+                                    ],
+                                    "score": 0.97,
+                                    "content": "KU",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        85,
+                        258,
+                        455,
+                        335
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

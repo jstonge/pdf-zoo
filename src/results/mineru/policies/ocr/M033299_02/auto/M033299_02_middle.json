@@ -1,0 +1,1781 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        79,
+                        70,
+                        523,
+                        100
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                75,
+                                522,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        75,
+                                        522,
+                                        85
+                                    ],
+                                    "score": 0.96,
+                                    "content": "AGREEMENT ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                201,
+                                89,
+                                401,
+                                98
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        89,
+                                        401,
+                                        98
+                                    ],
+                                    "score": 0.89,
+                                    "content": "UNDER IOWA CODE CHAPTER Z8E",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        127,
+                        537,
+                        172
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                130,
+                                535,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        130,
+                                        535,
+                                        142
+                                    ],
+                                    "score": 0.99,
+                                    "content": "BE IT REMEMBERED that for the mutual promises, covenants and considerations herein",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                145,
+                                535,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        145,
+                                        535,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "contained the Algona Municipal Utilities and Waverly Light & Power have entered into the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                160,
+                                506,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        160,
+                                        506,
+                                        171
+                                    ],
+                                    "score": 0.99,
+                                    "content": "following Agreement under lowa Code chapter 28E, 28F and 476A.20 et seq. to wit:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        187,
+                        538,
+                        278
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                190,
+                                535,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        190,
+                                        535,
+                                        201
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article One. The organization herein created is a separate legal entity, a body corporate and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                205,
+                                535,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        205,
+                                        535,
+                                        217
+                                    ],
+                                    "score": 0.96,
+                                    "content": "politic which shall be known as the Iowa Stored Energy Plant Agency (the \"Agency\"'). The",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                222,
+                                535,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        222,
+                                        535,
+                                        231
+                                    ],
+                                    "score": 0.97,
+                                    "content": "purpose of the Agency is to provide joint and coordinated action regarding the acqulsition,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                236,
+                                535,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        236,
+                                        535,
+                                        247
+                                    ],
+                                    "score": 0.99,
+                                    "content": "financing and administration of Member interest in an electric plant or plants using natural",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                251,
+                                535,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        251,
+                                        535,
+                                        262
+                                    ],
+                                    "score": 0.98,
+                                    "content": "gas or other gases, wind, biomass, air or other simllar or related energy sources as a source",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                266,
+                                260,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        266,
+                                        260,
+                                        278
+                                    ],
+                                    "score": 0.98,
+                                    "content": "for the generation of electrical power",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        292,
+                        537,
+                        323
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                295,
+                                534,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        295,
+                                        534,
+                                        307
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Two. The initial Members of the Agency are: Algona Municipal Utilities and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                310,
+                                193,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        310,
+                                        193,
+                                        323
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Waveriy Light &Power.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        337,
+                        539,
+                        564
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                340,
+                                536,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        340,
+                                        536,
+                                        353
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Article Three. The Agency shall have the power and authority to enter into contracts on",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                355,
+                                536,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        355,
+                                        536,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "behalf of the Agency to hire such employees, consuitants, advisors and obtain such",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                370,
+                                536,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        370,
+                                        536,
+                                        383
+                                    ],
+                                    "score": 0.98,
+                                    "content": "professional services as are deemed necessary for the design, siting, construction, financing,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                385,
+                                536,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        385,
+                                        536,
+                                        398
+                                    ],
+                                    "score": 0.98,
+                                    "content": "management and control of an electric plant or plants using natural gas or other gases, wind,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                400,
+                                536,
+                                413
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        400,
+                                        536,
+                                        413
+                                    ],
+                                    "score": 0.99,
+                                    "content": "biomass, air or other similar or related energy sources for the generation of electrical power,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                415,
+                                536,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        415,
+                                        536,
+                                        427
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and may conduct such feasibility studies, or contract for the preparation of feasibility studies,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                430,
+                                536,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        430,
+                                        536,
+                                        443
+                                    ],
+                                    "score": 0.99,
+                                    "content": "of questions concerning financing, seismology, geology, meteorology, engineering and other",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                445,
+                                536,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        445,
+                                        536,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "technical matters related to the siting, designs, construction, financing, management or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                459,
+                                536,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        459,
+                                        536,
+                                        473
+                                    ],
+                                    "score": 0.99,
+                                    "content": "control of a stored energy plant and otherwise exercise all powers conferred by lowa Code",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                475,
+                                537,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        475,
+                                        537,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "chapter 28E, 28F and Sections 476A.20 through 476A.36 (2005), as amended, as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                490,
+                                536,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        490,
+                                        536,
+                                        502
+                                    ],
+                                    "score": 0.98,
+                                    "content": "contemplated by the Members of the Agency.  The Agency shall have the power and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                504,
+                                536,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        504,
+                                        536,
+                                        518
+                                    ],
+                                    "score": 0.98,
+                                    "content": "authority, subject to the terms of this Agreement, to design, site, construct, finance, manage,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                520,
+                                536,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        520,
+                                        536,
+                                        532
+                                    ],
+                                    "score": 0.99,
+                                    "content": "operate and control one or more electric plants using natural gas or other gases, wind,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                535,
+                                536,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        535,
+                                        536,
+                                        547
+                                    ],
+                                    "score": 0.99,
+                                    "content": "biomass, air or other similar or related energy sources for the generation of electrical power",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                551,
+                                519,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        551,
+                                        519,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and issue its public bonds or obligations as it deems necessary to carry out its purposes.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        577,
+                        538,
+                        638
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                580,
+                                536,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        580,
+                                        536,
+                                        593
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Article Four. The initial Board of Trustees of the Agency shall consist of Sheila Bishop, Neil",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                596,
+                                536,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        596,
+                                        536,
+                                        606
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Ruddy, Dennis Fannin, Scott Tonderum, and John Biisten. These Trustees shall serve until",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                610,
+                                536,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        610,
+                                        536,
+                                        623
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the first Annual meeting, at which an election of Trustees shall be held under terms stated in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                626,
+                                126,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        626,
+                                        126,
+                                        638
+                                    ],
+                                    "score": 0.96,
+                                    "content": "theBylaws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        678.25,
+                        581,
+                        749
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                675,
+                                581,
+                                749
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        675,
+                                        581,
+                                        749
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                675,
+                                                581,
+                                                749
+                                            ],
+                                            "score": 0.6637942790985107,
+                                            "type": "image",
+                                            "image_path": "80da666ec84448fe500fc3076e2b540ff139e398328d391a321a0420684243b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        70,
+                        610.5599975585938,
+                        749
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        70,
+                        610.5599975585938,
+                        749
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        678.25,
+                        581,
+                        749
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                675,
+                                581,
+                                749
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        675,
+                                        581,
+                                        749
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                675,
+                                                581,
+                                                749
+                                            ],
+                                            "score": 0.6637942790985107,
+                                            "type": "image",
+                                            "image_path": "80da666ec84448fe500fc3076e2b540ff139e398328d391a321a0420684243b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        297,
+                        690,
+                        306,
+                        701
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                299,
+                                692,
+                                304,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        299,
+                                        692,
+                                        304,
+                                        701
+                                    ],
+                                    "score": 0.99,
+                                    "content": "1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        65,
+                        653,
+                        539,
+                        682
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                68,
+                                655,
+                                536,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        655,
+                                        536,
+                                        668
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Five. Except as otherwise provided in this Agreement, all powers of the Agency are",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                669,
+                                231,
+                                682
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        669,
+                                        231,
+                                        682
+                                    ],
+                                    "score": 0.97,
+                                    "content": "vested in the Board of Tnustees.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        79,
+                        70,
+                        523,
+                        100
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                75,
+                                522,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        75,
+                                        522,
+                                        85
+                                    ],
+                                    "score": 0.96,
+                                    "content": "AGREEMENT ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                201,
+                                89,
+                                401,
+                                98
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        201,
+                                        89,
+                                        401,
+                                        98
+                                    ],
+                                    "score": 0.89,
+                                    "content": "UNDER IOWA CODE CHAPTER Z8E",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        79,
+                        70,
+                        523,
+                        100
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        127,
+                        537,
+                        172
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                130,
+                                537,
+                                142
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        130,
+                                        535,
+                                        142
+                                    ],
+                                    "score": 0.99,
+                                    "content": "BE IT REMEMBERED that for the mutual promises, covenants and considerations herein",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                145,
+                                537,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        145,
+                                        535,
+                                        156
+                                    ],
+                                    "score": 0.99,
+                                    "content": "contained the Algona Municipal Utilities and Waverly Light & Power have entered into the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                160,
+                                506,
+                                171
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        160,
+                                        506,
+                                        171
+                                    ],
+                                    "score": 0.99,
+                                    "content": "following Agreement under lowa Code chapter 28E, 28F and 476A.20 et seq. to wit:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        130,
+                        537,
+                        171
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        187,
+                        538,
+                        278
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                190,
+                                537,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        190,
+                                        535,
+                                        201
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article One. The organization herein created is a separate legal entity, a body corporate and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                205,
+                                537,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        205,
+                                        535,
+                                        217
+                                    ],
+                                    "score": 0.96,
+                                    "content": "politic which shall be known as the Iowa Stored Energy Plant Agency (the \"Agency\"'). The",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                222,
+                                537,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        222,
+                                        535,
+                                        231
+                                    ],
+                                    "score": 0.97,
+                                    "content": "purpose of the Agency is to provide joint and coordinated action regarding the acqulsition,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                236,
+                                537,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        236,
+                                        535,
+                                        247
+                                    ],
+                                    "score": 0.99,
+                                    "content": "financing and administration of Member interest in an electric plant or plants using natural",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                251,
+                                537,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        251,
+                                        535,
+                                        262
+                                    ],
+                                    "score": 0.98,
+                                    "content": "gas or other gases, wind, biomass, air or other simllar or related energy sources as a source",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                266,
+                                260,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        266,
+                                        260,
+                                        278
+                                    ],
+                                    "score": 0.98,
+                                    "content": "for the generation of electrical power",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        190,
+                        537,
+                        278
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        292,
+                        537,
+                        323
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                295,
+                                537,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        295,
+                                        534,
+                                        307
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Two. The initial Members of the Agency are: Algona Municipal Utilities and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                310,
+                                193,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        310,
+                                        193,
+                                        323
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Waveriy Light &Power.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        295,
+                        537,
+                        323
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        337,
+                        539,
+                        564
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                340,
+                                537,
+                                353
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        340,
+                                        536,
+                                        353
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Article Three. The Agency shall have the power and authority to enter into contracts on",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                355,
+                                537,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        355,
+                                        536,
+                                        367
+                                    ],
+                                    "score": 0.99,
+                                    "content": "behalf of the Agency to hire such employees, consuitants, advisors and obtain such",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                370,
+                                537,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        370,
+                                        536,
+                                        383
+                                    ],
+                                    "score": 0.98,
+                                    "content": "professional services as are deemed necessary for the design, siting, construction, financing,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                385,
+                                537,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        385,
+                                        536,
+                                        398
+                                    ],
+                                    "score": 0.98,
+                                    "content": "management and control of an electric plant or plants using natural gas or other gases, wind,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                400,
+                                537,
+                                413
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        400,
+                                        536,
+                                        413
+                                    ],
+                                    "score": 0.99,
+                                    "content": "biomass, air or other similar or related energy sources for the generation of electrical power,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                415,
+                                537,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        415,
+                                        536,
+                                        427
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and may conduct such feasibility studies, or contract for the preparation of feasibility studies,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                430,
+                                537,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        430,
+                                        536,
+                                        443
+                                    ],
+                                    "score": 0.99,
+                                    "content": "of questions concerning financing, seismology, geology, meteorology, engineering and other",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                445,
+                                537,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        445,
+                                        536,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "technical matters related to the siting, designs, construction, financing, management or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                459,
+                                537,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        459,
+                                        536,
+                                        473
+                                    ],
+                                    "score": 0.99,
+                                    "content": "control of a stored energy plant and otherwise exercise all powers conferred by lowa Code",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                475,
+                                537,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        475,
+                                        537,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "chapter 28E, 28F and Sections 476A.20 through 476A.36 (2005), as amended, as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                490,
+                                537,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        490,
+                                        536,
+                                        502
+                                    ],
+                                    "score": 0.98,
+                                    "content": "contemplated by the Members of the Agency.  The Agency shall have the power and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                504,
+                                537,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        504,
+                                        536,
+                                        518
+                                    ],
+                                    "score": 0.98,
+                                    "content": "authority, subject to the terms of this Agreement, to design, site, construct, finance, manage,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                520,
+                                537,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        520,
+                                        536,
+                                        532
+                                    ],
+                                    "score": 0.99,
+                                    "content": "operate and control one or more electric plants using natural gas or other gases, wind,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                535,
+                                537,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        535,
+                                        536,
+                                        547
+                                    ],
+                                    "score": 0.99,
+                                    "content": "biomass, air or other similar or related energy sources for the generation of electrical power",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                551,
+                                519,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        551,
+                                        519,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and issue its public bonds or obligations as it deems necessary to carry out its purposes.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        340,
+                        537,
+                        563
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        577,
+                        538,
+                        638
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                580,
+                                537,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        580,
+                                        536,
+                                        593
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Article Four. The initial Board of Trustees of the Agency shall consist of Sheila Bishop, Neil",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                596,
+                                537,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        596,
+                                        536,
+                                        606
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Ruddy, Dennis Fannin, Scott Tonderum, and John Biisten. These Trustees shall serve until",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                610,
+                                537,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        610,
+                                        536,
+                                        623
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the first Annual meeting, at which an election of Trustees shall be held under terms stated in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                626,
+                                126,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        626,
+                                        126,
+                                        638
+                                    ],
+                                    "score": 0.96,
+                                    "content": "theBylaws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        65,
+                        580,
+                        537,
+                        638
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        460,
+                        678.25,
+                        581,
+                        749
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                460,
+                                675,
+                                581,
+                                749
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        675,
+                                        581,
+                                        749
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                460,
+                                                675,
+                                                581,
+                                                749
+                                            ],
+                                            "score": 0.6637942790985107,
+                                            "type": "image",
+                                            "image_path": "80da666ec84448fe500fc3076e2b540ff139e398328d391a321a0420684243b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        460,
+                        678.25,
+                        581,
+                        749
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

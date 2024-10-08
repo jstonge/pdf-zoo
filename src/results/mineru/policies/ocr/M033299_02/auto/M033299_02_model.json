@@ -1,0 +1,706 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    180.8944549560547,
+                    519.451171875,
+                    1495.6610107421875,
+                    519.451171875,
+                    1495.6610107421875,
+                    773.250732421875,
+                    180.8944549560547,
+                    773.250732421875
+                ],
+                "score": 0.9999901056289673
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    219.78106689453125,
+                    196.67967224121094,
+                    1452.778564453125,
+                    196.67967224121094,
+                    1452.778564453125,
+                    279.3597412109375,
+                    219.78106689453125,
+                    279.3597412109375
+                ],
+                "score": 0.9999815821647644
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    180.9668426513672,
+                    937.1736450195312,
+                    1497.2496337890625,
+                    937.1736450195312,
+                    1497.2496337890625,
+                    1565.03173828125,
+                    180.9668426513672,
+                    1565.03173828125
+                ],
+                "score": 0.9999744296073914
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    181.36880493164062,
+                    1601.6080322265625,
+                    1496.13623046875,
+                    1601.6080322265625,
+                    1496.13623046875,
+                    1772.4227294921875,
+                    181.36880493164062,
+                    1772.4227294921875
+                ],
+                "score": 0.9999505281448364
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    181.11209106445312,
+                    353.0041198730469,
+                    1493.2745361328125,
+                    353.0041198730469,
+                    1493.2745361328125,
+                    478.9016418457031,
+                    181.11209106445312,
+                    478.9016418457031
+                ],
+                "score": 0.9999332427978516
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    826.30224609375,
+                    1915.4281005859375,
+                    851.4395751953125,
+                    1915.4281005859375,
+                    851.4395751953125,
+                    1947.737060546875,
+                    826.30224609375,
+                    1947.737060546875
+                ],
+                "score": 0.999913215637207
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    182.091796875,
+                    811.6278686523438,
+                    1491.9755859375,
+                    811.6278686523438,
+                    1491.9755859375,
+                    897.052978515625,
+                    182.091796875,
+                    897.052978515625
+                ],
+                "score": 0.9997856020927429
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    181.25514221191406,
+                    1812.12646484375,
+                    1497.687744140625,
+                    1812.12646484375,
+                    1497.687744140625,
+                    1893.5718994140625,
+                    181.25514221191406,
+                    1893.5718994140625
+                ],
+                "score": 0.9949142932891846
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    1278.1668701171875,
+                    1873.8963623046875,
+                    1614.8004150390625,
+                    1873.8963623046875,
+                    1614.8004150390625,
+                    2078.854248046875,
+                    1278.1668701171875,
+                    2078.854248046875
+                ],
+                "score": 0.6637942790985107
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1278.103515625,
+                    1873.89892578125,
+                    1614.9071044921875,
+                    1873.89892578125,
+                    1614.9071044921875,
+                    2078.723876953125,
+                    1278.103515625,
+                    2078.723876953125
+                ],
+                "score": 0.5619213581085205
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    528.0,
+                    1486.0,
+                    528.0,
+                    1486.0,
+                    560.0,
+                    186.0,
+                    560.0
+                ],
+                "score": 0.99,
+                "text": "Article One. The organization herein created is a separate legal entity, a body corporate and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    571.0,
+                    1486.0,
+                    571.0,
+                    1486.0,
+                    603.0,
+                    186.0,
+                    603.0
+                ],
+                "score": 0.96,
+                "text": "politic which shall be known as the Iowa Stored Energy Plant Agency (the \"Agency\"'). The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    616.0,
+                    1486.0,
+                    616.0,
+                    1486.0,
+                    643.0,
+                    186.0,
+                    643.0
+                ],
+                "score": 0.97,
+                "text": "purpose of the Agency is to provide joint and coordinated action regarding the acqulsition,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    656.0,
+                    1487.0,
+                    656.0,
+                    1487.0,
+                    687.0,
+                    185.0,
+                    687.0
+                ],
+                "score": 0.99,
+                "text": "financing and administration of Member interest in an electric plant or plants using natural"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    184.0,
+                    699.0,
+                    1487.0,
+                    699.0,
+                    1487.0,
+                    728.0,
+                    184.0,
+                    728.0
+                ],
+                "score": 0.98,
+                "text": "gas or other gases, wind, biomass, air or other simllar or related energy sources as a source"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    740.0,
+                    723.0,
+                    740.0,
+                    723.0,
+                    772.0,
+                    185.0,
+                    772.0
+                ],
+                "score": 0.98,
+                "text": "for the generation of electrical power"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    222.0,
+                    209.0,
+                    1449.0,
+                    209.0,
+                    1449.0,
+                    236.0,
+                    222.0,
+                    236.0
+                ],
+                "score": 0.96,
+                "text": "AGREEMENT ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    559.0,
+                    249.0,
+                    1115.0,
+                    249.0,
+                    1115.0,
+                    273.0,
+                    559.0,
+                    273.0
+                ],
+                "score": 0.89,
+                "text": "UNDER IOWA CODE CHAPTER Z8E"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    946.0,
+                    1488.0,
+                    946.0,
+                    1488.0,
+                    981.0,
+                    188.0,
+                    981.0
+                ],
+                "score": 1.0,
+                "text": "Article Three. The Agency shall have the power and authority to enter into contracts on"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    986.0,
+                    1488.0,
+                    986.0,
+                    1488.0,
+                    1020.0,
+                    186.0,
+                    1020.0
+                ],
+                "score": 0.99,
+                "text": "behalf of the Agency to hire such employees, consuitants, advisors and obtain such"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1028.0,
+                    1488.0,
+                    1028.0,
+                    1488.0,
+                    1064.0,
+                    186.0,
+                    1064.0
+                ],
+                "score": 0.98,
+                "text": "professional services as are deemed necessary for the design, siting, construction, financing,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    182.0,
+                    1071.0,
+                    1488.0,
+                    1071.0,
+                    1488.0,
+                    1105.0,
+                    182.0,
+                    1105.0
+                ],
+                "score": 0.98,
+                "text": "management and control of an electric plant or plants using natural gas or other gases, wind,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1111.0,
+                    1489.0,
+                    1111.0,
+                    1489.0,
+                    1146.0,
+                    185.0,
+                    1146.0
+                ],
+                "score": 0.99,
+                "text": "biomass, air or other similar or related energy sources for the generation of electrical power,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1154.0,
+                    1488.0,
+                    1154.0,
+                    1488.0,
+                    1186.0,
+                    183.0,
+                    1186.0
+                ],
+                "score": 1.0,
+                "text": "and may conduct such feasibility studies, or contract for the preparation of feasibility studies,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1195.0,
+                    1488.0,
+                    1195.0,
+                    1488.0,
+                    1230.0,
+                    185.0,
+                    1230.0
+                ],
+                "score": 0.99,
+                "text": "of questions concerning financing, seismology, geology, meteorology, engineering and other"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1237.0,
+                    1489.0,
+                    1237.0,
+                    1489.0,
+                    1272.0,
+                    186.0,
+                    1272.0
+                ],
+                "score": 1.0,
+                "text": "technical matters related to the siting, designs, construction, financing, management or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1275.0,
+                    1489.0,
+                    1275.0,
+                    1489.0,
+                    1315.0,
+                    185.0,
+                    1315.0
+                ],
+                "score": 0.99,
+                "text": "control of a stored energy plant and otherwise exercise all powers conferred by lowa Code"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1319.0,
+                    1492.0,
+                    1319.0,
+                    1492.0,
+                    1354.0,
+                    186.0,
+                    1354.0
+                ],
+                "score": 0.99,
+                "text": "chapter 28E, 28F and Sections 476A.20 through 476A.36 (2005), as amended, as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1360.0,
+                    1489.0,
+                    1360.0,
+                    1489.0,
+                    1395.0,
+                    185.0,
+                    1395.0
+                ],
+                "score": 0.98,
+                "text": "contemplated by the Members of the Agency.  The Agency shall have the power and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1401.0,
+                    1489.0,
+                    1401.0,
+                    1489.0,
+                    1439.0,
+                    186.0,
+                    1439.0
+                ],
+                "score": 0.98,
+                "text": "authority, subject to the terms of this Agreement, to design, site, construct, finance, manage,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    1445.0,
+                    1488.0,
+                    1445.0,
+                    1488.0,
+                    1478.0,
+                    185.0,
+                    1478.0
+                ],
+                "score": 0.99,
+                "text": "operate and control one or more electric plants using natural gas or other gases, wind,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    183.0,
+                    1485.0,
+                    1489.0,
+                    1485.0,
+                    1489.0,
+                    1519.0,
+                    183.0,
+                    1519.0
+                ],
+                "score": 0.99,
+                "text": "biomass, air or other similar or related energy sources for the generation of electrical power"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    1529.0,
+                    1441.0,
+                    1529.0,
+                    1441.0,
+                    1563.0,
+                    188.0,
+                    1563.0
+                ],
+                "score": 1.0,
+                "text": "and issue its public bonds or obligations as it deems necessary to carry out its purposes."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1610.0,
+                    1488.0,
+                    1610.0,
+                    1488.0,
+                    1646.0,
+                    187.0,
+                    1646.0
+                ],
+                "score": 0.98,
+                "text": "Article Four. The initial Board of Trustees of the Agency shall consist of Sheila Bishop, Neil"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1654.0,
+                    1488.0,
+                    1654.0,
+                    1488.0,
+                    1684.0,
+                    187.0,
+                    1684.0
+                ],
+                "score": 0.99,
+                "text": "Ruddy, Dennis Fannin, Scott Tonderum, and John Biisten. These Trustees shall serve until"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    1695.0,
+                    1489.0,
+                    1695.0,
+                    1489.0,
+                    1729.0,
+                    187.0,
+                    1729.0
+                ],
+                "score": 0.98,
+                "text": "the first Annual meeting, at which an election of Trustees shall be held under terms stated in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    186.0,
+                    1737.0,
+                    351.0,
+                    1737.0,
+                    351.0,
+                    1771.0,
+                    186.0,
+                    1771.0
+                ],
+                "score": 0.96,
+                "text": "theBylaws."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    187.0,
+                    362.0,
+                    1487.0,
+                    362.0,
+                    1487.0,
+                    396.0,
+                    187.0,
+                    396.0
+                ],
+                "score": 0.99,
+                "text": "BE IT REMEMBERED that for the mutual promises, covenants and considerations herein"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    404.0,
+                    1486.0,
+                    404.0,
+                    1486.0,
+                    435.0,
+                    185.0,
+                    435.0
+                ],
+                "score": 0.99,
+                "text": "contained the Algona Municipal Utilities and Waverly Light & Power have entered into the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    185.0,
+                    446.0,
+                    1406.0,
+                    446.0,
+                    1406.0,
+                    476.0,
+                    185.0,
+                    476.0
+                ],
+                "score": 0.99,
+                "text": "following Agreement under lowa Code chapter 28E, 28F and 476A.20 et seq. to wit:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    830.0,
+                    1921.0,
+                    845.0,
+                    1921.0,
+                    845.0,
+                    1947.0,
+                    830.0,
+                    1947.0
+                ],
+                "score": 0.99,
+                "text": "1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    821.0,
+                    1485.0,
+                    821.0,
+                    1485.0,
+                    854.0,
+                    188.0,
+                    854.0
+                ],
+                "score": 0.99,
+                "text": "Article Two. The initial Members of the Agency are: Algona Municipal Utilities and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    861.0,
+                    537.0,
+                    861.0,
+                    537.0,
+                    898.0,
+                    188.0,
+                    898.0
+                ],
+                "score": 0.95,
+                "text": "Waveriy Light &Power."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1820.0,
+                    1488.0,
+                    1820.0,
+                    1488.0,
+                    1854.0,
+                    190.0,
+                    1854.0
+                ],
+                "score": 0.99,
+                "text": "Article Five. Except as otherwise provided in this Agreement, all powers of the Agency are"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    1858.0,
+                    643.0,
+                    1858.0,
+                    643.0,
+                    1895.0,
+                    190.0,
+                    1895.0
+                ],
+                "score": 0.97,
+                "text": "vested in the Board of Tnustees."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1388.0,
+                    1896.0,
+                    1518.0,
+                    1896.0,
+                    1518.0,
+                    1935.0,
+                    1388.0,
+                    1935.0
+                ],
+                "score": 0.99,
+                "text": "EXHIBIT"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1393.0,
+                    1923.0,
+                    1487.0,
+                    1923.0,
+                    1487.0,
+                    2016.0,
+                    1393.0,
+                    2016.0
+                ],
+                "score": 1.0,
+                "text": "A"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

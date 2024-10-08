@@ -1,0 +1,2194 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        77,
+                        528,
+                        146
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                80,
+                                524,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        82,
+                                        114,
+                                        90
+                                    ],
+                                    "score": 0.93,
+                                    "content": "12.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        80,
+                                        524,
+                                        90
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Contacr Person. At the time of execution of the Agreement, each party shall",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                92,
+                                526,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        92,
+                                        526,
+                                        105
+                                    ],
+                                    "score": 0.99,
+                                    "content": "designate, in writing, a Contact Person to serve until the expiration of the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                106,
+                                525,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        107,
+                                        396,
+                                        117
+                                    ],
+                                    "score": 0.95,
+                                    "content": "or the designation of a substitute Contacr Person.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        400,
+                                        106,
+                                        525,
+                                        117
+                                    ],
+                                    "score": 0.91,
+                                    "content": "During the term of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                119,
+                                525,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        119,
+                                        525,
+                                        130
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Agreement, each Contact Person shall be available to meet, as otherwise mutuailly",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                133,
+                                430,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        133,
+                                        430,
+                                        143
+                                    ],
+                                    "score": 0.98,
+                                    "content": "agreed, to plan the services being provided under the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        157,
+                        352,
+                        172
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                161,
+                                349,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        161,
+                                        349,
+                                        169
+                                    ],
+                                    "score": 0.87,
+                                    "content": "SEC1MON 13. CONIRACT ADMINISTRA1ION.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        184,
+                        529,
+                        225
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                187,
+                                525,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        187,
+                                        115,
+                                        197
+                                    ],
+                                    "score": 0.8,
+                                    "content": "13. 1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        187,
+                                        525,
+                                        197
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Amendments.  The Agreement may be amended in writing from time to time by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                198,
+                                525,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        198,
+                                        525,
+                                        211
+                                    ],
+                                    "score": 0.98,
+                                    "content": "mutual consent of the parries. All amendments to the Agreement must be fuilly",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                212,
+                                237,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        212,
+                                        237,
+                                        224
+                                    ],
+                                    "score": 0.97,
+                                    "content": "executed by the parties.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        236,
+                        528,
+                        265
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                239,
+                                525,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        241,
+                                        116,
+                                        249
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        239,
+                                        525,
+                                        249
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Third Party Beneficiaries. There are no third party beneficiaries to the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                252,
+                                456,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        252,
+                                        456,
+                                        263
+                                    ],
+                                    "score": 0.99,
+                                    "content": "The Agreement is intended only to benefit ABD and the Department.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        275,
+                        530,
+                        357
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                93,
+                                278,
+                                527,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        280,
+                                        116,
+                                        289
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        278,
+                                        527,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Choice of Law and Forum. The terms and provisions of the Agreement shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                290,
+                                528,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        290,
+                                        528,
+                                        302
+                                    ],
+                                    "score": 0.98,
+                                    "content": "construed in accordance with the laws of the Stare of Iowa. Any and all litigation or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                305,
+                                527,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        305,
+                                        527,
+                                        315
+                                    ],
+                                    "score": 0.97,
+                                    "content": "actions commenced in connection with the Agreement shall be brought in Des",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                317,
+                                527,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        317,
+                                        527,
+                                        329
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Moines, Iowa, in Polk County District Court for the State of Iowa. This provision",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                330,
+                                527,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        330,
+                                        527,
+                                        343
+                                    ],
+                                    "score": 0.97,
+                                    "content": "shall not be construed as waiving any immuniry to suit or liability that may be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                344,
+                                388,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        344,
+                                        388,
+                                        355
+                                    ],
+                                    "score": 0.97,
+                                    "content": "available to the State of Iowa, ABD or the Department.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        368,
+                        530,
+                        397
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                94,
+                                371,
+                                527,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        372,
+                                        116,
+                                        381
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.4",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        371,
+                                        527,
+                                        381
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Assignment and Delegation. The Agreement may not be assigned, transferred or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                384,
+                                509,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        384,
+                                        509,
+                                        396
+                                    ],
+                                    "score": 0.99,
+                                    "content": "conveyed in whole or in part without the prior written consent of the other party.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        408,
+                        530,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                411,
+                                527,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        412,
+                                        126,
+                                        421
+                                    ],
+                                    "score": 0.94,
+                                    "content": "13.5",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        411,
+                                        527,
+                                        421
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Integration.  The Agreement represents the entire Agreement between the parties",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                129,
+                                424,
+                                529,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        424,
+                                        529,
+                                        435
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and neither party is relying on any representation that may have been made which is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                132,
+                                439,
+                                276,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        439,
+                                        276,
+                                        449
+                                    ],
+                                    "score": 0.97,
+                                    "content": "not included in thhe Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        461,
+                        529,
+                        490
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                463,
+                                528,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        465,
+                                        117,
+                                        474
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.6",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        463,
+                                        528,
+                                        476
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Headings or Captions. The paragraph headings or captions are for identification",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                477,
+                                482,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        477,
+                                        482,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "purposes only and do not limit nor construe the contents of the paragraphs.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        500,
+                        530,
+                        595
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                502,
+                                529,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        505,
+                                        117,
+                                        513
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.7",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        502,
+                                        529,
+                                        515
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Not a Joint Venrure. Nothing in the Agreement shall be construed as creating or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                515,
+                                529,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        515,
+                                        529,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "constituting the relationship of a partnership, joint venture, association of any kind",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                529,
+                                528,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        529,
+                                        528,
+                                        539
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or agent and principal relationship between the parties. Each party shall be deemed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                540,
+                                529,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        540,
+                                        529,
+                                        555
+                                    ],
+                                    "score": 0.99,
+                                    "content": "an independent contractor acting toward the expected mutual benefits. No party,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                554,
+                                529,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        554,
+                                        529,
+                                        568
+                                    ],
+                                    "score": 0.99,
+                                    "content": "unless otherwise specifically provided for herein, has the authority to enter into any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                130,
+                                567,
+                                529,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        567,
+                                        529,
+                                        580
+                                    ],
+                                    "score": 0.98,
+                                    "content": "contract or create an obligation or liability on behalf of, in the name of, or binding",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                583,
+                                314,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        583,
+                                        314,
+                                        592
+                                    ],
+                                    "score": 0.97,
+                                    "content": "upon the other party to the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        606,
+                        531,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                608,
+                                529,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        610,
+                                        118,
+                                        619
+                                    ],
+                                    "score": 0.91,
+                                    "content": "13.8",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        608,
+                                        529,
+                                        620
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Supersedes Former Agreements. The Agreement supersedes all prior Agreements",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                622,
+                                528,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        622,
+                                        528,
+                                        632
+                                    ],
+                                    "score": 0.99,
+                                    "content": "between ABD and the Department for the services provided in connection with the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                636,
+                                186,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        636,
+                                        186,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        659,
+                        531,
+                        702
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                97,
+                                662,
+                                528,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        663,
+                                        129,
+                                        672
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.9",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        662,
+                                        528,
+                                        673
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Waiver. Except as specifically provided for in a waiver signed by duly authorized",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                131,
+                                674,
+                                530,
+                                688
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        674,
+                                        530,
+                                        688
+                                    ],
+                                    "score": 0.99,
+                                    "content": "representatives of ABD and the Department, failure by any party at any time to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                132,
+                                688,
+                                528,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        688,
+                                        528,
+                                        698
+                                    ],
+                                    "score": 0.98,
+                                    "content": "require performance by the other party or to claim a breach ot any provision of the",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        77,
+                        610.5599975585938,
+                        702
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        77,
+                        610.5599975585938,
+                        702
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        309,
+                        724,
+                        317,
+                        735
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        90,
+                        52,
+                        282,
+                        67
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                56,
+                                280,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        56,
+                                        280,
+                                        64
+                                    ],
+                                    "score": 0.96,
+                                    "content": "SECTION 12. CONTACT PERSON.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        77,
+                        528,
+                        146
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                80,
+                                530,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        82,
+                                        114,
+                                        90
+                                    ],
+                                    "score": 0.93,
+                                    "content": "12.1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        80,
+                                        524,
+                                        90
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Contacr Person. At the time of execution of the Agreement, each party shall",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                92,
+                                530,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        92,
+                                        526,
+                                        105
+                                    ],
+                                    "score": 0.99,
+                                    "content": "designate, in writing, a Contact Person to serve until the expiration of the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                106,
+                                530,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        107,
+                                        396,
+                                        117
+                                    ],
+                                    "score": 0.95,
+                                    "content": "or the designation of a substitute Contacr Person.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        400,
+                                        106,
+                                        525,
+                                        117
+                                    ],
+                                    "score": 0.91,
+                                    "content": "During the term of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                119,
+                                530,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        119,
+                                        525,
+                                        130
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Agreement, each Contact Person shall be available to meet, as otherwise mutuailly",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                133,
+                                430,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        133,
+                                        430,
+                                        143
+                                    ],
+                                    "score": 0.98,
+                                    "content": "agreed, to plan the services being provided under the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        80,
+                        530,
+                        143
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        157,
+                        352,
+                        172
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                161,
+                                349,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        161,
+                                        349,
+                                        169
+                                    ],
+                                    "score": 0.87,
+                                    "content": "SEC1MON 13. CONIRACT ADMINISTRA1ION.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        161,
+                        349,
+                        169
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        184,
+                        529,
+                        225
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                187,
+                                530,
+                                197
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        187,
+                                        115,
+                                        197
+                                    ],
+                                    "score": 0.8,
+                                    "content": "13. 1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        187,
+                                        525,
+                                        197
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Amendments.  The Agreement may be amended in writing from time to time by",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                198,
+                                530,
+                                211
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        128,
+                                        198,
+                                        525,
+                                        211
+                                    ],
+                                    "score": 0.98,
+                                    "content": "mutual consent of the parries. All amendments to the Agreement must be fuilly",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                212,
+                                237,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        212,
+                                        237,
+                                        224
+                                    ],
+                                    "score": 0.97,
+                                    "content": "executed by the parties.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        187,
+                        530,
+                        224
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        236,
+                        528,
+                        265
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                239,
+                                530,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        241,
+                                        116,
+                                        249
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        127,
+                                        239,
+                                        525,
+                                        249
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Third Party Beneficiaries. There are no third party beneficiaries to the Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                252,
+                                456,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        252,
+                                        456,
+                                        263
+                                    ],
+                                    "score": 0.99,
+                                    "content": "The Agreement is intended only to benefit ABD and the Department.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        239,
+                        530,
+                        263
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        91,
+                        275,
+                        530,
+                        357
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                278,
+                                530,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        93,
+                                        280,
+                                        116,
+                                        289
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        278,
+                                        527,
+                                        289
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Choice of Law and Forum. The terms and provisions of the Agreement shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                290,
+                                530,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        290,
+                                        528,
+                                        302
+                                    ],
+                                    "score": 0.98,
+                                    "content": "construed in accordance with the laws of the Stare of Iowa. Any and all litigation or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                305,
+                                530,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        305,
+                                        527,
+                                        315
+                                    ],
+                                    "score": 0.97,
+                                    "content": "actions commenced in connection with the Agreement shall be brought in Des",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                317,
+                                530,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        317,
+                                        527,
+                                        329
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Moines, Iowa, in Polk County District Court for the State of Iowa. This provision",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                330,
+                                530,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        330,
+                                        527,
+                                        343
+                                    ],
+                                    "score": 0.97,
+                                    "content": "shall not be construed as waiving any immuniry to suit or liability that may be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                344,
+                                388,
+                                355
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        344,
+                                        388,
+                                        355
+                                    ],
+                                    "score": 0.97,
+                                    "content": "available to the State of Iowa, ABD or the Department.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        278,
+                        530,
+                        355
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        368,
+                        530,
+                        397
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                371,
+                                530,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        94,
+                                        372,
+                                        116,
+                                        381
+                                    ],
+                                    "score": 1.0,
+                                    "content": "13.4",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        371,
+                                        527,
+                                        381
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Assignment and Delegation. The Agreement may not be assigned, transferred or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                384,
+                                509,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        384,
+                                        509,
+                                        396
+                                    ],
+                                    "score": 0.99,
+                                    "content": "conveyed in whole or in part without the prior written consent of the other party.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        371,
+                        530,
+                        396
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        408,
+                        530,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                411,
+                                530,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        412,
+                                        126,
+                                        421
+                                    ],
+                                    "score": 0.94,
+                                    "content": "13.5",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        411,
+                                        527,
+                                        421
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Integration.  The Agreement represents the entire Agreement between the parties",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                424,
+                                530,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        424,
+                                        529,
+                                        435
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and neither party is relying on any representation that may have been made which is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                439,
+                                276,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        439,
+                                        276,
+                                        449
+                                    ],
+                                    "score": 0.97,
+                                    "content": "not included in thhe Agreement.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        411,
+                        530,
+                        449
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        461,
+                        529,
+                        490
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                463,
+                                530,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        465,
+                                        117,
+                                        474
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.6",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        463,
+                                        528,
+                                        476
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Headings or Captions. The paragraph headings or captions are for identification",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                477,
+                                482,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        477,
+                                        482,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "purposes only and do not limit nor construe the contents of the paragraphs.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        463,
+                        530,
+                        489
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        92,
+                        500,
+                        530,
+                        595
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                502,
+                                530,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        505,
+                                        117,
+                                        513
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.7",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        129,
+                                        502,
+                                        529,
+                                        515
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Not a Joint Venrure. Nothing in the Agreement shall be construed as creating or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                515,
+                                530,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        515,
+                                        529,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "constituting the relationship of a partnership, joint venture, association of any kind",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                529,
+                                530,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        529,
+                                        528,
+                                        539
+                                    ],
+                                    "score": 0.98,
+                                    "content": "or agent and principal relationship between the parties. Each party shall be deemed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                540,
+                                530,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        540,
+                                        529,
+                                        555
+                                    ],
+                                    "score": 0.99,
+                                    "content": "an independent contractor acting toward the expected mutual benefits. No party,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                554,
+                                530,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        554,
+                                        529,
+                                        568
+                                    ],
+                                    "score": 0.99,
+                                    "content": "unless otherwise specifically provided for herein, has the authority to enter into any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                567,
+                                530,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        567,
+                                        529,
+                                        580
+                                    ],
+                                    "score": 0.98,
+                                    "content": "contract or create an obligation or liability on behalf of, in the name of, or binding",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                583,
+                                314,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        583,
+                                        314,
+                                        592
+                                    ],
+                                    "score": 0.97,
+                                    "content": "upon the other party to the Agreement.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        502,
+                        530,
+                        592
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        93,
+                        606,
+                        531,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                608,
+                                530,
+                                620
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        610,
+                                        118,
+                                        619
+                                    ],
+                                    "score": 0.91,
+                                    "content": "13.8",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        608,
+                                        529,
+                                        620
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Supersedes Former Agreements. The Agreement supersedes all prior Agreements",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                622,
+                                530,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        622,
+                                        528,
+                                        632
+                                    ],
+                                    "score": 0.99,
+                                    "content": "between ABD and the Department for the services provided in connection with the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                636,
+                                186,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        636,
+                                        186,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agreement.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        608,
+                        530,
+                        649
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        94,
+                        659,
+                        531,
+                        702
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                92,
+                                662,
+                                530,
+                                673
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        97,
+                                        663,
+                                        129,
+                                        672
+                                    ],
+                                    "score": 0.99,
+                                    "content": "13.9",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        130,
+                                        662,
+                                        528,
+                                        673
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Waiver. Except as specifically provided for in a waiver signed by duly authorized",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                674,
+                                530,
+                                688
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        674,
+                                        530,
+                                        688
+                                    ],
+                                    "score": 0.99,
+                                    "content": "representatives of ABD and the Department, failure by any party at any time to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                128,
+                                688,
+                                530,
+                                698
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        688,
+                                        528,
+                                        698
+                                    ],
+                                    "score": 0.98,
+                                    "content": "require performance by the other party or to claim a breach ot any provision of the",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        92,
+                        662,
+                        530,
+                        698
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

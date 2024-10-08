@@ -1,0 +1,986 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    255.7762908935547,
+                    511.1214599609375,
+                    1469.1536865234375,
+                    511.1214599609375,
+                    1469.1536865234375,
+                    626.4859008789062,
+                    255.7762908935547,
+                    626.4859008789062
+                ],
+                "score": 0.9999427795410156
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    256.3946533203125,
+                    216.32244873046875,
+                    1468.3157958984375,
+                    216.32244873046875,
+                    1468.3157958984375,
+                    405.7386474609375,
+                    256.3946533203125,
+                    405.7386474609375
+                ],
+                "score": 0.9999392032623291
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    258.81298828125,
+                    1133.5389404296875,
+                    1471.9248046875,
+                    1133.5389404296875,
+                    1471.9248046875,
+                    1250.99853515625,
+                    258.81298828125,
+                    1250.99853515625
+                ],
+                "score": 0.9998860359191895
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    254.7108612060547,
+                    764.346435546875,
+                    1471.3533935546875,
+                    764.346435546875,
+                    1471.3533935546875,
+                    991.060546875,
+                    254.7108612060547,
+                    991.060546875
+                ],
+                "score": 0.9998359680175781
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    858.56201171875,
+                    2011.5074462890625,
+                    880.4711303710938,
+                    2011.5074462890625,
+                    880.4711303710938,
+                    2040.10107421875,
+                    858.56201171875,
+                    2040.10107421875
+                ],
+                "score": 0.999787449836731
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    258.96527099609375,
+                    1022.3433837890625,
+                    1471.31591796875,
+                    1022.3433837890625,
+                    1471.31591796875,
+                    1103.1395263671875,
+                    258.96527099609375,
+                    1103.1395263671875
+                ],
+                "score": 0.9996554851531982
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    256.7283630371094,
+                    1387.4241943359375,
+                    1473.83154296875,
+                    1387.4241943359375,
+                    1473.83154296875,
+                    1652.7640380859375,
+                    256.7283630371094,
+                    1652.7640380859375
+                ],
+                "score": 0.9994527697563171
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    258.4696350097656,
+                    1279.5091552734375,
+                    1471.12255859375,
+                    1279.5091552734375,
+                    1471.12255859375,
+                    1361.480712890625,
+                    258.4696350097656,
+                    1361.480712890625
+                ],
+                "score": 0.9993607997894287
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    256.2945251464844,
+                    655.9401245117188,
+                    1467.025146484375,
+                    655.9401245117188,
+                    1467.025146484375,
+                    736.7020263671875,
+                    256.2945251464844,
+                    736.7020263671875
+                ],
+                "score": 0.9992798566818237
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    260.3835754394531,
+                    1682.3525390625,
+                    1474.674560546875,
+                    1682.3525390625,
+                    1474.674560546875,
+                    1799.3765869140625,
+                    260.3835754394531,
+                    1799.3765869140625
+                ],
+                "score": 0.9952819347381592
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    261.0835266113281,
+                    1828.9080810546875,
+                    1476.6849365234375,
+                    1828.9080810546875,
+                    1476.6849365234375,
+                    1950.036865234375,
+                    261.0835266113281,
+                    1950.036865234375
+                ],
+                "score": 0.9921934008598328
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    251.7550811767578,
+                    145.59144592285156,
+                    784.7510986328125,
+                    145.59144592285156,
+                    784.7510986328125,
+                    186.5800018310547,
+                    251.7550811767578,
+                    186.5800018310547
+                ],
+                "score": 0.8707515001296997
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    253.7527618408203,
+                    437.00616455078125,
+                    977.578857421875,
+                    437.00616455078125,
+                    977.578857421875,
+                    478.1634521484375,
+                    253.7527618408203,
+                    478.1634521484375
+                ],
+                "score": 0.6918060183525085
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    253.75155639648438,
+                    436.90899658203125,
+                    977.3148803710938,
+                    436.90899658203125,
+                    977.3148803710938,
+                    478.0185852050781,
+                    253.75155639648438,
+                    478.0185852050781
+                ],
+                "score": 0.49437570571899414
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    251.9790802001953,
+                    145.47352600097656,
+                    785.2874145507812,
+                    145.47352600097656,
+                    785.2874145507812,
+                    186.63809204101562,
+                    251.9790802001953,
+                    186.63809204101562
+                ],
+                "score": 0.28922969102859497
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    261.0,
+                    521.0,
+                    320.0,
+                    521.0,
+                    320.0,
+                    547.0,
+                    261.0,
+                    547.0
+                ],
+                "score": 0.8,
+                "text": "13. 1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    354.0,
+                    519.0,
+                    1459.0,
+                    519.0,
+                    1459.0,
+                    547.0,
+                    354.0,
+                    547.0
+                ],
+                "score": 0.97,
+                "text": "Amendments.  The Agreement may be amended in writing from time to time by"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    552.0,
+                    1459.0,
+                    552.0,
+                    1459.0,
+                    586.0,
+                    356.0,
+                    586.0
+                ],
+                "score": 0.98,
+                "text": "mutual consent of the parries. All amendments to the Agreement must be fuilly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    589.0,
+                    658.0,
+                    589.0,
+                    658.0,
+                    624.0,
+                    360.0,
+                    624.0
+                ],
+                "score": 0.97,
+                "text": "executed by the parties."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    258.0,
+                    228.0,
+                    317.0,
+                    228.0,
+                    317.0,
+                    252.0,
+                    258.0,
+                    252.0
+                ],
+                "score": 0.93,
+                "text": "12.1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    355.0,
+                    224.0,
+                    1456.0,
+                    224.0,
+                    1456.0,
+                    252.0,
+                    355.0,
+                    252.0
+                ],
+                "score": 0.96,
+                "text": "Contacr Person. At the time of execution of the Agreement, each party shall"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    256.0,
+                    1462.0,
+                    256.0,
+                    1462.0,
+                    292.0,
+                    356.0,
+                    292.0
+                ],
+                "score": 0.99,
+                "text": "designate, in writing, a Contact Person to serve until the expiration of the Agreement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    298.0,
+                    1100.0,
+                    298.0,
+                    1100.0,
+                    325.0,
+                    356.0,
+                    325.0
+                ],
+                "score": 0.95,
+                "text": "or the designation of a substitute Contacr Person."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1112.0,
+                    295.0,
+                    1458.0,
+                    295.0,
+                    1458.0,
+                    325.0,
+                    1112.0,
+                    325.0
+                ],
+                "score": 0.91,
+                "text": "During the term of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    331.0,
+                    1458.0,
+                    331.0,
+                    1458.0,
+                    362.0,
+                    356.0,
+                    362.0
+                ],
+                "score": 0.97,
+                "text": "Agreement, each Contact Person shall be available to meet, as otherwise mutuailly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    370.0,
+                    1194.0,
+                    370.0,
+                    1194.0,
+                    399.0,
+                    359.0,
+                    399.0
+                ],
+                "score": 0.98,
+                "text": "agreed, to plan the services being provided under the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    264.0,
+                    1145.0,
+                    350.0,
+                    1145.0,
+                    350.0,
+                    1170.0,
+                    264.0,
+                    1170.0
+                ],
+                "score": 0.94,
+                "text": "13.5"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    1143.0,
+                    1463.0,
+                    1143.0,
+                    1463.0,
+                    1170.0,
+                    357.0,
+                    1170.0
+                ],
+                "score": 0.98,
+                "text": "Integration.  The Agreement represents the entire Agreement between the parties"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    1178.0,
+                    1469.0,
+                    1178.0,
+                    1469.0,
+                    1209.0,
+                    360.0,
+                    1209.0
+                ],
+                "score": 0.99,
+                "text": "and neither party is relying on any representation that may have been made which is"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    367.0,
+                    1219.0,
+                    767.0,
+                    1219.0,
+                    767.0,
+                    1246.0,
+                    367.0,
+                    1246.0
+                ],
+                "score": 0.97,
+                "text": "not included in thhe Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    260.0,
+                    777.0,
+                    322.0,
+                    777.0,
+                    322.0,
+                    803.0,
+                    260.0,
+                    803.0
+                ],
+                "score": 1.0,
+                "text": "13.3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    772.0,
+                    1463.0,
+                    772.0,
+                    1463.0,
+                    802.0,
+                    358.0,
+                    802.0
+                ],
+                "score": 0.98,
+                "text": "Choice of Law and Forum. The terms and provisions of the Agreement shall be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    807.0,
+                    1466.0,
+                    807.0,
+                    1466.0,
+                    840.0,
+                    359.0,
+                    840.0
+                ],
+                "score": 0.98,
+                "text": "construed in accordance with the laws of the Stare of Iowa. Any and all litigation or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    847.0,
+                    1463.0,
+                    847.0,
+                    1463.0,
+                    875.0,
+                    359.0,
+                    875.0
+                ],
+                "score": 0.97,
+                "text": "actions commenced in connection with the Agreement shall be brought in Des"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    880.0,
+                    1465.0,
+                    880.0,
+                    1465.0,
+                    914.0,
+                    359.0,
+                    914.0
+                ],
+                "score": 0.99,
+                "text": "Moines, Iowa, in Polk County District Court for the State of Iowa. This provision"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    918.0,
+                    1465.0,
+                    918.0,
+                    1465.0,
+                    952.0,
+                    359.0,
+                    952.0
+                ],
+                "score": 0.97,
+                "text": "shall not be construed as waiving any immuniry to suit or liability that may be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    956.0,
+                    1078.0,
+                    956.0,
+                    1078.0,
+                    986.0,
+                    360.0,
+                    986.0
+                ],
+                "score": 0.97,
+                "text": "available to the State of Iowa, ABD or the Department."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    263.0,
+                    1033.0,
+                    324.0,
+                    1033.0,
+                    324.0,
+                    1058.0,
+                    263.0,
+                    1058.0
+                ],
+                "score": 1.0,
+                "text": "13.4"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    1030.0,
+                    1465.0,
+                    1030.0,
+                    1465.0,
+                    1058.0,
+                    358.0,
+                    1058.0
+                ],
+                "score": 0.99,
+                "text": "Assignment and Delegation. The Agreement may not be assigned, transferred or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1067.0,
+                    1413.0,
+                    1067.0,
+                    1413.0,
+                    1099.0,
+                    361.0,
+                    1099.0
+                ],
+                "score": 0.99,
+                "text": "conveyed in whole or in part without the prior written consent of the other party."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    266.0,
+                    1403.0,
+                    325.0,
+                    1403.0,
+                    325.0,
+                    1424.0,
+                    266.0,
+                    1424.0
+                ],
+                "score": 0.99,
+                "text": "13.7"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    1393.0,
+                    1469.0,
+                    1393.0,
+                    1469.0,
+                    1430.0,
+                    360.0,
+                    1430.0
+                ],
+                "score": 0.98,
+                "text": "Not a Joint Venrure. Nothing in the Agreement shall be construed as creating or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1431.0,
+                    1469.0,
+                    1431.0,
+                    1469.0,
+                    1465.0,
+                    361.0,
+                    1465.0
+                ],
+                "score": 0.98,
+                "text": "constituting the relationship of a partnership, joint venture, association of any kind"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1470.0,
+                    1468.0,
+                    1470.0,
+                    1468.0,
+                    1498.0,
+                    362.0,
+                    1498.0
+                ],
+                "score": 0.98,
+                "text": "or agent and principal relationship between the parties. Each party shall be deemed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1500.0,
+                    1471.0,
+                    1500.0,
+                    1471.0,
+                    1542.0,
+                    361.0,
+                    1542.0
+                ],
+                "score": 0.99,
+                "text": "an independent contractor acting toward the expected mutual benefits. No party,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1539.0,
+                    1469.0,
+                    1539.0,
+                    1469.0,
+                    1577.0,
+                    361.0,
+                    1577.0
+                ],
+                "score": 0.99,
+                "text": "unless otherwise specifically provided for herein, has the authority to enter into any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1574.0,
+                    1471.0,
+                    1574.0,
+                    1471.0,
+                    1612.0,
+                    362.0,
+                    1612.0
+                ],
+                "score": 0.98,
+                "text": "contract or create an obligation or liability on behalf of, in the name of, or binding"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    366.0,
+                    1618.0,
+                    873.0,
+                    1618.0,
+                    873.0,
+                    1645.0,
+                    366.0,
+                    1645.0
+                ],
+                "score": 0.97,
+                "text": "upon the other party to the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    265.0,
+                    1292.0,
+                    327.0,
+                    1292.0,
+                    327.0,
+                    1317.0,
+                    265.0,
+                    1317.0
+                ],
+                "score": 0.99,
+                "text": "13.6"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    1287.0,
+                    1466.0,
+                    1287.0,
+                    1466.0,
+                    1321.0,
+                    357.0,
+                    1321.0
+                ],
+                "score": 0.98,
+                "text": "Headings or Captions. The paragraph headings or captions are for identification"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1324.0,
+                    1339.0,
+                    1324.0,
+                    1339.0,
+                    1357.0,
+                    362.0,
+                    1357.0
+                ],
+                "score": 1.0,
+                "text": "purposes only and do not limit nor construe the contents of the paragraphs."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    260.0,
+                    669.0,
+                    323.0,
+                    669.0,
+                    323.0,
+                    691.0,
+                    260.0,
+                    691.0
+                ],
+                "score": 1.0,
+                "text": "13.2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    355.0,
+                    664.0,
+                    1458.0,
+                    664.0,
+                    1458.0,
+                    693.0,
+                    355.0,
+                    693.0
+                ],
+                "score": 0.98,
+                "text": "Third Party Beneficiaries. There are no third party beneficiaries to the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    700.0,
+                    1266.0,
+                    700.0,
+                    1266.0,
+                    732.0,
+                    360.0,
+                    732.0
+                ],
+                "score": 0.99,
+                "text": "The Agreement is intended only to benefit ABD and the Department."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    269.0,
+                    1693.0,
+                    329.0,
+                    1693.0,
+                    329.0,
+                    1719.0,
+                    269.0,
+                    1719.0
+                ],
+                "score": 0.91,
+                "text": "13.8"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1688.0,
+                    1469.0,
+                    1688.0,
+                    1469.0,
+                    1723.0,
+                    361.0,
+                    1723.0
+                ],
+                "score": 0.99,
+                "text": "Supersedes Former Agreements. The Agreement supersedes all prior Agreements"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    366.0,
+                    1728.0,
+                    1466.0,
+                    1728.0,
+                    1466.0,
+                    1755.0,
+                    366.0,
+                    1755.0
+                ],
+                "score": 0.99,
+                "text": "between ABD and the Department for the services provided in connection with the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    365.0,
+                    1765.0,
+                    517.0,
+                    1765.0,
+                    517.0,
+                    1802.0,
+                    365.0,
+                    1802.0
+                ],
+                "score": 1.0,
+                "text": "Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    270.0,
+                    1840.0,
+                    359.0,
+                    1840.0,
+                    359.0,
+                    1865.0,
+                    270.0,
+                    1865.0
+                ],
+                "score": 0.99,
+                "text": "13.9"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    1838.0,
+                    1467.0,
+                    1838.0,
+                    1467.0,
+                    1868.0,
+                    363.0,
+                    1868.0
+                ],
+                "score": 0.99,
+                "text": "Waiver. Except as specifically provided for in a waiver signed by duly authorized"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    364.0,
+                    1871.0,
+                    1473.0,
+                    1871.0,
+                    1473.0,
+                    1910.0,
+                    364.0,
+                    1910.0
+                ],
+                "score": 0.99,
+                "text": "representatives of ABD and the Department, failure by any party at any time to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    367.0,
+                    1911.0,
+                    1468.0,
+                    1911.0,
+                    1468.0,
+                    1939.0,
+                    367.0,
+                    1939.0
+                ],
+                "score": 0.98,
+                "text": "require performance by the other party or to claim a breach ot any provision of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    258.0,
+                    156.0,
+                    779.0,
+                    156.0,
+                    779.0,
+                    179.0,
+                    258.0,
+                    179.0
+                ],
+                "score": 0.96,
+                "text": "SECTION 12. CONTACT PERSON."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    259.0,
+                    448.0,
+                    970.0,
+                    448.0,
+                    970.0,
+                    471.0,
+                    259.0,
+                    471.0
+                ],
+                "score": 0.87,
+                "text": "SEC1MON 13. CONIRACT ADMINISTRA1ION."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    259.0,
+                    448.0,
+                    970.0,
+                    448.0,
+                    970.0,
+                    470.0,
+                    259.0,
+                    470.0
+                ],
+                "score": 0.87,
+                "text": "SECION 13. CONIRACT AUMINISTRAIION."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    258.0,
+                    156.0,
+                    779.0,
+                    156.0,
+                    779.0,
+                    179.0,
+                    258.0,
+                    179.0
+                ],
+                "score": 0.96,
+                "text": "SECTION 12. CONTACT PERSON."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

@@ -1,0 +1,998 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    618.0154418945312,
+                    71.48656463623047,
+                    971.4353637695312,
+                    71.48656463623047,
+                    971.4353637695312,
+                    210.4335479736328,
+                    618.0154418945312,
+                    210.4335479736328
+                ],
+                "score": 0.9999979734420776
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    455.73187255859375,
+                    271.0092468261719,
+                    1328.4017333984375,
+                    271.0092468261719,
+                    1328.4017333984375,
+                    316.10235595703125,
+                    455.73187255859375,
+                    316.10235595703125
+                ],
+                "score": 0.9999911189079285
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    172.4214324951172,
+                    566.368896484375,
+                    1608.539306640625,
+                    566.368896484375,
+                    1608.539306640625,
+                    775.9302368164062,
+                    172.4214324951172,
+                    775.9302368164062
+                ],
+                "score": 0.9999400973320007
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    168.45846557617188,
+                    864.4015502929688,
+                    1609.866455078125,
+                    864.4015502929688,
+                    1609.866455078125,
+                    1098.3145751953125,
+                    168.45846557617188,
+                    1098.3145751953125
+                ],
+                "score": 0.9999392032623291
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1206.5784912109375,
+                    84.86792755126953,
+                    1645.552490234375,
+                    84.86792755126953,
+                    1645.552490234375,
+                    283.74560546875,
+                    1206.5784912109375,
+                    283.74560546875
+                ],
+                "score": 0.9997407793998718
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    136.46652221679688,
+                    371.2783508300781,
+                    1602.478515625,
+                    371.2783508300781,
+                    1602.478515625,
+                    543.1688842773438,
+                    136.46652221679688,
+                    543.1688842773438
+                ],
+                "score": 0.9996435046195984
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    165.2894744873047,
+                    1184.365234375,
+                    1602.1605224609375,
+                    1184.365234375,
+                    1602.1605224609375,
+                    1258.3988037109375,
+                    165.2894744873047,
+                    1258.3988037109375
+                ],
+                "score": 0.9111218452453613
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    200.80589294433594,
+                    794.233154296875,
+                    561.1580200195312,
+                    794.233154296875,
+                    561.1580200195312,
+                    835.0784301757812,
+                    200.80589294433594,
+                    835.0784301757812
+                ],
+                "score": 0.7753393650054932
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    516.3720703125,
+                    1967.7991943359375,
+                    1079.33447265625,
+                    1967.7991943359375,
+                    1079.33447265625,
+                    2139.5556640625,
+                    516.3720703125,
+                    2139.5556640625
+                ],
+                "score": 0.7639434337615967
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    268.2828674316406,
+                    1674.399169921875,
+                    1577.37548828125,
+                    1674.399169921875,
+                    1577.37548828125,
+                    1782.061279296875,
+                    268.2828674316406,
+                    1782.061279296875
+                ],
+                "score": 0.7285085916519165
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    268.67608642578125,
+                    1475.4329833984375,
+                    1591.2843017578125,
+                    1475.4329833984375,
+                    1591.2843017578125,
+                    1658.0982666015625,
+                    268.67608642578125,
+                    1658.0982666015625
+                ],
+                "score": 0.727273166179657
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    283.68145751953125,
+                    1348.560546875,
+                    1581.580322265625,
+                    1348.560546875,
+                    1581.580322265625,
+                    1457.7430419921875,
+                    283.68145751953125,
+                    1457.7430419921875
+                ],
+                "score": 0.7102751731872559
+            },
+            {
+                "category_id": 8,
+                "poly": [
+                    187.9492950439453,
+                    1121.01806640625,
+                    789.0374755859375,
+                    1121.01806640625,
+                    789.0374755859375,
+                    1161.579833984375,
+                    187.9492950439453,
+                    1161.579833984375
+                ],
+                "score": 0.5284825563430786
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    264.5932312011719,
+                    1805.572509765625,
+                    1571.602294921875,
+                    1805.572509765625,
+                    1571.602294921875,
+                    1889.2713623046875,
+                    264.5932312011719,
+                    1889.2713623046875
+                ],
+                "score": 0.4401102662086487
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    187.97103881835938,
+                    1120.9326171875,
+                    789.1411743164062,
+                    1120.9326171875,
+                    789.1411743164062,
+                    1161.520751953125,
+                    187.97103881835938,
+                    1161.520751953125
+                ],
+                "score": 0.41156721115112305
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    516.5938720703125,
+                    1967.9959716796875,
+                    1079.1397705078125,
+                    1967.9959716796875,
+                    1079.1397705078125,
+                    2139.705078125,
+                    516.5938720703125,
+                    2139.705078125
+                ],
+                "score": 0.32837215065956116
+            },
+            {
+                "category_id": 8,
+                "poly": [
+                    201.59918212890625,
+                    794.0996704101562,
+                    560.3834838867188,
+                    794.0996704101562,
+                    560.3834838867188,
+                    835.3367919921875,
+                    201.59918212890625,
+                    835.3367919921875
+                ],
+                "score": 0.31620585918426514
+            },
+            {
+                "category_id": 9,
+                "poly": [
+                    163.78797912597656,
+                    1187.1474609375,
+                    1602.336181640625,
+                    1187.1474609375,
+                    1602.336181640625,
+                    1258.9703369140625,
+                    163.78797912597656,
+                    1258.9703369140625
+                ],
+                "score": 0.3143214285373688
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    741.0,
+                    73.0,
+                    848.0,
+                    73.0,
+                    848.0,
+                    99.0,
+                    741.0,
+                    99.0
+                ],
+                "score": 1.0,
+                "text": "L005711"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    458.0,
+                    274.0,
+                    1321.0,
+                    274.0,
+                    1321.0,
+                    314.0,
+                    458.0,
+                    314.0
+                ],
+                "score": 0.98,
+                "text": "FIRST SOURCE EMPLOYMENT AGREEMENT"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    221.0,
+                    567.0,
+                    1599.0,
+                    567.0,
+                    1599.0,
+                    618.0,
+                    221.0,
+                    618.0
+                ],
+                "score": 0.99,
+                "text": "The above-referenced development Project has received direct federal, state or local public financing"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    601.0,
+                    1586.0,
+                    601.0,
+                    1586.0,
+                    648.0,
+                    172.0,
+                    648.0
+                ],
+                "score": 0.99,
+                "text": "of $ 100,000 or more (excluding U.S. SBA Guarantees and urban renewal writedowns). The purpose of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    633.0,
+                    1548.0,
+                    633.0,
+                    1548.0,
+                    680.0,
+                    173.0,
+                    680.0
+                ],
+                "score": 0.98,
+                "text": "this Agreement is to make the permanent jobs created within the Project accessible to those qualified"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    664.0,
+                    1468.0,
+                    664.0,
+                    1468.0,
+                    716.0,
+                    172.0,
+                    716.0
+                ],
+                "score": 0.95,
+                "text": "applicants who are most in need of a job. It is the intent of the parties that job opportunities be"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    699.0,
+                    1564.0,
+                    699.0,
+                    1564.0,
+                    748.0,
+                    172.0,
+                    748.0
+                ],
+                "score": 0.97,
+                "text": "maximized for low and moderate income people of the community by the utilization of Job Service as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    733.0,
+                    1068.0,
+                    733.0,
+                    1068.0,
+                    775.0,
+                    172.0,
+                    775.0
+                ],
+                "score": 0.99,
+                "text": "the first source of hiring referrals for such jobs within the Project."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    221.0,
+                    863.0,
+                    1598.0,
+                    863.0,
+                    1598.0,
+                    912.0,
+                    221.0,
+                    912.0
+                ],
+                "score": 0.98,
+                "text": "The Employer shal in consideration of the receipt from the City of public financing in its Project use"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    894.0,
+                    1523.0,
+                    894.0,
+                    1523.0,
+                    945.0,
+                    168.0,
+                    945.0
+                ],
+                "score": 0.96,
+                "text": "Job Service as its first source for recruitment and referral in the hiring of all non-promotional, non-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    929.0,
+                    1590.0,
+                    929.0,
+                    1590.0,
+                    976.0,
+                    168.0,
+                    976.0
+                ],
+                "score": 0.99,
+                "text": "professional permanent job openings within the development Project. Job Service shall in consideration"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    960.0,
+                    1470.0,
+                    960.0,
+                    1470.0,
+                    1011.0,
+                    170.0,
+                    1011.0
+                ],
+                "score": 0.95,
+                "text": "Of being designated the first source hiring agency provide the Employer with job referrals in an"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    166.0,
+                    991.0,
+                    1576.0,
+                    991.0,
+                    1576.0,
+                    1045.0,
+                    166.0,
+                    1045.0
+                ],
+                "score": 0.96,
+                "text": "expedited fashion. The City shall in consideration of the enhancement of job oportunities for low and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    168.0,
+                    1028.0,
+                    1537.0,
+                    1028.0,
+                    1537.0,
+                    1075.0,
+                    168.0,
+                    1075.0
+                ],
+                "score": 0.99,
+                "text": "moderate income persons require developers who are recipients of public financing to enter into.this"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    170.0,
+                    1061.0,
+                    332.0,
+                    1061.0,
+                    332.0,
+                    1094.0,
+                    170.0,
+                    1094.0
+                ],
+                "score": 0.99,
+                "text": "Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1218.0,
+                    96.0,
+                    1289.0,
+                    96.0,
+                    1289.0,
+                    138.0,
+                    1218.0,
+                    138.0
+                ],
+                "score": 0.99,
+                "text": "Date"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1335.0,
+                    83.0,
+                    1431.0,
+                    83.0,
+                    1431.0,
+                    128.0,
+                    1335.0,
+                    128.0
+                ],
+                "score": 0.98,
+                "text": "APR 3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1460.0,
+                    92.0,
+                    1525.0,
+                    92.0,
+                    1525.0,
+                    139.0,
+                    1460.0,
+                    139.0
+                ],
+                "score": 1.0,
+                "text": "1995"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1214.0,
+                    165.0,
+                    1403.0,
+                    165.0,
+                    1403.0,
+                    207.0,
+                    1214.0,
+                    207.0
+                ],
+                "score": 0.96,
+                "text": "Agenda ltem."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1463.0,
+                    146.0,
+                    1563.0,
+                    146.0,
+                    1563.0,
+                    210.0,
+                    1463.0,
+                    210.0
+                ],
+                "score": 0.82,
+                "text": "43"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1206.0,
+                    221.0,
+                    1574.0,
+                    221.0,
+                    1574.0,
+                    270.0,
+                    1206.0,
+                    270.0
+                ],
+                "score": 0.87,
+                "text": "Ro!l Call # 95- 1319."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    225.0,
+                    372.0,
+                    1543.0,
+                    372.0,
+                    1543.0,
+                    421.0,
+                    225.0,
+                    421.0
+                ],
+                "score": 0.98,
+                "text": "This Agreement (hereinafter, the \"Agreement\") is made by and between the Iowa Depariment of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    171.0,
+                    401.0,
+                    1486.0,
+                    401.0,
+                    1486.0,
+                    457.0,
+                    171.0,
+                    457.0
+                ],
+                "score": 0.94,
+                "text": "Employment Services/Job Service Division (hereinafter, Job Service), the City of Des Moines"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    174.0,
+                    438.0,
+                    1595.0,
+                    438.0,
+                    1595.0,
+                    489.0,
+                    174.0,
+                    489.0
+                ],
+                "score": 0.96,
+                "text": "(hereinafter, the \"City\"), Fibrelite Corporation (hereinafter, the \"Employer\") which proposes to operate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    470.0,
+                    1522.0,
+                    470.0,
+                    1522.0,
+                    520.0,
+                    173.0,
+                    520.0
+                ],
+                "score": 0.94,
+                "text": "an industrial facility in Des Moines, Iowa, (hereinafter, the \"Project\") pursuant to the provisions of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    503.0,
+                    637.0,
+                    503.0,
+                    637.0,
+                    542.0,
+                    173.0,
+                    542.0
+                ],
+                "score": 0.96,
+                "text": "Chapter 28E of the Code of Iowa."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    218.0,
+                    1185.0,
+                    1599.0,
+                    1185.0,
+                    1599.0,
+                    1241.0,
+                    218.0,
+                    1241.0
+                ],
+                "score": 0.96,
+                "text": "The parties do hereby agree to the folowing division of responsibiliies for this jointand cooperative"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    169.0,
+                    1217.0,
+                    343.0,
+                    1217.0,
+                    343.0,
+                    1263.0,
+                    169.0,
+                    1263.0
+                ],
+                "score": 1.0,
+                "text": "undertaking:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    200.0,
+                    798.0,
+                    224.0,
+                    798.0,
+                    224.0,
+                    826.0,
+                    200.0,
+                    826.0
+                ],
+                "score": 0.82,
+                "text": "I."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    273.0,
+                    796.0,
+                    551.0,
+                    796.0,
+                    551.0,
+                    829.0,
+                    273.0,
+                    829.0
+                ],
+                "score": 1.0,
+                "text": "CONSIDERATION"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    265.0,
+                    1677.0,
+                    1574.0,
+                    1677.0,
+                    1574.0,
+                    1731.0,
+                    265.0,
+                    1731.0
+                ],
+                "score": 0.95,
+                "text": "3. The Empioyer shal interview each applicant referred by Job Service during the ten (10) day"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    315.0,
+                    1710.0,
+                    1517.0,
+                    1710.0,
+                    1517.0,
+                    1764.0,
+                    315.0,
+                    1764.0
+                ],
+                "score": 0.97,
+                "text": "period until the job is filled or the period expires. The Employer retains at all times full"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    320.0,
+                    1744.0,
+                    645.0,
+                    1744.0,
+                    645.0,
+                    1783.0,
+                    320.0,
+                    1783.0
+                ],
+                "score": 0.99,
+                "text": "choice of whom to hire."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    267.0,
+                    1481.0,
+                    1517.0,
+                    1481.0,
+                    1517.0,
+                    1530.0,
+                    267.0,
+                    1530.0
+                ],
+                "score": 0.98,
+                "text": "2. During the first ten (10) days following the date of each job opening the Employer shall"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    321.0,
+                    1515.0,
+                    1585.0,
+                    1515.0,
+                    1585.0,
+                    1564.0,
+                    321.0,
+                    1564.0
+                ],
+                "score": 0.98,
+                "text": "interview only applicants referred to it by Job Service. The Empioyer may negouiate a lesser"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    320.0,
+                    1549.0,
+                    1549.0,
+                    1549.0,
+                    1549.0,
+                    1595.0,
+                    320.0,
+                    1595.0
+                ],
+                "score": 0.98,
+                "text": "time period with job Serrvice for those jobs for which there is critical need that it be filled"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    321.0,
+                    1581.0,
+                    1558.0,
+                    1581.0,
+                    1558.0,
+                    1630.0,
+                    321.0,
+                    1630.0
+                ],
+                "score": 0.97,
+                "text": "within a shorter timeframe so long as the crisis is not of the Employer's own making and is"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    321.0,
+                    1615.0,
+                    1062.0,
+                    1615.0,
+                    1062.0,
+                    1657.0,
+                    321.0,
+                    1657.0
+                ],
+                "score": 0.99,
+                "text": "not used to circum vent the purpose of this Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    318.0,
+                    1348.0,
+                    1577.0,
+                    1348.0,
+                    1577.0,
+                    1404.0,
+                    318.0,
+                    1404.0
+                ],
+                "score": 0.94,
+                "text": "The Employershalluse JobService as its first source for the recruitment, referral and hiring"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    319.0,
+                    1383.0,
+                    1547.0,
+                    1383.0,
+                    1547.0,
+                    1437.0,
+                    319.0,
+                    1437.0
+                ],
+                "score": 0.92,
+                "text": "for all non-promotional, non-professional peranent job openings in he Project for t"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    324.0,
+                    1419.0,
+                    698.0,
+                    1419.0,
+                    698.0,
+                    1456.0,
+                    324.0,
+                    1456.0
+                ],
+                "score": 0.98,
+                "text": "duration of this Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    266.0,
+                    1809.0,
+                    1564.0,
+                    1809.0,
+                    1564.0,
+                    1860.0,
+                    266.0,
+                    1860.0
+                ],
+                "score": 0.97,
+                "text": "4. The Employer shall notify Job Service of its specific need for additional employees as soon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    318.0,
+                    1841.0,
+                    1396.0,
+                    1841.0,
+                    1396.0,
+                    1895.0,
+                    318.0,
+                    1895.0
+                ],
+                "score": 0.98,
+                "text": "as that need is identified together with the anticipated date of each job opening."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    188.0,
+                    1124.0,
+                    235.0,
+                    1124.0,
+                    235.0,
+                    1155.0,
+                    188.0,
+                    1155.0
+                ],
+                "score": 0.79,
+                "text": "I1."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    274.0,
+                    1127.0,
+                    782.0,
+                    1127.0,
+                    782.0,
+                    1158.0,
+                    274.0,
+                    1158.0
+                ],
+                "score": 0.98,
+                "text": "DIVISION OF RESPONSIBILITIES"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    526.0,
+                    1970.0,
+                    1011.0,
+                    1970.0,
+                    1011.0,
+                    2024.0,
+                    526.0,
+                    2024.0
+                ],
+                "score": 0.98,
+                "text": "Return to: CITY CLERK-DES MOINES"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    671.0,
+                    2014.0,
+                    954.0,
+                    2014.0,
+                    954.0,
+                    2062.0,
+                    671.0,
+                    2062.0
+                ],
+                "score": 0.99,
+                "text": "400 East First Street"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    671.0,
+                    2053.0,
+                    1078.0,
+                    2053.0,
+                    1078.0,
+                    2104.0,
+                    671.0,
+                    2104.0
+                ],
+                "score": 0.96,
+                "text": "DES M01NES, 1A 50309-1891"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    667.0,
+                    2091.0,
+                    922.0,
+                    2091.0,
+                    922.0,
+                    2134.0,
+                    667.0,
+                    2134.0
+                ],
+                "score": 0.95,
+                "text": "(515) 283-4209-"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2800,
+            "width": 1696
+        }
+    }
+]

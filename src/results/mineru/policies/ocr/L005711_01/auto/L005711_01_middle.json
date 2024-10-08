@@ -1,0 +1,2105 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        164,
+                        97,
+                        478,
+                        113
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                98,
+                                475,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        98,
+                                        475,
+                                        113
+                                    ],
+                                    "score": 0.98,
+                                    "content": "FIRST SOURCE EMPLOYMENT AGREEMENT",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        133,
+                        577,
+                        195
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                133,
+                                555,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        133,
+                                        555,
+                                        151
+                                    ],
+                                    "score": 0.98,
+                                    "content": "This Agreement (hereinafter, the \"Agreement\") is made by and between the Iowa Depariment of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                144,
+                                535,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        144,
+                                        535,
+                                        164
+                                    ],
+                                    "score": 0.94,
+                                    "content": "Employment Services/Job Service Division (hereinafter, Job Service), the City of Des Moines",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                157,
+                                574,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        157,
+                                        574,
+                                        176
+                                    ],
+                                    "score": 0.96,
+                                    "content": "(hereinafter, the \"City\"), Fibrelite Corporation (hereinafter, the \"Employer\") which proposes to operate",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                169,
+                                548,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        169,
+                                        548,
+                                        187
+                                    ],
+                                    "score": 0.94,
+                                    "content": "an industrial facility in Des Moines, Iowa, (hereinafter, the \"Project\") pursuant to the provisions of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                181,
+                                229,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        181,
+                                        229,
+                                        195
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Chapter 28E of the Code of Iowa.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        203,
+                        579,
+                        279
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                204,
+                                576,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        204,
+                                        576,
+                                        222
+                                    ],
+                                    "score": 0.99,
+                                    "content": "The above-referenced development Project has received direct federal, state or local public financing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                216,
+                                571,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        216,
+                                        571,
+                                        233
+                                    ],
+                                    "score": 0.99,
+                                    "content": "of $ 100,000 or more (excluding U.S. SBA Guarantees and urban renewal writedowns). The purpose of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                227,
+                                557,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        227,
+                                        557,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "this Agreement is to make the permanent jobs created within the Project accessible to those qualified",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                239,
+                                528,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        239,
+                                        528,
+                                        257
+                                    ],
+                                    "score": 0.95,
+                                    "content": "applicants who are most in need of a job. It is the intent of the parties that job opportunities be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                251,
+                                563,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        251,
+                                        563,
+                                        269
+                                    ],
+                                    "score": 0.97,
+                                    "content": "maximized for low and moderate income people of the community by the utilization of Job Service as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                263,
+                                384,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        263,
+                                        384,
+                                        279
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the first source of hiring referrals for such jobs within the Project.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        285,
+                        202,
+                        300
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                286,
+                                198,
+                                298
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        287,
+                                        80,
+                                        297
+                                    ],
+                                    "score": 0.82,
+                                    "content": "I.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        98,
+                                        286,
+                                        198,
+                                        298
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CONSIDERATION",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        60,
+                        311,
+                        579,
+                        395
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                310,
+                                575,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        310,
+                                        575,
+                                        328
+                                    ],
+                                    "score": 0.98,
+                                    "content": "The Employer shal in consideration of the receipt from the City of public financing in its Project use",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                321,
+                                548,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        321,
+                                        548,
+                                        340
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Job Service as its first source for recruitment and referral in the hiring of all non-promotional, non-",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                334,
+                                572,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        334,
+                                        572,
+                                        351
+                                    ],
+                                    "score": 0.99,
+                                    "content": "professional permanent job openings within the development Project. Job Service shall in consideration",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                345,
+                                529,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        345,
+                                        529,
+                                        363
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Of being designated the first source hiring agency provide the Employer with job referrals in an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                356,
+                                567,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        356,
+                                        567,
+                                        376
+                                    ],
+                                    "score": 0.96,
+                                    "content": "expedited fashion. The City shall in consideration of the enhancement of job oportunities for low and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                370,
+                                553,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        370,
+                                        553,
+                                        387
+                                    ],
+                                    "score": 0.99,
+                                    "content": "moderate income persons require developers who are recipients of public financing to enter into.this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                381,
+                                119,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        381,
+                                        119,
+                                        393
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        426,
+                        577,
+                        453
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                426,
+                                576,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        426,
+                                        576,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "The parties do hereby agree to the folowing division of responsibiliies for this jointand cooperative",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                438,
+                                123,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        438,
+                                        123,
+                                        454
+                                    ],
+                                    "score": 1.0,
+                                    "content": "undertaking:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        102,
+                        485,
+                        569,
+                        524
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                485,
+                                568,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        485,
+                                        568,
+                                        505
+                                    ],
+                                    "score": 0.94,
+                                    "content": "The Employershalluse JobService as its first source for the recruitment, referral and hiring",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                497,
+                                557,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        497,
+                                        557,
+                                        517
+                                    ],
+                                    "score": 0.92,
+                                    "content": "for all non-promotional, non-professional peranent job openings in he Project for t",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                510,
+                                251,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        510,
+                                        251,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "duration of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        531,
+                        573,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                533,
+                                546,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        533,
+                                        546,
+                                        550
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. During the first ten (10) days following the date of each job opening the Employer shall",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                545,
+                                571,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        545,
+                                        571,
+                                        563
+                                    ],
+                                    "score": 0.98,
+                                    "content": "interview only applicants referred to it by Job Service. The Empioyer may negouiate a lesser",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                557,
+                                558,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        557,
+                                        558,
+                                        574
+                                    ],
+                                    "score": 0.98,
+                                    "content": "time period with job Serrvice for those jobs for which there is critical need that it be filled",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                569,
+                                561,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        569,
+                                        561,
+                                        586
+                                    ],
+                                    "score": 0.97,
+                                    "content": "within a shorter timeframe so long as the crisis is not of the Employer's own making and is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                581,
+                                382,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        581,
+                                        382,
+                                        596
+                                    ],
+                                    "score": 0.99,
+                                    "content": "not used to circum vent the purpose of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        602,
+                        568,
+                        641
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                603,
+                                567,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        603,
+                                        567,
+                                        623
+                                    ],
+                                    "score": 0.95,
+                                    "content": "3. The Empioyer shal interview each applicant referred by Job Service during the ten (10) day",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                615,
+                                546,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        615,
+                                        546,
+                                        635
+                                    ],
+                                    "score": 0.97,
+                                    "content": "period until the job is filled or the period expires. The Employer retains at all times full",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                627,
+                                232,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        627,
+                                        232,
+                                        641
+                                    ],
+                                    "score": 0.99,
+                                    "content": "choice of whom to hire.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        650,
+                        566,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                651,
+                                563,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        651,
+                                        563,
+                                        669
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. The Employer shall notify Job Service of its specific need for additional employees as soon",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                662,
+                                502,
+                                682
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        662,
+                                        502,
+                                        682
+                                    ],
+                                    "score": 0.98,
+                                    "content": "as that need is identified together with the anticipated date of each job opening.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        186,
+                        708,
+                        388,
+                        770
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                186,
+                                708,
+                                388,
+                                770
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        708,
+                                        388,
+                                        770
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                186,
+                                                708,
+                                                388,
+                                                770
+                                            ],
+                                            "score": 0.7639434337615967,
+                                            "type": "image",
+                                            "image_path": "11bda29ea4cb882be4451de52086e5a1fbfe3a21a9025146ea0860f95614c684.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        97,
+                        610.5599975585938,
+                        770
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                1008.0
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        97,
+                        610.5599975585938,
+                        770
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        186,
+                        708,
+                        388,
+                        770
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                186,
+                                708,
+                                388,
+                                770
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        708,
+                                        388,
+                                        770
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                186,
+                                                708,
+                                                388,
+                                                770
+                                            ],
+                                            "score": 0.7639434337615967,
+                                            "type": "image",
+                                            "image_path": "11bda29ea4cb882be4451de52086e5a1fbfe3a21a9025146ea0860f95614c684.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        222,
+                        25,
+                        349,
+                        75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                266,
+                                26,
+                                305,
+                                35
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        266,
+                                        26,
+                                        305,
+                                        35
+                                    ],
+                                    "score": 1.0,
+                                    "content": "L005711",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        434,
+                        30,
+                        592,
+                        102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                480,
+                                29,
+                                515,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        480,
+                                        29,
+                                        515,
+                                        46
+                                    ],
+                                    "score": 0.98,
+                                    "content": "APR 3",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                438,
+                                33,
+                                549,
+                                50
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        438,
+                                        34,
+                                        464,
+                                        49
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Date",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        525,
+                                        33,
+                                        549,
+                                        50
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1995",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                437,
+                                52,
+                                563,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        437,
+                                        59,
+                                        505,
+                                        74
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Agenda ltem.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        527,
+                                        52,
+                                        563,
+                                        75
+                                    ],
+                                    "score": 0.82,
+                                    "content": "43",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                434,
+                                79,
+                                567,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        434,
+                                        79,
+                                        567,
+                                        97
+                                    ],
+                                    "score": 0.87,
+                                    "content": "Ro!l Call # 95- 1319.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        164,
+                        97,
+                        478,
+                        113
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                98,
+                                475,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        98,
+                                        475,
+                                        113
+                                    ],
+                                    "score": 0.98,
+                                    "content": "FIRST SOURCE EMPLOYMENT AGREEMENT",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        164,
+                        97,
+                        478,
+                        113
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        133,
+                        577,
+                        195
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                133,
+                                563,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        133,
+                                        555,
+                                        151
+                                    ],
+                                    "score": 0.98,
+                                    "content": "This Agreement (hereinafter, the \"Agreement\") is made by and between the Iowa Depariment of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                144,
+                                535,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        144,
+                                        535,
+                                        164
+                                    ],
+                                    "score": 0.94,
+                                    "content": "Employment Services/Job Service Division (hereinafter, Job Service), the City of Des Moines",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                157,
+                                576,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        157,
+                                        574,
+                                        176
+                                    ],
+                                    "score": 0.96,
+                                    "content": "(hereinafter, the \"City\"), Fibrelite Corporation (hereinafter, the \"Employer\") which proposes to operate",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                169,
+                                548,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        169,
+                                        548,
+                                        187
+                                    ],
+                                    "score": 0.94,
+                                    "content": "an industrial facility in Des Moines, Iowa, (hereinafter, the \"Project\") pursuant to the provisions of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                181,
+                                232,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        181,
+                                        229,
+                                        195
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Chapter 28E of the Code of Iowa.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        133,
+                        576,
+                        195
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        203,
+                        579,
+                        279
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                204,
+                                576,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        204,
+                                        576,
+                                        222
+                                    ],
+                                    "score": 0.99,
+                                    "content": "The above-referenced development Project has received direct federal, state or local public financing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                216,
+                                576,
+                                233
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        216,
+                                        571,
+                                        233
+                                    ],
+                                    "score": 0.99,
+                                    "content": "of $ 100,000 or more (excluding U.S. SBA Guarantees and urban renewal writedowns). The purpose of",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                227,
+                                563,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        227,
+                                        557,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "this Agreement is to make the permanent jobs created within the Project accessible to those qualified",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                239,
+                                529,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        239,
+                                        528,
+                                        257
+                                    ],
+                                    "score": 0.95,
+                                    "content": "applicants who are most in need of a job. It is the intent of the parties that job opportunities be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                251,
+                                563,
+                                269
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        251,
+                                        563,
+                                        269
+                                    ],
+                                    "score": 0.97,
+                                    "content": "maximized for low and moderate income people of the community by the utilization of Job Service as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                263,
+                                384,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        263,
+                                        384,
+                                        279
+                                    ],
+                                    "score": 0.99,
+                                    "content": "the first source of hiring referrals for such jobs within the Project.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        204,
+                        576,
+                        279
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        285,
+                        202,
+                        300
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                286,
+                                198,
+                                298
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        287,
+                                        80,
+                                        297
+                                    ],
+                                    "score": 0.82,
+                                    "content": "I.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        98,
+                                        286,
+                                        198,
+                                        298
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CONSIDERATION",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        72,
+                        286,
+                        198,
+                        298
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        60,
+                        311,
+                        579,
+                        395
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                310,
+                                576,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        310,
+                                        575,
+                                        328
+                                    ],
+                                    "score": 0.98,
+                                    "content": "The Employer shal in consideration of the receipt from the City of public financing in its Project use",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                321,
+                                548,
+                                340
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        321,
+                                        548,
+                                        340
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Job Service as its first source for recruitment and referral in the hiring of all non-promotional, non-",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                334,
+                                576,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        334,
+                                        572,
+                                        351
+                                    ],
+                                    "score": 0.99,
+                                    "content": "professional permanent job openings within the development Project. Job Service shall in consideration",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                345,
+                                529,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        345,
+                                        529,
+                                        363
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Of being designated the first source hiring agency provide the Employer with job referrals in an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                356,
+                                576,
+                                376
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        356,
+                                        567,
+                                        376
+                                    ],
+                                    "score": 0.96,
+                                    "content": "expedited fashion. The City shall in consideration of the enhancement of job oportunities for low and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                370,
+                                563,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        370,
+                                        553,
+                                        387
+                                    ],
+                                    "score": 0.99,
+                                    "content": "moderate income persons require developers who are recipients of public financing to enter into.this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                381,
+                                119,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        381,
+                                        119,
+                                        393
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        310,
+                        576,
+                        393
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        426,
+                        577,
+                        453
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                78,
+                                426,
+                                576,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        426,
+                                        576,
+                                        446
+                                    ],
+                                    "score": 0.96,
+                                    "content": "The parties do hereby agree to the folowing division of responsibiliies for this jointand cooperative",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                438,
+                                123,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        438,
+                                        123,
+                                        454
+                                    ],
+                                    "score": 1.0,
+                                    "content": "undertaking:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        59,
+                        426,
+                        576,
+                        454
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        102,
+                        485,
+                        569,
+                        524
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                485,
+                                576,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        485,
+                                        568,
+                                        505
+                                    ],
+                                    "score": 0.94,
+                                    "content": "The Employershalluse JobService as its first source for the recruitment, referral and hiring",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                497,
+                                563,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        497,
+                                        557,
+                                        517
+                                    ],
+                                    "score": 0.92,
+                                    "content": "for all non-promotional, non-professional peranent job openings in he Project for t",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                510,
+                                251,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        510,
+                                        251,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "duration of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        113,
+                        485,
+                        576,
+                        524
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        531,
+                        573,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                533,
+                                548,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        533,
+                                        546,
+                                        550
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2. During the first ten (10) days following the date of each job opening the Employer shall",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                545,
+                                576,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        545,
+                                        571,
+                                        563
+                                    ],
+                                    "score": 0.98,
+                                    "content": "interview only applicants referred to it by Job Service. The Empioyer may negouiate a lesser",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                557,
+                                563,
+                                574
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        557,
+                                        558,
+                                        574
+                                    ],
+                                    "score": 0.98,
+                                    "content": "time period with job Serrvice for those jobs for which there is critical need that it be filled",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                569,
+                                563,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        569,
+                                        561,
+                                        586
+                                    ],
+                                    "score": 0.97,
+                                    "content": "within a shorter timeframe so long as the crisis is not of the Employer's own making and is",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                581,
+                                384,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        581,
+                                        382,
+                                        596
+                                    ],
+                                    "score": 0.99,
+                                    "content": "not used to circum vent the purpose of this Agreement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        95,
+                        533,
+                        576,
+                        596
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        96,
+                        602,
+                        568,
+                        641
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                603,
+                                576,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        603,
+                                        567,
+                                        623
+                                    ],
+                                    "score": 0.95,
+                                    "content": "3. The Empioyer shal interview each applicant referred by Job Service during the ten (10) day",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                615,
+                                548,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        615,
+                                        546,
+                                        635
+                                    ],
+                                    "score": 0.97,
+                                    "content": "period until the job is filled or the period expires. The Employer retains at all times full",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                627,
+                                232,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        627,
+                                        232,
+                                        641
+                                    ],
+                                    "score": 0.99,
+                                    "content": "choice of whom to hire.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        95,
+                        603,
+                        576,
+                        641
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        95,
+                        650,
+                        566,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                651,
+                                563,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        651,
+                                        563,
+                                        669
+                                    ],
+                                    "score": 0.97,
+                                    "content": "4. The Employer shall notify Job Service of its specific need for additional employees as soon",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                662,
+                                502,
+                                682
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        662,
+                                        502,
+                                        682
+                                    ],
+                                    "score": 0.98,
+                                    "content": "as that need is identified together with the anticipated date of each job opening.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        95,
+                        651,
+                        563,
+                        682
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        186,
+                        708,
+                        388,
+                        770
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                186,
+                                708,
+                                388,
+                                770
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        186,
+                                        708,
+                                        388,
+                                        770
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                186,
+                                                708,
+                                                388,
+                                                770
+                                            ],
+                                            "score": 0.7639434337615967,
+                                            "type": "image",
+                                            "image_path": "11bda29ea4cb882be4451de52086e5a1fbfe3a21a9025146ea0860f95614c684.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        186,
+                        708,
+                        388,
+                        770
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

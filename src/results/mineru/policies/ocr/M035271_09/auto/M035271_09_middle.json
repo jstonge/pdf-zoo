@@ -1,0 +1,774 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        62,
+                        126,
+                        217,
+                        152
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                128,
+                                214,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        128,
+                                        214,
+                                        149
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Memorandum",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        166,
+                        376,
+                        209
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                167,
+                                373,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        167,
+                                        126,
+                                        180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "To:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        169,
+                                        373,
+                                        179
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Cusromer Service, Iowa Secretary of State's Office",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                181,
+                                300,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        181,
+                                        300,
+                                        194
+                                    ],
+                                    "score": 1.0,
+                                    "content": "From: Nicole Gehl, Operations Manager",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                194,
+                                340,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        194,
+                                        136,
+                                        208
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Re:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        196,
+                                        340,
+                                        206
+                                    ],
+                                    "score": 0.98,
+                                    "content": "28E Agreements for Tobacco Enforcement",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        103,
+                        241,
+                        439,
+                        256
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                105,
+                                243,
+                                437,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        243,
+                                        437,
+                                        254
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Please file the enclosed FY07 28E Agreements for tobacco enforcement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        268,
+                        535,
+                        295
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                269,
+                                533,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        269,
+                                        533,
+                                        283
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You may contact me at 515.281.7461 or Gehl@lowaABD,com with any questions or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                282,
+                                216,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        282,
+                                        216,
+                                        295
+                                    ],
+                                    "score": 0.98,
+                                    "content": "comments. Thank you.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        126,
+                        610.5599975585938,
+                        758
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        126,
+                        610.5599975585938,
+                        758
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        127,
+                        25,
+                        257,
+                        86
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                196,
+                                29,
+                                253,
+                                39
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        196,
+                                        29,
+                                        253,
+                                        39
+                                    ],
+                                    "score": 0.92,
+                                    "content": "ALCOHOLIC",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                196,
+                                44,
+                                255,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        196,
+                                        44,
+                                        255,
+                                        53
+                                    ],
+                                    "score": 1.0,
+                                    "content": "BEVERAGES",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                195,
+                                58,
+                                244,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        58,
+                                        244,
+                                        68
+                                    ],
+                                    "score": 0.99,
+                                    "content": "DIVISION",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                196,
+                                74,
+                                249,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        196,
+                                        74,
+                                        249,
+                                        82
+                                    ],
+                                    "score": 0.99,
+                                    "content": "State of lowa",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        444,
+                        46,
+                        577,
+                        91
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                445,
+                                49,
+                                567,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        445,
+                                        49,
+                                        503,
+                                        56
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Thomas J. Vilsack",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        510,
+                                        49,
+                                        567,
+                                        56
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Governor of fowa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                447,
+                                59,
+                                576,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        447,
+                                        59,
+                                        503,
+                                        68
+                                    ],
+                                    "score": 0.93,
+                                    "content": "Sally J. Pederson",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        511,
+                                        59,
+                                        576,
+                                        67
+                                    ],
+                                    "score": 0.94,
+                                    "content": "Lieutenant Governor",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                449,
+                                80,
+                                554,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        80,
+                                        503,
+                                        90
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Lynn M. Walding",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        510,
+                                        81,
+                                        554,
+                                        88
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Administrator",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        133,
+                        734,
+                        583,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                735,
+                                464,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        735,
+                                        464,
+                                        744
+                                    ],
+                                    "score": 0.96,
+                                    "content": "11918 SE Huisizer Road Ankeny, lowa 50021-3941",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                134,
+                                741,
+                                288,
+                                751
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        134,
+                                        741,
+                                        288,
+                                        751
+                                    ],
+                                    "score": 0.99,
+                                    "content": "A Division of the Department of Commerce",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                295,
+                                747,
+                                583,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        295,
+                                        747,
+                                        583,
+                                        758
+                                    ],
+                                    "score": 0.93,
+                                    "content": ": PH 515.281.7400FAX 515.281.7385 T01E FREE 866.1owaA8D WWW.lowa ABD.com",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        62,
+                        126,
+                        217,
+                        152
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                128,
+                                214,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        128,
+                                        214,
+                                        149
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Memorandum",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        126,
+                        217,
+                        152
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        166,
+                        376,
+                        209
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                167,
+                                373,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        167,
+                                        126,
+                                        180
+                                    ],
+                                    "score": 0.88,
+                                    "content": "To:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        169,
+                                        373,
+                                        179
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Cusromer Service, Iowa Secretary of State's Office",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                181,
+                                300,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        181,
+                                        300,
+                                        194
+                                    ],
+                                    "score": 1.0,
+                                    "content": "From: Nicole Gehl, Operations Manager",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                194,
+                                340,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        194,
+                                        136,
+                                        208
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Re:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        196,
+                                        340,
+                                        206
+                                    ],
+                                    "score": 0.98,
+                                    "content": "28E Agreements for Tobacco Enforcement",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        104,
+                        167,
+                        373,
+                        208
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        103,
+                        241,
+                        439,
+                        256
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                243,
+                                437,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        105,
+                                        243,
+                                        437,
+                                        254
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Please file the enclosed FY07 28E Agreements for tobacco enforcement.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        104,
+                        243,
+                        437,
+                        254
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        104,
+                        268,
+                        535,
+                        295
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                104,
+                                269,
+                                533,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        269,
+                                        533,
+                                        283
+                                    ],
+                                    "score": 0.98,
+                                    "content": "You may contact me at 515.281.7461 or Gehl@lowaABD,com with any questions or",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                104,
+                                282,
+                                216,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        104,
+                                        282,
+                                        216,
+                                        295
+                                    ],
+                                    "score": 0.98,
+                                    "content": "comments. Thank you.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        104,
+                        269,
+                        533,
+                        295
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

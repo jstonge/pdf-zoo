@@ -1,0 +1,738 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    359.9307861328125,
+                    289.0951843261719,
+                    1476.0889892578125,
+                    289.0951843261719,
+                    1476.0889892578125,
+                    693.9769287109375,
+                    359.9307861328125,
+                    693.9769287109375
+                ],
+                "score": 0.9999970197677612
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    256.21453857421875,
+                    1609.2459716796875,
+                    1479.0211181640625,
+                    1609.2459716796875,
+                    1479.0211181640625,
+                    1870.8677978515625,
+                    256.21453857421875,
+                    1870.8677978515625
+                ],
+                "score": 0.9999918341636658
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    257.8224792480469,
+                    139.14390563964844,
+                    1471.617919921875,
+                    139.14390563964844,
+                    1471.617919921875,
+                    253.521484375,
+                    257.8224792480469,
+                    253.521484375
+                ],
+                "score": 0.9999875426292419
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    255.94554138183594,
+                    1350.0848388671875,
+                    1480.4967041015625,
+                    1350.0848388671875,
+                    1480.4967041015625,
+                    1575.8475341796875,
+                    255.94554138183594,
+                    1575.8475341796875
+                ],
+                "score": 0.9999852180480957
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    251.61050415039062,
+                    726.0760498046875,
+                    1479.35888671875,
+                    726.0760498046875,
+                    1479.35888671875,
+                    914.6260986328125,
+                    251.61050415039062,
+                    914.6260986328125
+                ],
+                "score": 0.9999209642410278
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    854.380126953125,
+                    2011.560791015625,
+                    874.3289184570312,
+                    2011.560791015625,
+                    874.3289184570312,
+                    2040.4578857421875,
+                    854.380126953125,
+                    2040.4578857421875
+                ],
+                "score": 0.9998143911361694
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    253.82362365722656,
+                    1277.44091796875,
+                    800.348876953125,
+                    1277.44091796875,
+                    800.348876953125,
+                    1316.2520751953125,
+                    253.82362365722656,
+                    1316.2520751953125
+                ],
+                "score": 0.9997002482414246
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    360.2676696777344,
+                    948.416748046875,
+                    1475.9635009765625,
+                    948.416748046875,
+                    1475.9635009765625,
+                    1208.8701171875,
+                    360.2676696777344,
+                    1208.8701171875
+                ],
+                "score": 0.9977409243583679
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    290.0,
+                    1465.0,
+                    290.0,
+                    1465.0,
+                    324.0,
+                    358.0,
+                    324.0
+                ],
+                "score": 1.0,
+                "text": "10.2.1 Failure to observe and perform any covenant, condition or obligation created"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    459.0,
+                    327.0,
+                    700.0,
+                    327.0,
+                    700.0,
+                    362.0,
+                    459.0,
+                    362.0
+                ],
+                "score": 0.99,
+                "text": "by the Agreement;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    400.0,
+                    1468.0,
+                    400.0,
+                    1468.0,
+                    436.0,
+                    358.0,
+                    436.0
+                ],
+                "score": 0.99,
+                "text": "10.2.2 Failure to make substantial and timely progress roward performance of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    459.0,
+                    439.0,
+                    611.0,
+                    439.0,
+                    611.0,
+                    475.0,
+                    459.0,
+                    475.0
+                ],
+                "score": 0.99,
+                "text": "Agreement;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    508.0,
+                    1466.0,
+                    508.0,
+                    1466.0,
+                    545.0,
+                    358.0,
+                    545.0
+                ],
+                "score": 0.98,
+                "text": "10.2.3 Failure of the party's work product and services to conform with any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    457.0,
+                    548.0,
+                    815.0,
+                    548.0,
+                    815.0,
+                    580.0,
+                    457.0,
+                    580.0
+                ],
+                "score": 0.98,
+                "text": "specifications noted herein;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    620.0,
+                    1468.0,
+                    620.0,
+                    1468.0,
+                    659.0,
+                    361.0,
+                    659.0
+                ],
+                "score": 1.0,
+                "text": "10.2.4 Infringement of any patent, trademark, copyright, trade dress or any other"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    459.0,
+                    655.0,
+                    800.0,
+                    655.0,
+                    800.0,
+                    696.0,
+                    459.0,
+                    696.0
+                ],
+                "score": 1.0,
+                "text": "intellectual property right."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    260.0,
+                    1617.0,
+                    323.0,
+                    1617.0,
+                    323.0,
+                    1642.0,
+                    260.0,
+                    1642.0
+                ],
+                "score": 1.0,
+                "text": "11.2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1615.0,
+                    1468.0,
+                    1615.0,
+                    1468.0,
+                    1644.0,
+                    362.0,
+                    1644.0
+                ],
+                "score": 0.97,
+                "text": "By the Department._Consistent with Article Vll, Section 1 of the Iowa Constitution"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    1651.0,
+                    1471.0,
+                    1651.0,
+                    1471.0,
+                    1685.0,
+                    358.0,
+                    1685.0
+                ],
+                "score": 0.98,
+                "text": "and Iowa Code Chapter 670, the Department agrees to defend and indemnify and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    1679.0,
+                    1471.0,
+                    1679.0,
+                    1471.0,
+                    1724.0,
+                    358.0,
+                    1724.0
+                ],
+                "score": 0.99,
+                "text": "hold the State of Iowa and ABD harmless from any and all liabilities, damages,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    1723.0,
+                    1471.0,
+                    1723.0,
+                    1471.0,
+                    1758.0,
+                    359.0,
+                    1758.0
+                ],
+                "score": 0.98,
+                "text": "settiemenrs, judgments, costs and expenses, including reasonable governmenral"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1762.0,
+                    1470.0,
+                    1762.0,
+                    1470.0,
+                    1790.0,
+                    362.0,
+                    1790.0
+                ],
+                "score": 0.99,
+                "text": "attorney's fees and the costs and expenses of attorney fees of other counsel required to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    1796.0,
+                    898.0,
+                    1796.0,
+                    898.0,
+                    1827.0,
+                    363.0,
+                    1827.0
+                ],
+                "score": 0.96,
+                "text": "defend the ABD, related to or arising"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    914.0,
+                    1803.0,
+                    1100.0,
+                    1803.0,
+                    1100.0,
+                    1828.0,
+                    914.0,
+                    1828.0
+                ],
+                "score": 0.99,
+                "text": "fromanyneg"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1111.0,
+                    1800.0,
+                    1470.0,
+                    1800.0,
+                    1470.0,
+                    1829.0,
+                    1111.0,
+                    1829.0
+                ],
+                "score": 0.95,
+                "text": "igent or wrongful acts or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    1834.0,
+                    1241.0,
+                    1834.0,
+                    1241.0,
+                    1865.0,
+                    359.0,
+                    1865.0
+                ],
+                "score": 0.97,
+                "text": "omissions of the Department in the performance of this Agreemenr."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    259.0,
+                    148.0,
+                    321.0,
+                    148.0,
+                    321.0,
+                    172.0,
+                    259.0,
+                    172.0
+                ],
+                "score": 1.0,
+                "text": "10.2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    352.0,
+                    144.0,
+                    1466.0,
+                    144.0,
+                    1466.0,
+                    177.0,
+                    352.0,
+                    177.0
+                ],
+                "score": 0.99,
+                "text": "Termination for Cause. The occurrence of any one or more of rhe following evenrs"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    180.0,
+                    1469.0,
+                    180.0,
+                    1469.0,
+                    216.0,
+                    356.0,
+                    216.0
+                ],
+                "score": 0.98,
+                "text": "shall constitute cause for any party to declare another party in default of its"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    216.0,
+                    794.0,
+                    216.0,
+                    794.0,
+                    252.0,
+                    359.0,
+                    252.0
+                ],
+                "score": 0.99,
+                "text": "obligations under the Agreemenr:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    260.0,
+                    1359.0,
+                    318.0,
+                    1359.0,
+                    318.0,
+                    1386.0,
+                    260.0,
+                    1386.0
+                ],
+                "score": 0.86,
+                "text": "1 1.1"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1358.0,
+                    1471.0,
+                    1358.0,
+                    1471.0,
+                    1387.0,
+                    361.0,
+                    1387.0
+                ],
+                "score": 0.97,
+                "text": "By ABD. Consistenr with Article VIl, Section 1 of the Iowa Constitution and Iowa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    1393.0,
+                    1472.0,
+                    1393.0,
+                    1472.0,
+                    1426.0,
+                    360.0,
+                    1426.0
+                ],
+                "score": 0.99,
+                "text": "Code Chapter 669, ABD agrees to defend and indemnify the Department and hold"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    1429.0,
+                    1473.0,
+                    1429.0,
+                    1473.0,
+                    1464.0,
+                    358.0,
+                    1464.0
+                ],
+                "score": 0.99,
+                "text": "it harmiess against any and all liabilities, damages, settlements, judgments, costs and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1467.0,
+                    1472.0,
+                    1467.0,
+                    1472.0,
+                    1502.0,
+                    362.0,
+                    1502.0
+                ],
+                "score": 0.98,
+                "text": "expenses, including reasonable attorneys fees of counsel required to defend the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    1500.0,
+                    1473.0,
+                    1500.0,
+                    1473.0,
+                    1541.0,
+                    357.0,
+                    1541.0
+                ],
+                "score": 0.98,
+                "text": "Department, related to or arising out of ABD's negligent or wrongfui acts or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    358.0,
+                    1541.0,
+                    983.0,
+                    1541.0,
+                    983.0,
+                    1574.0,
+                    358.0,
+                    1574.0
+                ],
+                "score": 1.0,
+                "text": "omissions in the performance of the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    259.0,
+                    733.0,
+                    319.0,
+                    733.0,
+                    319.0,
+                    760.0,
+                    259.0,
+                    760.0
+                ],
+                "score": 0.95,
+                "text": "10.3"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    733.0,
+                    1467.0,
+                    733.0,
+                    1467.0,
+                    763.0,
+                    359.0,
+                    763.0
+                ],
+                "score": 0.97,
+                "text": "Notice of Default. If there occurs a default event under Section 10.2, the non-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    768.0,
+                    1470.0,
+                    768.0,
+                    1470.0,
+                    804.0,
+                    357.0,
+                    804.0
+                ],
+                "score": 0.97,
+                "text": "defaulting party shall provide written notice to the defauiting party requesting that"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    804.0,
+                    1471.0,
+                    804.0,
+                    1471.0,
+                    838.0,
+                    359.0,
+                    838.0
+                ],
+                "score": 0.99,
+                "text": "the breach or noncompliance be immediately remedied. In the event that the breach"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    843.0,
+                    1468.0,
+                    843.0,
+                    1468.0,
+                    872.0,
+                    356.0,
+                    872.0
+                ],
+                "score": 0.99,
+                "text": "or noncompliance continues to be evidenced ten days beyond the date specified in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    356.0,
+                    875.0,
+                    1081.0,
+                    875.0,
+                    1081.0,
+                    915.0,
+                    356.0,
+                    915.0
+                ],
+                "score": 0.99,
+                "text": "the written notice, the non-defaulting party may either:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    262.0,
+                    1287.0,
+                    792.0,
+                    1287.0,
+                    792.0,
+                    1312.0,
+                    262.0,
+                    1312.0
+                ],
+                "score": 0.94,
+                "text": "SECTION 11. 1NDEMNIFICAI1ON."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    956.0,
+                    1448.0,
+                    956.0,
+                    1448.0,
+                    984.0,
+                    363.0,
+                    984.0
+                ],
+                "score": 0.99,
+                "text": "10.3.1 Immediately terminate the Agreement without additional written notice; or."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1027.0,
+                    1467.0,
+                    1027.0,
+                    1467.0,
+                    1058.0,
+                    362.0,
+                    1058.0
+                ],
+                "score": 0.99,
+                "text": "10.3.2 Enforce the terms and conditions of the Agreement and seek any available"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    461.0,
+                    1064.0,
+                    809.0,
+                    1064.0,
+                    809.0,
+                    1098.0,
+                    461.0,
+                    1098.0
+                ],
+                "score": 0.95,
+                "text": "legal or eqlitable remedies."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    357.0,
+                    1134.0,
+                    1471.0,
+                    1134.0,
+                    1471.0,
+                    1172.0,
+                    357.0,
+                    1172.0
+                ],
+                "score": 0.99,
+                "text": "In either event, the non-defauiting party may seek damages as a result of the breach"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    1173.0,
+                    1053.0,
+                    1173.0,
+                    1053.0,
+                    1206.0,
+                    359.0,
+                    1206.0
+                ],
+                "score": 0.98,
+                "text": "or failure to comply with the terms of the Agreement."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]

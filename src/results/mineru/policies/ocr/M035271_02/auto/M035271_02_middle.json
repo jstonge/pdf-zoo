@@ -1,0 +1,2174 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        132,
+                        64,
+                        529,
+                        277
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                65,
+                                528,
+                                78
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        67,
+                                        155,
+                                        75
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.1.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        65,
+                                        528,
+                                        78
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Compliance Checks. The Department shall perform one compliance check",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                79,
+                                527,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        79,
+                                        527,
+                                        91
+                                    ],
+                                    "score": 0.97,
+                                    "content": "of each tobacco permit holder, and a second compliance check on each",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                91,
+                                528,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        91,
+                                        528,
+                                        104
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit holder who was noncompliant the first time checked during the term",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                104,
+                                528,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        104,
+                                        528,
+                                        117
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of the Agreemenr. The first compliance check shall be completed and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                118,
+                                527,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        118,
+                                        527,
+                                        130
+                                    ],
+                                    "score": 0.97,
+                                    "content": "submitted for reimbursement to ABD by April 15, 2007. The second",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                131,
+                                528,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        131,
+                                        528,
+                                        144
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance check shall be completed and submitted for reimbursement to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                144,
+                                528,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        144,
+                                        528,
+                                        156
+                                    ],
+                                    "score": 0.96,
+                                    "content": "ABD by June 1, 2007.  Clerks that fail compliance checks shall be ticketed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                157,
+                                527,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        157,
+                                        527,
+                                        170
+                                    ],
+                                    "score": 0.99,
+                                    "content": "criminally. The Department shall, within seven (7) days, notify the retail",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                172,
+                                527,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        172,
+                                        527,
+                                        183
+                                    ],
+                                    "score": 0.98,
+                                    "content": "owner or manager of any violation. The second compliance check shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                184,
+                                527,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        184,
+                                        527,
+                                        196
+                                    ],
+                                    "score": 0.98,
+                                    "content": "conducted in a timely manner, but shail not occur until retailers have been",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                197,
+                                528,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        197,
+                                        528,
+                                        210
+                                    ],
+                                    "score": 0.98,
+                                    "content": "notified if they were found to be non-compliant during the first check and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                210,
+                                527,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        210,
+                                        527,
+                                        223
+                                    ],
+                                    "score": 0.97,
+                                    "content": "passage of a reasonable amount of time. Within seventy-rwo (72) hours of a",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                168,
+                                223,
+                                527,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        224,
+                                        443,
+                                        235
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Department issuing a citation for a violation of Iowa Code",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        223,
+                                        452,
+                                        235
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\S",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        224,
+                                        527,
+                                        235
+                                    ],
+                                    "score": 0.92,
+                                    "content": "453A.2(1) toa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                236,
+                                527,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        236,
+                                        527,
+                                        249
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit-hoider or employee of a permit-holder, the Department must notify",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                250,
+                                527,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        250,
+                                        527,
+                                        262
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the local permit-issuing authoriry that issued the cigarette permit to the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                264,
+                                359,
+                                274
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        264,
+                                        359,
+                                        274
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ferailer where the offense was committed.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        288,
+                        530,
+                        355
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                290,
+                                527,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        291,
+                                        158,
+                                        300
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.1.3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        290,
+                                        527,
+                                        303
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Retail Employee Training. The Departmenr shall participate in a tobacco",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                302,
+                                529,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        302,
+                                        529,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance employee-training program. The Deparment shall schedule one",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                317,
+                                527,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        317,
+                                        527,
+                                        329
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(1) I-Pledge Training Class per month from July 1, 2006 through June 30,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                329,
+                                527,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        329,
+                                        324,
+                                        342
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2007. ABD shall pay a flat fee of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        324,
+                                        329,
+                                        350,
+                                        340
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\mathbb{S}100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        350,
+                                        329,
+                                        527,
+                                        342
+                                    ],
+                                    "score": 0.98,
+                                    "content": "to the Department for each class they",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                343,
+                                205,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        343,
+                                        205,
+                                        354
+                                    ],
+                                    "score": 0.92,
+                                    "content": "instruict.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        368,
+                        530,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                369,
+                                527,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        369,
+                                        527,
+                                        382
+                                    ],
+                                    "score": 0.98,
+                                    "content": "S.1.4 Youth Volunteers. Utilization of youth volunteers is strongly encouraged",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                382,
+                                528,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        382,
+                                        528,
+                                        395
+                                    ],
+                                    "score": 0.99,
+                                    "content": "where feasible. The Department may compensate the youth involved in the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                396,
+                                527,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        396,
+                                        527,
+                                        407
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance checks in a manner consistent with Section 6. The Department",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                409,
+                                526,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        409,
+                                        526,
+                                        421
+                                    ],
+                                    "score": 0.99,
+                                    "content": "may seek youth volunteers through the local tobacco community partnership",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                424,
+                                209,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        424,
+                                        209,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "program.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        129,
+                        446,
+                        530,
+                        488
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                447,
+                                527,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        447,
+                                        527,
+                                        462
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.1.5 Routine Enforcement. In addition to conducting compliance checks, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                462,
+                                528,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        462,
+                                        528,
+                                        476
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Deparrment agrees to regularly enforce youth smoking laws by ticketing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                476,
+                                242,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        476,
+                                        242,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "youth offenders.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        129,
+                        499,
+                        530,
+                        541
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                501,
+                                528,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        501,
+                                        528,
+                                        515
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5.1.6 Cops-in-Shops.  The Department agrees to cooperate with the ABD in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                513,
+                                527,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        513,
+                                        527,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "conducting “cops-in-shops,\" or similar programs designed to derer youth",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                529,
+                                444,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        529,
+                                        444,
+                                        540
+                                    ],
+                                    "score": 0.99,
+                                    "content": "from attempting to purchase cigarettes or tobacco products.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        551,
+                        530,
+                        632
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                131,
+                                552,
+                                528,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        555,
+                                        157,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5.1.7",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        552,
+                                        528,
+                                        566
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Civil Proceedings. The Department shall cooperate with city, county and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                567,
+                                528,
+                                578
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        567,
+                                        528,
+                                        578
+                                    ],
+                                    "score": 0.98,
+                                    "content": "state prosecutors if civil permir proceedings are initiated against a tobacco",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                579,
+                                529,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        579,
+                                        529,
+                                        593
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit holder. The Department shall also cooperate in proceedings against",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                593,
+                                527,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        593,
+                                        527,
+                                        604
+                                    ],
+                                    "score": 0.97,
+                                    "content": "cited clerks and minors. Cooperation shall include, but not be limired to,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                607,
+                                528,
+                                618
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        607,
+                                        528,
+                                        618
+                                    ],
+                                    "score": 0.98,
+                                    "content": "sharing investigative reports and copies of issued citations, as well as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                620,
+                                373,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        620,
+                                        373,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "providing witness statements and testimony.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        130,
+                        645,
+                        530,
+                        686
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                132,
+                                646,
+                                527,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        647,
+                                        165,
+                                        656
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.1.8",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        646,
+                                        527,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Compliance Reports. The Department shall provide monthly reports to the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                167,
+                                658,
+                                528,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        658,
+                                        528,
+                                        672
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ABD in the manner prescribed by the ABD. In addition, if requested, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                168,
+                                672,
+                                527,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        672,
+                                        527,
+                                        684
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Department shall provide this data to the Iowa Department of Public Health",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        64,
+                        610.5599975585938,
+                        686
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        64,
+                        610.5599975585938,
+                        686
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        307,
+                        724,
+                        315,
+                        734
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                724,
+                                315,
+                                735
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        724,
+                                        315,
+                                        735
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        132,
+                        64,
+                        529,
+                        277
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                65,
+                                529,
+                                78
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        67,
+                                        155,
+                                        75
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.1.2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        65,
+                                        528,
+                                        78
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Compliance Checks. The Department shall perform one compliance check",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                79,
+                                529,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        79,
+                                        527,
+                                        91
+                                    ],
+                                    "score": 0.97,
+                                    "content": "of each tobacco permit holder, and a second compliance check on each",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                91,
+                                529,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        91,
+                                        528,
+                                        104
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit holder who was noncompliant the first time checked during the term",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                104,
+                                529,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        104,
+                                        528,
+                                        117
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of the Agreemenr. The first compliance check shall be completed and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                118,
+                                529,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        118,
+                                        527,
+                                        130
+                                    ],
+                                    "score": 0.97,
+                                    "content": "submitted for reimbursement to ABD by April 15, 2007. The second",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                131,
+                                529,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        131,
+                                        528,
+                                        144
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance check shall be completed and submitted for reimbursement to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                144,
+                                529,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        144,
+                                        528,
+                                        156
+                                    ],
+                                    "score": 0.96,
+                                    "content": "ABD by June 1, 2007.  Clerks that fail compliance checks shall be ticketed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                157,
+                                529,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        157,
+                                        527,
+                                        170
+                                    ],
+                                    "score": 0.99,
+                                    "content": "criminally. The Department shall, within seven (7) days, notify the retail",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                172,
+                                529,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        172,
+                                        527,
+                                        183
+                                    ],
+                                    "score": 0.98,
+                                    "content": "owner or manager of any violation. The second compliance check shall be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                184,
+                                529,
+                                196
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        184,
+                                        527,
+                                        196
+                                    ],
+                                    "score": 0.98,
+                                    "content": "conducted in a timely manner, but shail not occur until retailers have been",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                197,
+                                529,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        197,
+                                        528,
+                                        210
+                                    ],
+                                    "score": 0.98,
+                                    "content": "notified if they were found to be non-compliant during the first check and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                210,
+                                529,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        210,
+                                        527,
+                                        223
+                                    ],
+                                    "score": 0.97,
+                                    "content": "passage of a reasonable amount of time. Within seventy-rwo (72) hours of a",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                223,
+                                529,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        224,
+                                        443,
+                                        235
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Department issuing a citation for a violation of Iowa Code",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        223,
+                                        452,
+                                        235
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\S",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        224,
+                                        527,
+                                        235
+                                    ],
+                                    "score": 0.92,
+                                    "content": "453A.2(1) toa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                236,
+                                529,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        236,
+                                        527,
+                                        249
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit-hoider or employee of a permit-holder, the Department must notify",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                250,
+                                529,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        250,
+                                        527,
+                                        262
+                                    ],
+                                    "score": 0.98,
+                                    "content": "the local permit-issuing authoriry that issued the cigarette permit to the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                264,
+                                359,
+                                274
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        264,
+                                        359,
+                                        274
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ferailer where the offense was committed.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        65,
+                        529,
+                        274
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        288,
+                        530,
+                        355
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                290,
+                                529,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        291,
+                                        158,
+                                        300
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.1.3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        165,
+                                        290,
+                                        527,
+                                        303
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Retail Employee Training. The Departmenr shall participate in a tobacco",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                302,
+                                529,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        302,
+                                        529,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance employee-training program. The Deparment shall schedule one",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                317,
+                                529,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        317,
+                                        527,
+                                        329
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(1) I-Pledge Training Class per month from July 1, 2006 through June 30,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                329,
+                                529,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        329,
+                                        324,
+                                        342
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2007. ABD shall pay a flat fee of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        324,
+                                        329,
+                                        350,
+                                        340
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\mathbb{S}100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        350,
+                                        329,
+                                        527,
+                                        342
+                                    ],
+                                    "score": 0.98,
+                                    "content": "to the Department for each class they",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                343,
+                                205,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        343,
+                                        205,
+                                        354
+                                    ],
+                                    "score": 0.92,
+                                    "content": "instruict.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        290,
+                        529,
+                        354
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        368,
+                        530,
+                        436
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                369,
+                                529,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        369,
+                                        527,
+                                        382
+                                    ],
+                                    "score": 0.98,
+                                    "content": "S.1.4 Youth Volunteers. Utilization of youth volunteers is strongly encouraged",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                382,
+                                529,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        382,
+                                        528,
+                                        395
+                                    ],
+                                    "score": 0.99,
+                                    "content": "where feasible. The Department may compensate the youth involved in the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                396,
+                                529,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        396,
+                                        527,
+                                        407
+                                    ],
+                                    "score": 0.99,
+                                    "content": "compliance checks in a manner consistent with Section 6. The Department",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                409,
+                                529,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        409,
+                                        526,
+                                        421
+                                    ],
+                                    "score": 0.99,
+                                    "content": "may seek youth volunteers through the local tobacco community partnership",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                424,
+                                209,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        424,
+                                        209,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "program.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        369,
+                        529,
+                        435
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        129,
+                        446,
+                        530,
+                        488
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                447,
+                                529,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        447,
+                                        527,
+                                        462
+                                    ],
+                                    "score": 0.97,
+                                    "content": "5.1.5 Routine Enforcement. In addition to conducting compliance checks, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                462,
+                                529,
+                                476
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        462,
+                                        528,
+                                        476
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Deparrment agrees to regularly enforce youth smoking laws by ticketing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                476,
+                                242,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        476,
+                                        242,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "youth offenders.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        447,
+                        529,
+                        486
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        129,
+                        499,
+                        530,
+                        541
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                501,
+                                529,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        501,
+                                        528,
+                                        515
+                                    ],
+                                    "score": 0.96,
+                                    "content": "5.1.6 Cops-in-Shops.  The Department agrees to cooperate with the ABD in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                513,
+                                529,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        513,
+                                        527,
+                                        527
+                                    ],
+                                    "score": 0.98,
+                                    "content": "conducting “cops-in-shops,\" or similar programs designed to derer youth",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                529,
+                                444,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        529,
+                                        444,
+                                        540
+                                    ],
+                                    "score": 0.99,
+                                    "content": "from attempting to purchase cigarettes or tobacco products.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        501,
+                        529,
+                        540
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        128,
+                        551,
+                        530,
+                        632
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                552,
+                                529,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        131,
+                                        555,
+                                        157,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5.1.7",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        552,
+                                        528,
+                                        566
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Civil Proceedings. The Department shall cooperate with city, county and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                567,
+                                529,
+                                578
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        567,
+                                        528,
+                                        578
+                                    ],
+                                    "score": 0.98,
+                                    "content": "state prosecutors if civil permir proceedings are initiated against a tobacco",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                579,
+                                529,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        579,
+                                        529,
+                                        593
+                                    ],
+                                    "score": 0.99,
+                                    "content": "permit holder. The Department shall also cooperate in proceedings against",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                593,
+                                529,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        593,
+                                        527,
+                                        604
+                                    ],
+                                    "score": 0.97,
+                                    "content": "cited clerks and minors. Cooperation shall include, but not be limired to,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                607,
+                                529,
+                                618
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        607,
+                                        528,
+                                        618
+                                    ],
+                                    "score": 0.98,
+                                    "content": "sharing investigative reports and copies of issued citations, as well as",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                620,
+                                373,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        620,
+                                        373,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "providing witness statements and testimony.\n\n",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        552,
+                        529,
+                        632
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        130,
+                        645,
+                        530,
+                        686
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                646,
+                                529,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        132,
+                                        647,
+                                        165,
+                                        656
+                                    ],
+                                    "score": 0.99,
+                                    "content": "5.1.8",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        646,
+                                        527,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Compliance Reports. The Department shall provide monthly reports to the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                658,
+                                529,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        167,
+                                        658,
+                                        528,
+                                        672
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ABD in the manner prescribed by the ABD. In addition, if requested, the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                164,
+                                672,
+                                529,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        672,
+                                        527,
+                                        684
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Department shall provide this data to the Iowa Department of Public Health",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        130,
+                        646,
+                        529,
+                        684
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

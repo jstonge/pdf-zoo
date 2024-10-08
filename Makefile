@@ -1,11 +1,19 @@
+
+# For each single-page PDFs, we first convert to PNGs
+# Then we run OCR on the PNGs
+# If the OCR tools do layout analysis and reading-order, we do that as well
+# Then we format the data into ocr/results.json
+# If the data app doesn't find a layout/reading-order config, it grabs PNGs in assets/
+
 # We follow this structure 
 # src/assets/*.png 
-# src/data/${DOCUMENT_TYPE}/*.pdf
-# src/results/${OCR}/${DOCUMENT_TYPE}/${CONFIG}/*
+# src/data/(faculties|courses|policies|...)/*.pdf
+# src/results/(pymupdf|surya|mineru|...)/(faculties|courses|policies|...)/(ocr|reading-order|layout)/*
 
 DATA_DIR=./src/data
 COURSES_DIR=$(DATA_DIR)/courses
 FACULTY_DIR=$(DATA_DIR)/faculties
+POLICIES_DIR=$(DATA_DIR)/policies
 
 PYTHON_DIR=./python
 
@@ -27,13 +35,19 @@ convert-course-dir-pdf-to-png:
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
 
+convert-policies-dir-pdf-to-png:
+	for file in $(POLICIES_DIR)/*.pdf; do \
+		pdftoppm "$$file" "$${file%.pdf}" -png; \
+	done
+	mv $(POLICIES_DIR)/*.png src/assets/
+	cd src/assets && rename 's/-/_/' * && rename 's/_1//' *
+
 convert-faculties-dir-pdf-to-png:
 	for file in $(FACULTY_DIR)/*.pdf; do \
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
 	mv $(FACULTY_DIR)/*.png src/assets/
 	cd src/assets && rename 's/-1//' *
-
 
 
 #########################
@@ -56,21 +70,24 @@ mineru-ocr:
 	mkdir -p $(MINERU_RES)/courses/ocr
 	magic-pdf -p $(COURSES_DIR) -o $(MINERU_RES)/courses/ocr -m auto
 	mkdir -p $(MINERU_RES)/courses/reading-order
-	for dir in $(MINERU_RES)/courses/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/courses/reading-order; done;
+	for dir in $(MINERU_RES)/courses/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/courses/reading-order; done;
 
 mineru-ocr-faculties:
 	mkdir -p $(MINERU_RES)/faculties/ocr
 	magic-pdf -p $(FACULTY_DIR) -o $(MINERU_RES)/faculties/ocr -m auto
 	mkdir -p $(MINERU_RES)/faculties/reading-order
-	for dir in $(MINERU_RES)/faculties/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/faculties/reading-order; done;
+	for dir in $(MINERU_RES)/faculties/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/faculties/reading-order; done;
 
-#!TODO: this doesn;t work, need to fix
-# convert-mineru-reading-order:
-# 	for file in $(MINERU_RES)/faculties/reading-order/*.pdf; do \
-# 		pdftoppm "$$file" "$${file%.pdf}" -png; \
-# 	done
-# 	rm *pdf  
-# 	rename 's/_layout-1//' *
+mineru-ocr-policies:
+	mkdir -p $(MINERU_RES)/policies/ocr
+	magic-pdf -p $(POLICIES_DIR) -o $(MINERU_RES)/policies/ocr -m auto
+	mkdir -p $(MINERU_RES)/policies/reading-order
+	for dir in $(MINERU_RES)/policies/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/policies/reading-order; done;
+	for file in $(MINERU_RES)/policies/reading-order/*pdf; do \
+		pdftoppm "$$file" "$${file%.pdf}" -png; \
+	done
+	rm $(MINERU_RES)/policies/reading-order/*pdf
+	rename 's/_layout-1//' $(MINERU_RES)/policies/reading-order/*png
 
 	
 #########################

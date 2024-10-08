@@ -21,6 +21,9 @@ lib2text = {
 
 for lib_res in results_dirs.glob("*"):
     libname = lib_res.name
+
+    # if libname == 'surya':
+    #     break
  
     for document_type in lib_res.glob("*"):
         

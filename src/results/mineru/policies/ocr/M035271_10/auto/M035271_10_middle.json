@@ -1,0 +1,1374 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        253,
+                        126,
+                        346,
+                        140
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                126,
+                                345,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        126,
+                                        345,
+                                        140
+                                    ],
+                                    "score": 0.97,
+                                    "content": "August 30, 2006",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        71,
+                        159,
+                        245,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                161,
+                                242,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        161,
+                                        242,
+                                        172
+                                    ],
+                                    "score": 0.97,
+                                    "content": "NICOLE GEHL, OP MANAGER",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                177,
+                                243,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        177,
+                                        243,
+                                        187
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ALCOHOLIC BEVERAGES DIV",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                192,
+                                201,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        192,
+                                        201,
+                                        203
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1918 SE HULSIZER RD",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                207,
+                                179,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        207,
+                                        179,
+                                        219
+                                    ],
+                                    "score": 0.94,
+                                    "content": "ANKENY, 1A 50021",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        260,
+                        498,
+                        287
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                72,
+                                261,
+                                496,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        261,
+                                        496,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "RE: Filing of 28E Agreement between the ALCOHOLIC BEVERAGE DIVISlON",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                276,
+                                349,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        276,
+                                        349,
+                                        287
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and the PALO ALTO COUNTY SHERIFF'S OFFICE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        300,
+                        245,
+                        314
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                303,
+                                243,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        303,
+                                        243,
+                                        314
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Dear MS GEHL, OP MANAGER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        71,
+                        324,
+                        499,
+                        352
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                325,
+                                497,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        325,
+                                        497,
+                                        341
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We have received the above described agreement which you have submitted",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                339,
+                                491,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        339,
+                                        491,
+                                        354
+                                    ],
+                                    "score": 0.99,
+                                    "content": "to this office for filing, pursuant to the provisions of Chapter 28E, Code of lowa",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        372,
+                        390,
+                        386
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                372,
+                                388,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        372,
+                                        388,
+                                        386
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You may consider the same fled as of August 30, 2006.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        253,
+                        405,
+                        305,
+                        418
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                252,
+                                404,
+                                304,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        252,
+                                        404,
+                                        304,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sincerely,",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        259,
+                        437,
+                        408,
+                        466
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                259,
+                                437,
+                                408,
+                                466
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        437,
+                                        408,
+                                        466
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                259,
+                                                437,
+                                                408,
+                                                466
+                                            ],
+                                            "score": 0.860806405544281,
+                                            "type": "image",
+                                            "image_path": "57f2faf4f94059f061ce118bae01ee666ac9a33ff64dc199c7f994240890e657.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        251,
+                        480,
+                        350,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                482,
+                                341,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        482,
+                                        341,
+                                        494
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Chester J Culver",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                253,
+                                502,
+                                347,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        502,
+                                        347,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Secretary of State",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        663,
+                        134,
+                        692
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                664,
+                                117,
+                                677
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        664,
+                                        117,
+                                        677
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CJC/pm",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                679,
+                                132,
+                                690
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        679,
+                                        132,
+                                        690
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Enclosures",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        126,
+                        610.5599975585938,
+                        692
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        126,
+                        610.5599975585938,
+                        692
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        259,
+                        437,
+                        408,
+                        466
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                259,
+                                437,
+                                408,
+                                466
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        437,
+                                        408,
+                                        466
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                259,
+                                                437,
+                                                408,
+                                                466
+                                            ],
+                                            "score": 0.860806405544281,
+                                            "type": "image",
+                                            "image_path": "57f2faf4f94059f061ce118bae01ee666ac9a33ff64dc199c7f994240890e657.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        425,
+                        33,
+                        554,
+                        57
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                426,
+                                34,
+                                551,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        426,
+                                        34,
+                                        551,
+                                        44
+                                    ],
+                                    "score": 0.93,
+                                    "content": "LUCAS BUILDING, FIRST FLOOR",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                435,
+                                46,
+                                541,
+                                55
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        435,
+                                        46,
+                                        541,
+                                        55
+                                    ],
+                                    "score": 0.93,
+                                    "content": "DES M0INES, IoWA 50319",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        336,
+                        741,
+                        529,
+                        752
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                337,
+                                742,
+                                527,
+                                751
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        337,
+                                        742,
+                                        426,
+                                        749
+                                    ],
+                                    "score": 0.96,
+                                    "content": "www.sos.state.ia.us",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        440,
+                                        742,
+                                        527,
+                                        751
+                                    ],
+                                    "score": 0.98,
+                                    "content": "sos@sos.state.ia.us",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        64,
+                        31,
+                        179,
+                        59
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                66,
+                                32,
+                                177,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        32,
+                                        177,
+                                        44
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CHESTER J. CULVER",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                47,
+                                175,
+                                58
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        47,
+                                        175,
+                                        58
+                                    ],
+                                    "score": 0.97,
+                                    "content": "IOWA SECRETARY OF STATE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        76,
+                        738,
+                        269,
+                        750
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                739,
+                                267,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        739,
+                                        166,
+                                        748
+                                    ],
+                                    "score": 0.97,
+                                    "content": "TEL (515) 281-5204",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        166,
+                                        740,
+                                        267,
+                                        749
+                                    ],
+                                    "score": 0.99,
+                                    "content": "FAX (515) 242-5953",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        264,
+                        24,
+                        337,
+                        94
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                277,
+                                41,
+                                281,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        277,
+                                        41,
+                                        281,
+                                        47
+                                    ],
+                                    "score": 0.83,
+                                    "content": "宁",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                269,
+                                63,
+                                276,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        269,
+                                        63,
+                                        276,
+                                        77
+                                    ],
+                                    "score": 0.54,
+                                    "content": "E9",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                288,
+                                81,
+                                302,
+                                88
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        288,
+                                        81,
+                                        302,
+                                        88
+                                    ],
+                                    "score": 0.66,
+                                    "content": "ARY",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        253,
+                        126,
+                        346,
+                        140
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                253,
+                                126,
+                                345,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        126,
+                                        345,
+                                        140
+                                    ],
+                                    "score": 0.97,
+                                    "content": "August 30, 2006",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        253,
+                        126,
+                        346,
+                        140
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        71,
+                        159,
+                        245,
+                        221
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                161,
+                                243,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        161,
+                                        242,
+                                        172
+                                    ],
+                                    "score": 0.97,
+                                    "content": "NICOLE GEHL, OP MANAGER",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                177,
+                                243,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        177,
+                                        243,
+                                        187
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ALCOHOLIC BEVERAGES DIV",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                192,
+                                201,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        192,
+                                        201,
+                                        203
+                                    ],
+                                    "score": 0.98,
+                                    "content": "1918 SE HULSIZER RD",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                207,
+                                179,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        207,
+                                        179,
+                                        219
+                                    ],
+                                    "score": 0.94,
+                                    "content": "ANKENY, 1A 50021",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        161,
+                        243,
+                        219
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        260,
+                        498,
+                        287
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                261,
+                                497,
+                                276
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        261,
+                                        496,
+                                        276
+                                    ],
+                                    "score": 0.98,
+                                    "content": "RE: Filing of 28E Agreement between the ALCOHOLIC BEVERAGE DIVISlON",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                276,
+                                349,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        276,
+                                        349,
+                                        287
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and the PALO ALTO COUNTY SHERIFF'S OFFICE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        261,
+                        497,
+                        287
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        300,
+                        245,
+                        314
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                303,
+                                243,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        303,
+                                        243,
+                                        314
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Dear MS GEHL, OP MANAGER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        303,
+                        243,
+                        314
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        71,
+                        324,
+                        499,
+                        352
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                325,
+                                497,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        325,
+                                        497,
+                                        341
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We have received the above described agreement which you have submitted",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                339,
+                                491,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        339,
+                                        491,
+                                        354
+                                    ],
+                                    "score": 0.99,
+                                    "content": "to this office for filing, pursuant to the provisions of Chapter 28E, Code of lowa",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        325,
+                        497,
+                        354
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        88,
+                        372,
+                        390,
+                        386
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                372,
+                                388,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        372,
+                                        388,
+                                        386
+                                    ],
+                                    "score": 0.97,
+                                    "content": "You may consider the same fled as of August 30, 2006.",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                252,
+                                404,
+                                304,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        252,
+                                        404,
+                                        304,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sincerely,",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        85,
+                        372,
+                        388,
+                        386
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        253,
+                        405,
+                        305,
+                        418
+                    ],
+                    "lines": [],
+                    "bbox_fs": [
+                        252,
+                        404,
+                        304,
+                        418
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        259,
+                        437,
+                        408,
+                        466
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                259,
+                                437,
+                                408,
+                                466
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        437,
+                                        408,
+                                        466
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                259,
+                                                437,
+                                                408,
+                                                466
+                                            ],
+                                            "score": 0.860806405544281,
+                                            "type": "image",
+                                            "image_path": "57f2faf4f94059f061ce118bae01ee666ac9a33ff64dc199c7f994240890e657.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        259,
+                        437,
+                        408,
+                        466
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        251,
+                        480,
+                        350,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                252,
+                                482,
+                                341,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        482,
+                                        341,
+                                        494
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Chester J Culver",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                252,
+                                502,
+                                349,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        253,
+                                        502,
+                                        347,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Secretary of State",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        252,
+                        482,
+                        349,
+                        515
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        663,
+                        134,
+                        692
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                664,
+                                117,
+                                677
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        664,
+                                        117,
+                                        677
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CJC/pm",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                679,
+                                132,
+                                690
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        679,
+                                        132,
+                                        690
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Enclosures",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        71,
+                        664,
+                        132,
+                        690
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

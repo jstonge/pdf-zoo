@@ -1,0 +1,1399 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        100,
+                        194,
+                        139
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                101,
+                                155,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        101,
+                                        155,
+                                        112
+                                    ],
+                                    "score": 0.98,
+                                    "content": "STATE OF IOWA",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                179,
+                                117,
+                                193,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        117,
+                                        193,
+                                        125
+                                    ],
+                                    "score": 0.86,
+                                    "content": "SS:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                125,
+                                176,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        125,
+                                        176,
+                                        137
+                                    ],
+                                    "score": 0.93,
+                                    "content": "COUNTY OF POLK }",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        104,
+                        516,
+                        131
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                106,
+                                514,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        106,
+                                        514,
+                                        118
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ACKNOWLEDGEMENT FORM FOR",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                118,
+                                486,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        118,
+                                        486,
+                                        130
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CORPORATE EMPLOYER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        157,
+                        575,
+                        247
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                47,
+                                157,
+                                575,
+                                247
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        157,
+                                        575,
+                                        247
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                157,
+                                                575,
+                                                247
+                                            ],
+                                            "score": 0.7092123031616211,
+                                            "type": "image",
+                                            "image_path": "030b3693ee9500688c2957d6c586a4e01d0698ed506cc44f242ea826364ab7fc.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        156,
+                        270,
+                        270,
+                        300
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                156,
+                                270,
+                                270,
+                                300
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        270,
+                                        270,
+                                        300
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                270,
+                                                270,
+                                                300
+                                            ],
+                                            "score": 0.992223858833313,
+                                            "type": "image",
+                                            "image_path": "4192da8ddcf6b77ea2b2d2a122f0bbbc4a7c73b76ea8a10879244b563aaa7675.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        57,
+                        310,
+                        192,
+                        352
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                313,
+                                152,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        313,
+                                        152,
+                                        324
+                                    ],
+                                    "score": 0.95,
+                                    "content": "STATE OF IOWA",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                170,
+                                329,
+                                191,
+                                337
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        170,
+                                        329,
+                                        191,
+                                        337
+                                    ],
+                                    "score": 0.8,
+                                    "content": "} ss:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                336,
+                                175,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        336,
+                                        175,
+                                        348
+                                    ],
+                                    "score": 0.97,
+                                    "content": "COUNTY OF POLK )",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        318,
+                        263,
+                        536,
+                        297
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                318,
+                                263,
+                                536,
+                                297
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        263,
+                                        536,
+                                        297
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                318,
+                                                263,
+                                                536,
+                                                297
+                                            ],
+                                            "score": 0.9997701644897461,
+                                            "type": "image",
+                                            "image_path": "34e4ec7b0d65ab392cfd5cf0eb431747e1a9e17ebf967ce9ac7e0e034527d76a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        319,
+                        317,
+                        514,
+                        342
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                319,
+                                318,
+                                511,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        319,
+                                        318,
+                                        511,
+                                        330
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ACKNOWLEDGEMENT FORM FOR",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                355,
+                                330,
+                                477,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        355,
+                                        330,
+                                        477,
+                                        342
+                                    ],
+                                    "score": 0.97,
+                                    "content": "CITY OF DES MOINES",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        56,
+                        377,
+                        574,
+                        473
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                377,
+                                574,
+                                473
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        377,
+                                        574,
+                                        473
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                377,
+                                                574,
+                                                473
+                                            ],
+                                            "score": 0.9624871611595154,
+                                            "type": "image",
+                                            "image_path": "29a714bfab12fafb7c8e8b64eac748b499b8d5861f5bff088533b10cbe83ed8a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        308,
+                        484,
+                        575,
+                        520
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                308,
+                                484,
+                                575,
+                                520
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        484,
+                                        575,
+                                        520
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                308,
+                                                484,
+                                                575,
+                                                520
+                                            ],
+                                            "score": 0.9929474592208862,
+                                            "type": "image",
+                                            "image_path": "ef7cc948ad01231db8bf71e641d52a09edc8cd1399b34cd02171de4029053aab.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        59,
+                        100,
+                        194,
+                        139
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        320,
+                        100,
+                        516,
+                        139
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        157,
+                        610.5599975585938,
+                        247
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        57,
+                        263,
+                        270,
+                        352
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        318,
+                        263,
+                        536,
+                        352
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        377,
+                        610.5599975585938,
+                        520
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                1008.0
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        100,
+                        610.5599975585938,
+                        139
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": [
+                        {
+                            "layout_bbox": [
+                                59,
+                                100,
+                                194,
+                                139
+                            ],
+                            "layout_label": "V",
+                            "sub_layout": []
+                        },
+                        {
+                            "layout_bbox": [
+                                320,
+                                100,
+                                516,
+                                139
+                            ],
+                            "layout_label": "V",
+                            "sub_layout": []
+                        }
+                    ]
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        157,
+                        610.5599975585938,
+                        247
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        263,
+                        610.5599975585938,
+                        352
+                    ],
+                    "layout_label": "V",
+                    "sub_layout": [
+                        {
+                            "layout_bbox": [
+                                57,
+                                263,
+                                536,
+                                352
+                            ],
+                            "layout_label": "H",
+                            "sub_layout": [
+                                {
+                                    "layout_bbox": [
+                                        57,
+                                        263,
+                                        270,
+                                        352
+                                    ],
+                                    "layout_label": "V",
+                                    "sub_layout": []
+                                },
+                                {
+                                    "layout_bbox": [
+                                        318,
+                                        263,
+                                        536,
+                                        352
+                                    ],
+                                    "layout_label": "V",
+                                    "sub_layout": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "layout_bbox": [
+                        0,
+                        377,
+                        610.5599975585938,
+                        520
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        157,
+                        575,
+                        247
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                47,
+                                157,
+                                575,
+                                247
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        157,
+                                        575,
+                                        247
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                157,
+                                                575,
+                                                247
+                                            ],
+                                            "score": 0.7092123031616211,
+                                            "type": "image",
+                                            "image_path": "030b3693ee9500688c2957d6c586a4e01d0698ed506cc44f242ea826364ab7fc.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        156,
+                        270,
+                        270,
+                        300
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                156,
+                                270,
+                                270,
+                                300
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        270,
+                                        270,
+                                        300
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                270,
+                                                270,
+                                                300
+                                            ],
+                                            "score": 0.992223858833313,
+                                            "type": "image",
+                                            "image_path": "4192da8ddcf6b77ea2b2d2a122f0bbbc4a7c73b76ea8a10879244b563aaa7675.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        318,
+                        263,
+                        536,
+                        297
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                318,
+                                263,
+                                536,
+                                297
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        263,
+                                        536,
+                                        297
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                318,
+                                                263,
+                                                536,
+                                                297
+                                            ],
+                                            "score": 0.9997701644897461,
+                                            "type": "image",
+                                            "image_path": "34e4ec7b0d65ab392cfd5cf0eb431747e1a9e17ebf967ce9ac7e0e034527d76a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        56,
+                        377,
+                        574,
+                        473
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                377,
+                                574,
+                                473
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        377,
+                                        574,
+                                        473
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                377,
+                                                574,
+                                                473
+                                            ],
+                                            "score": 0.9624871611595154,
+                                            "type": "image",
+                                            "image_path": "29a714bfab12fafb7c8e8b64eac748b499b8d5861f5bff088533b10cbe83ed8a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        308,
+                        484,
+                        575,
+                        520
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                308,
+                                484,
+                                575,
+                                520
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        484,
+                                        575,
+                                        520
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                308,
+                                                484,
+                                                575,
+                                                520
+                                            ],
+                                            "score": 0.9929474592208862,
+                                            "type": "image",
+                                            "image_path": "ef7cc948ad01231db8bf71e641d52a09edc8cd1399b34cd02171de4029053aab.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        323,
+                        52,
+                        338,
+                        63
+                    ],
+                    "lines": []
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        59,
+                        100,
+                        194,
+                        139
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                101,
+                                155,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        101,
+                                        155,
+                                        112
+                                    ],
+                                    "score": 0.98,
+                                    "content": "STATE OF IOWA",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                179,
+                                117,
+                                193,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        179,
+                                        117,
+                                        193,
+                                        125
+                                    ],
+                                    "score": 0.86,
+                                    "content": "SS:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                125,
+                                176,
+                                137
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        125,
+                                        176,
+                                        137
+                                    ],
+                                    "score": 0.93,
+                                    "content": "COUNTY OF POLK }",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        101,
+                        193,
+                        137
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        104,
+                        516,
+                        131
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                106,
+                                514,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        106,
+                                        514,
+                                        118
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ACKNOWLEDGEMENT FORM FOR",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                345,
+                                118,
+                                486,
+                                130
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        345,
+                                        118,
+                                        486,
+                                        130
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CORPORATE EMPLOYER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        321,
+                        106,
+                        514,
+                        130
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        47,
+                        157,
+                        575,
+                        247
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                47,
+                                157,
+                                575,
+                                247
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        157,
+                                        575,
+                                        247
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                47,
+                                                157,
+                                                575,
+                                                247
+                                            ],
+                                            "score": 0.7092123031616211,
+                                            "type": "image",
+                                            "image_path": "030b3693ee9500688c2957d6c586a4e01d0698ed506cc44f242ea826364ab7fc.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        47,
+                        157,
+                        575,
+                        247
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        156,
+                        270,
+                        270,
+                        300
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                156,
+                                270,
+                                270,
+                                300
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        270,
+                                        270,
+                                        300
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                156,
+                                                270,
+                                                270,
+                                                300
+                                            ],
+                                            "score": 0.992223858833313,
+                                            "type": "image",
+                                            "image_path": "4192da8ddcf6b77ea2b2d2a122f0bbbc4a7c73b76ea8a10879244b563aaa7675.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        156,
+                        270,
+                        270,
+                        300
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        57,
+                        310,
+                        192,
+                        352
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                313,
+                                152,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        313,
+                                        152,
+                                        324
+                                    ],
+                                    "score": 0.95,
+                                    "content": "STATE OF IOWA",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                170,
+                                329,
+                                191,
+                                337
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        170,
+                                        329,
+                                        191,
+                                        337
+                                    ],
+                                    "score": 0.8,
+                                    "content": "} ss:",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                336,
+                                175,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        336,
+                                        175,
+                                        348
+                                    ],
+                                    "score": 0.97,
+                                    "content": "COUNTY OF POLK )",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        60,
+                        313,
+                        191,
+                        348
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        318,
+                        263,
+                        536,
+                        297
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                318,
+                                263,
+                                536,
+                                297
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        263,
+                                        536,
+                                        297
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                318,
+                                                263,
+                                                536,
+                                                297
+                                            ],
+                                            "score": 0.9997701644897461,
+                                            "type": "image",
+                                            "image_path": "34e4ec7b0d65ab392cfd5cf0eb431747e1a9e17ebf967ce9ac7e0e034527d76a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        318,
+                        263,
+                        536,
+                        297
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        319,
+                        317,
+                        514,
+                        342
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                319,
+                                318,
+                                511,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        319,
+                                        318,
+                                        511,
+                                        330
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ACKNOWLEDGEMENT FORM FOR",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                355,
+                                330,
+                                477,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        355,
+                                        330,
+                                        477,
+                                        342
+                                    ],
+                                    "score": 0.97,
+                                    "content": "CITY OF DES MOINES",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        319,
+                        318,
+                        511,
+                        342
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        56,
+                        377,
+                        574,
+                        473
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                56,
+                                377,
+                                574,
+                                473
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        56,
+                                        377,
+                                        574,
+                                        473
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                56,
+                                                377,
+                                                574,
+                                                473
+                                            ],
+                                            "score": 0.9624871611595154,
+                                            "type": "image",
+                                            "image_path": "29a714bfab12fafb7c8e8b64eac748b499b8d5861f5bff088533b10cbe83ed8a.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        56,
+                        377,
+                        574,
+                        473
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        308,
+                        484,
+                        575,
+                        520
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                308,
+                                484,
+                                575,
+                                520
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        308,
+                                        484,
+                                        575,
+                                        520
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                308,
+                                                484,
+                                                575,
+                                                520
+                                            ],
+                                            "score": 0.9929474592208862,
+                                            "type": "image",
+                                            "image_path": "ef7cc948ad01231db8bf71e641d52a09edc8cd1399b34cd02171de4029053aab.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        308,
+                        484,
+                        575,
+                        520
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

@@ -1,0 +1,1774 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        124,
+                        56,
+                        368,
+                        84
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                60,
+                                235,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        60,
+                                        235,
+                                        72
+                                    ],
+                                    "score": 0.83,
+                                    "content": "Fra1 3 30 P1 'B6",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                233,
+                                72,
+                                366,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        233,
+                                        72,
+                                        366,
+                                        82
+                                    ],
+                                    "score": 0.97,
+                                    "content": "RESOLUTION No. 2006-1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        108,
+                        539,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                112,
+                                534,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        112,
+                                        534,
+                                        124
+                                    ],
+                                    "score": 0.95,
+                                    "content": "RESOLUTION OF THE BOARD OF DIRECTORS OF SOUTH JOWA MUNICIPAL",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                125,
+                                534,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        125,
+                                        534,
+                                        138
+                                    ],
+                                    "score": 0.95,
+                                    "content": "ELECTRIC ASSOCIATION (SIMECA)AGREEING TO AND ADOPTING THE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                140,
+                                533,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        140,
+                                        533,
+                                        151
+                                    ],
+                                    "score": 0.96,
+                                    "content": "PROVISIONS AND AGREEING TO BECOME A PARTY TO THE AGREEMENT",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                154,
+                                534,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        154,
+                                        534,
+                                        164
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY UNDER IOWA CODE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                166,
+                                534,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        166,
+                                        534,
+                                        178
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CHAPTER 28E AS PREVIOUSLY ADOPTED BY THE ALGONA MUNICIPAL UTILITIES",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                180,
+                                269,
+                                191
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        180,
+                                        269,
+                                        191
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ANDWAVERLY LIGHT ANDPOWER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        217,
+                        532,
+                        286
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                220,
+                                528,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        220,
+                                        528,
+                                        232
+                                    ],
+                                    "score": 0.99,
+                                    "content": "WHEREAS SIMECA by action of its Board of Directors has determined it is in the best interest",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                232,
+                                510,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        232,
+                                        510,
+                                        247
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of SIMECA to enter into and become a party to the Agreement Establishing the Iowa Stored",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                246,
+                                529,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        246,
+                                        529,
+                                        260
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Energy Plant Agency under Iowa Code chapter 28E between the Algona Municipal Utilities and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                260,
+                                514,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        260,
+                                        514,
+                                        273
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Waverly Power and Light filed with the Secretary of State of the State of lowa on August 19,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                273,
+                                116,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        273,
+                                        116,
+                                        287
+                                    ],
+                                    "score": 0.93,
+                                    "content": "2005,and;",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        298,
+                        531,
+                        353
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                300,
+                                499,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        300,
+                                        499,
+                                        316
+                                    ],
+                                    "score": 0.98,
+                                    "content": "WHEREAS SIMECA is making application to join the Agency created by the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                313,
+                                517,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        313,
+                                        517,
+                                        329
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Establishing the Iowa Stored Energy Plant Agency under Iowa Code chapter 28E between the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                328,
+                                528,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        328,
+                                        528,
+                                        341
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Algona Municipal Utilities and Waverly Power and Light filed with the Secretary of State of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                342,
+                                229,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        342,
+                                        229,
+                                        354
+                                    ],
+                                    "score": 0.98,
+                                    "content": "State of Iowa on August 19, 2005;",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        365,
+                        458,
+                        380
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                368,
+                                455,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        368,
+                                        455,
+                                        379
+                                    ],
+                                    "score": 0.98,
+                                    "content": "NOW THEREFORE BE IT RESOLVED BY the Board of Directors of SIMECA",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        64,
+                        393,
+                        90,
+                        406
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                393,
+                                90,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        393,
+                                        90,
+                                        406
+                                    ],
+                                    "score": 1.0,
+                                    "content": "That:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        419,
+                        533,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                421,
+                                529,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        421,
+                                        529,
+                                        435
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SECTION ONE: The Agreement Establishing the lowa Stored Energy Plant Agency under Iowa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                435,
+                                518,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        435,
+                                        518,
+                                        448
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Code chapter 28E between the Algona Municipal Utilities and Waverly Power and Light filed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                448,
+                                525,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        448,
+                                        525,
+                                        462
+                                    ],
+                                    "score": 0.98,
+                                    "content": "with the Secretary of State of the State of lowa on August 19, 2005, a copy of which is attached",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                462,
+                                521,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        462,
+                                        521,
+                                        475
+                                    ],
+                                    "score": 0.98,
+                                    "content": "hereto as \"Exhibit A\" is hereby agreed to in accord with Article Fifteen of said Agreement and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                475,
+                                520,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        475,
+                                        520,
+                                        489
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SIMECA hereby agrees and upon acceptance in accord with said Agreement and Bylaws to be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                489,
+                                526,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        489,
+                                        526,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bound by said Agreement and Bylaws made pursuant to the Agreement to the same extent as an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                502,
+                                131,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        502,
+                                        131,
+                                        516
+                                    ],
+                                    "score": 0.96,
+                                    "content": "originalparty.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        526,
+                        529,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                529,
+                                524,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        529,
+                                        524,
+                                        543
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SECTION TWO: The President of SIMECA is authorized and directed to execute all necessary",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                542,
+                                527,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        542,
+                                        527,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents, and to submit the same, agreeing to be bound by said Agreement and Bylaws and to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                556,
+                                516,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        556,
+                                        516,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "take all steps necessary and appropriate for SIMECA to become a member of the lowa Stored",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                568,
+                                190,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        568,
+                                        190,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Energy Plant and Agency.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        60,
+                        625,
+                        478,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                60,
+                                625,
+                                478,
+                                700
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        625,
+                                        478,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                625,
+                                                478,
+                                                700
+                                            ],
+                                            "score": 0.9998353719711304,
+                                            "type": "image",
+                                            "image_path": "7739e813aa1511ea95cf86ccef5bf53f62edb445e267597a16a6cf50d247b770.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        56,
+                        610.5599975585938,
+                        700
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        56,
+                        610.5599975585938,
+                        700
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        60,
+                        625,
+                        478,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                60,
+                                625,
+                                478,
+                                700
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        625,
+                                        478,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                625,
+                                                478,
+                                                700
+                                            ],
+                                            "score": 0.9998353719711304,
+                                            "type": "image",
+                                            "image_path": "7739e813aa1511ea95cf86ccef5bf53f62edb445e267597a16a6cf50d247b770.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        397,
+                        699,
+                        522,
+                        748
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                438,
+                                699,
+                                480,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        438,
+                                        699,
+                                        480,
+                                        708
+                                    ],
+                                    "score": 1.0,
+                                    "content": "M033299",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        124,
+                        11,
+                        235,
+                        48
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                157,
+                                12,
+                                203,
+                                25
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        157,
+                                        12,
+                                        203,
+                                        25
+                                    ],
+                                    "score": 0.84,
+                                    "content": "F1LED",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                126,
+                                28,
+                                233,
+                                36
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        126,
+                                        28,
+                                        233,
+                                        36
+                                    ],
+                                    "score": 0.88,
+                                    "content": "SECRETARY CF STAiE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                166,
+                                37,
+                                194,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        166,
+                                        37,
+                                        194,
+                                        47
+                                    ],
+                                    "score": 0.69,
+                                    "content": "10WA",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        124,
+                        56,
+                        368,
+                        84
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                125,
+                                60,
+                                235,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        125,
+                                        60,
+                                        235,
+                                        72
+                                    ],
+                                    "score": 0.83,
+                                    "content": "Fra1 3 30 P1 'B6",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                233,
+                                72,
+                                366,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        233,
+                                        72,
+                                        366,
+                                        82
+                                    ],
+                                    "score": 0.97,
+                                    "content": "RESOLUTION No. 2006-1",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        124,
+                        56,
+                        368,
+                        84
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        108,
+                        539,
+                        192
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                112,
+                                534,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        112,
+                                        534,
+                                        124
+                                    ],
+                                    "score": 0.95,
+                                    "content": "RESOLUTION OF THE BOARD OF DIRECTORS OF SOUTH JOWA MUNICIPAL",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                125,
+                                534,
+                                138
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        125,
+                                        534,
+                                        138
+                                    ],
+                                    "score": 0.95,
+                                    "content": "ELECTRIC ASSOCIATION (SIMECA)AGREEING TO AND ADOPTING THE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                140,
+                                534,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        140,
+                                        533,
+                                        151
+                                    ],
+                                    "score": 0.96,
+                                    "content": "PROVISIONS AND AGREEING TO BECOME A PARTY TO THE AGREEMENT",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                154,
+                                534,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        154,
+                                        534,
+                                        164
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ESTABLISHING THE IOWA STORED ENERGY PLANT AGENCY UNDER IOWA CODE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                166,
+                                534,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        166,
+                                        534,
+                                        178
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CHAPTER 28E AS PREVIOUSLY ADOPTED BY THE ALGONA MUNICIPAL UTILITIES",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                180,
+                                269,
+                                191
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        180,
+                                        269,
+                                        191
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ANDWAVERLY LIGHT ANDPOWER",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        112,
+                        534,
+                        191
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        217,
+                        532,
+                        286
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                220,
+                                529,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        220,
+                                        528,
+                                        232
+                                    ],
+                                    "score": 0.99,
+                                    "content": "WHEREAS SIMECA by action of its Board of Directors has determined it is in the best interest",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                232,
+                                510,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        232,
+                                        510,
+                                        247
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of SIMECA to enter into and become a party to the Agreement Establishing the Iowa Stored",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                246,
+                                529,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        246,
+                                        529,
+                                        260
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Energy Plant Agency under Iowa Code chapter 28E between the Algona Municipal Utilities and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                260,
+                                529,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        260,
+                                        514,
+                                        273
+                                    ],
+                                    "score": 0.97,
+                                    "content": "Waverly Power and Light filed with the Secretary of State of the State of lowa on August 19,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                273,
+                                116,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        273,
+                                        116,
+                                        287
+                                    ],
+                                    "score": 0.93,
+                                    "content": "2005,and;",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        220,
+                        529,
+                        287
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        298,
+                        531,
+                        353
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                300,
+                                499,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        300,
+                                        499,
+                                        316
+                                    ],
+                                    "score": 0.98,
+                                    "content": "WHEREAS SIMECA is making application to join the Agency created by the Agreement",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                313,
+                                529,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        313,
+                                        517,
+                                        329
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Establishing the Iowa Stored Energy Plant Agency under Iowa Code chapter 28E between the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                328,
+                                529,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        328,
+                                        528,
+                                        341
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Algona Municipal Utilities and Waverly Power and Light filed with the Secretary of State of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                342,
+                                229,
+                                354
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        342,
+                                        229,
+                                        354
+                                    ],
+                                    "score": 0.98,
+                                    "content": "State of Iowa on August 19, 2005;",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        300,
+                        529,
+                        354
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        63,
+                        365,
+                        458,
+                        380
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                368,
+                                455,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        368,
+                                        455,
+                                        379
+                                    ],
+                                    "score": 0.98,
+                                    "content": "NOW THEREFORE BE IT RESOLVED BY the Board of Directors of SIMECA",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        368,
+                        455,
+                        379
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        64,
+                        393,
+                        90,
+                        406
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                393,
+                                90,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        393,
+                                        90,
+                                        406
+                                    ],
+                                    "score": 1.0,
+                                    "content": "That:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        393,
+                        90,
+                        406
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        419,
+                        533,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                421,
+                                529,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        421,
+                                        529,
+                                        435
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SECTION ONE: The Agreement Establishing the lowa Stored Energy Plant Agency under Iowa",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                435,
+                                529,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        435,
+                                        518,
+                                        448
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Code chapter 28E between the Algona Municipal Utilities and Waverly Power and Light filed",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                448,
+                                529,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        448,
+                                        525,
+                                        462
+                                    ],
+                                    "score": 0.98,
+                                    "content": "with the Secretary of State of the State of lowa on August 19, 2005, a copy of which is attached",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                462,
+                                529,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        462,
+                                        521,
+                                        475
+                                    ],
+                                    "score": 0.98,
+                                    "content": "hereto as \"Exhibit A\" is hereby agreed to in accord with Article Fifteen of said Agreement and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                475,
+                                529,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        475,
+                                        520,
+                                        489
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SIMECA hereby agrees and upon acceptance in accord with said Agreement and Bylaws to be",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                489,
+                                529,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        489,
+                                        526,
+                                        504
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bound by said Agreement and Bylaws made pursuant to the Agreement to the same extent as an",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                502,
+                                131,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        502,
+                                        131,
+                                        516
+                                    ],
+                                    "score": 0.96,
+                                    "content": "originalparty.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        421,
+                        529,
+                        516
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        62,
+                        526,
+                        529,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                529,
+                                529,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        529,
+                                        524,
+                                        543
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SECTION TWO: The President of SIMECA is authorized and directed to execute all necessary",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                542,
+                                529,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        542,
+                                        527,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "documents, and to submit the same, agreeing to be bound by said Agreement and Bylaws and to",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                556,
+                                529,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        556,
+                                        516,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "take all steps necessary and appropriate for SIMECA to become a member of the lowa Stored",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                568,
+                                190,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        568,
+                                        190,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Energy Plant and Agency.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        62,
+                        529,
+                        529,
+                        584
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        60,
+                        625,
+                        478,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                60,
+                                625,
+                                478,
+                                700
+                            ],
+                            "type": "image_body",
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        625,
+                                        478,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                60,
+                                                625,
+                                                478,
+                                                700
+                                            ],
+                                            "score": 0.9998353719711304,
+                                            "type": "image",
+                                            "image_path": "7739e813aa1511ea95cf86ccef5bf53f62edb445e267597a16a6cf50d247b770.jpg"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        60,
+                        625,
+                        478,
+                        700
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

@@ -1,0 +1,1299 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        246,
+                        149,
+                        351,
+                        165
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                247,
+                                150,
+                                349,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        150,
+                                        349,
+                                        164
+                                    ],
+                                    "score": 0.96,
+                                    "content": "April 27, 1995",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        195,
+                        260,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                196,
+                                231,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        196,
+                                        231,
+                                        208
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Donna V. Boetel-Baker",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                80,
+                                208,
+                                210,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        208,
+                                        210,
+                                        220
+                                    ],
+                                    "score": 0.96,
+                                    "content": "City of Des Moines",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                219,
+                                230,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        219,
+                                        230,
+                                        231
+                                    ],
+                                    "score": 0.98,
+                                    "content": "400 East First Street",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                78,
+                                231,
+                                260,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        231,
+                                        260,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Des Moines, IA 50309-1891",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        277,
+                        464,
+                        315
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                277,
+                                150,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        277,
+                                        150,
+                                        290
+                                    ],
+                                    "score": 0.95,
+                                    "content": "RE: Filing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                289,
+                                462,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        289,
+                                        462,
+                                        308
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of 28E Agreement between the First Source Employment",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                302,
+                                326,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        302,
+                                        326,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and the Fibrelite Corporation",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        336,
+                        237,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                338,
+                                235,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        338,
+                                        235,
+                                        350
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dear Ms. Boetel-Baker:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        360,
+                        494,
+                        399
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                362,
+                                491,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        362,
+                                        491,
+                                        379
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We have received the above described agreement which",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                371,
+                                491,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        371,
+                                        491,
+                                        392
+                                    ],
+                                    "score": 0.96,
+                                    "content": "you have submitted to this office for filing, pursuantico",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                383,
+                                396,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        383,
+                                        396,
+                                        402
+                                    ],
+                                    "score": 0.97,
+                                    "content": "the provisions of Chapter 28E, Code of Iowa.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        114,
+                        409,
+                        497,
+                        425
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                114,
+                                407,
+                                495,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        407,
+                                        495,
+                                        427
+                                    ],
+                                    "score": 0.99,
+                                    "content": "You may consider the same filed as of April 27, 1995.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        293,
+                        481,
+                        363,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                480,
+                                357,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        480,
+                                        357,
+                                        495
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Sincerly,",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        291,
+                        529,
+                        425,
+                        555
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                293,
+                                529,
+                                380,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        529,
+                                        380,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Paul D. Pate",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                292,
+                                542,
+                                423,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        542,
+                                        423,
+                                        555
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Secretary of State",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        571,
+                        147,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                571,
+                                125,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        571,
+                                        125,
+                                        583
+                                    ],
+                                    "score": 0.99,
+                                    "content": "PDP/skr",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                583,
+                                146,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        583,
+                                        146,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Enclosures",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        149,
+                        610.5599975585938,
+                        596
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                1008.0
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        149,
+                        610.5599975585938,
+                        596
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        268,
+                        28,
+                        342,
+                        101
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                275,
+                                63,
+                                280,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        275,
+                                        63,
+                                        280,
+                                        68
+                                    ],
+                                    "score": 0.57,
+                                    "content": "S",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                273,
+                                68,
+                                280,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        68,
+                                        280,
+                                        82
+                                    ],
+                                    "score": 0.68,
+                                    "content": "E",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                291,
+                                86,
+                                306,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        291,
+                                        86,
+                                        306,
+                                        95
+                                    ],
+                                    "score": 0.62,
+                                    "content": "ARY",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        49,
+                        143,
+                        76
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                51,
+                                131,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        51,
+                                        131,
+                                        64
+                                    ],
+                                    "score": 0.95,
+                                    "content": "PAUL D.PATE",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                65,
+                                142,
+                                76
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        65,
+                                        142,
+                                        76
+                                    ],
+                                    "score": 0.98,
+                                    "content": "SECRETARY OF STATE",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        440,
+                        36,
+                        575,
+                        108
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                460,
+                                37,
+                                555,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        460,
+                                        37,
+                                        555,
+                                        48
+                                    ],
+                                    "score": 0.95,
+                                    "content": "HOOVER BTILDING",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                469,
+                                49,
+                                546,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        469,
+                                        49,
+                                        546,
+                                        60
+                                    ],
+                                    "score": 0.94,
+                                    "content": "STATE OF IOWA",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                442,
+                                60,
+                                573,
+                                71
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        442,
+                                        60,
+                                        573,
+                                        71
+                                    ],
+                                    "score": 0.87,
+                                    "content": "DES M01NEs, lowA 50319",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                458,
+                                84,
+                                556,
+                                95
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        458,
+                                        84,
+                                        556,
+                                        95
+                                    ],
+                                    "score": 0.97,
+                                    "content": "TEL (515) 281-5204",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                458,
+                                96,
+                                556,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        458,
+                                        96,
+                                        556,
+                                        107
+                                    ],
+                                    "score": 0.98,
+                                    "content": "FAX (515) 242-5953",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        246,
+                        149,
+                        351,
+                        165
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                247,
+                                150,
+                                349,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        247,
+                                        150,
+                                        349,
+                                        164
+                                    ],
+                                    "score": 0.96,
+                                    "content": "April 27, 1995",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        246,
+                        149,
+                        351,
+                        165
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        195,
+                        260,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                196,
+                                231,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        196,
+                                        231,
+                                        208
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Donna V. Boetel-Baker",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                208,
+                                210,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        208,
+                                        210,
+                                        220
+                                    ],
+                                    "score": 0.96,
+                                    "content": "City of Des Moines",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                219,
+                                231,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        219,
+                                        230,
+                                        231
+                                    ],
+                                    "score": 0.98,
+                                    "content": "400 East First Street",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                231,
+                                260,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        231,
+                                        260,
+                                        244
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Des Moines, IA 50309-1891",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        196,
+                        260,
+                        244
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        277,
+                        464,
+                        315
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                277,
+                                150,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        277,
+                                        150,
+                                        290
+                                    ],
+                                    "score": 0.95,
+                                    "content": "RE: Filing",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                85,
+                                289,
+                                462,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        289,
+                                        462,
+                                        308
+                                    ],
+                                    "score": 0.98,
+                                    "content": "of 28E Agreement between the First Source Employment",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                113,
+                                302,
+                                326,
+                                317
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        302,
+                                        326,
+                                        317
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and the Fibrelite Corporation",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        277,
+                        462,
+                        317
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        336,
+                        237,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                338,
+                                235,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        338,
+                                        235,
+                                        350
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dear Ms. Boetel-Baker:",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        338,
+                        235,
+                        350
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        76,
+                        360,
+                        494,
+                        399
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                362,
+                                491,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        113,
+                                        362,
+                                        491,
+                                        379
+                                    ],
+                                    "score": 1.0,
+                                    "content": "We have received the above described agreement which",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                371,
+                                491,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        371,
+                                        491,
+                                        392
+                                    ],
+                                    "score": 0.96,
+                                    "content": "you have submitted to this office for filing, pursuantico",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                383,
+                                396,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        383,
+                                        396,
+                                        402
+                                    ],
+                                    "score": 0.97,
+                                    "content": "the provisions of Chapter 28E, Code of Iowa.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        362,
+                        491,
+                        402
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        114,
+                        409,
+                        497,
+                        425
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                113,
+                                407,
+                                495,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        407,
+                                        495,
+                                        427
+                                    ],
+                                    "score": 0.99,
+                                    "content": "You may consider the same filed as of April 27, 1995.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        113,
+                        407,
+                        495,
+                        427
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        293,
+                        481,
+                        363,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                292,
+                                480,
+                                357,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        480,
+                                        357,
+                                        495
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Sincerly,",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        292,
+                        480,
+                        357,
+                        495
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        291,
+                        529,
+                        425,
+                        555
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                292,
+                                529,
+                                380,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        293,
+                                        529,
+                                        380,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Paul D. Pate",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                292,
+                                542,
+                                423,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        292,
+                                        542,
+                                        423,
+                                        555
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Secretary of State",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        292,
+                        529,
+                        423,
+                        555
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        72,
+                        571,
+                        147,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                571,
+                                125,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        571,
+                                        125,
+                                        583
+                                    ],
+                                    "score": 0.99,
+                                    "content": "PDP/skr",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                583,
+                                146,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        583,
+                                        146,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Enclosures",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        73,
+                        571,
+                        146,
+                        596
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

@@ -1,0 +1,1704 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        87,
+                        537,
+                        162
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                89,
+                                535,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        89,
+                                        535,
+                                        103
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Six. The Board of Trustees shall adopt Bylaws consistent with this Agreement. The",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                68,
+                                104,
+                                535,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        104,
+                                        535,
+                                        118
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Bylaws shall provide for officers of the Agency. The Bylaws shall provide for the periodic",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                120,
+                                536,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        120,
+                                        536,
+                                        133
+                                    ],
+                                    "score": 0.99,
+                                    "content": "meeting of the Board of Trustees and may provide for an executive committee which may act",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                134,
+                                535,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        134,
+                                        535,
+                                        149
+                                    ],
+                                    "score": 0.98,
+                                    "content": "On behaif of the Agency between meetings of the Board of Trustees. The Agency's fiscal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                150,
+                                220,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        150,
+                                        220,
+                                        162
+                                    ],
+                                    "score": 0.98,
+                                    "content": "year shall be set in its Bylaws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        178,
+                        537,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                179,
+                                535,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        179,
+                                        535,
+                                        194
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Seven. The Board of Trustees may employ an executive director for the Agency and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                195,
+                                527,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        195,
+                                        527,
+                                        208
+                                    ],
+                                    "score": 0.99,
+                                    "content": "provide for direct employment of such other persons as are deemed necessary or prudent",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        222,
+                        537,
+                        282
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                67,
+                                224,
+                                534,
+                                238
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        224,
+                                        534,
+                                        238
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Eight. The Board of Trustees shall control the finances of the Agency and may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                239,
+                                534,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        239,
+                                        534,
+                                        253
+                                    ],
+                                    "score": 0.99,
+                                    "content": "expend or invest funds of the Agency as it deems necessary to accomplish the purposes of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                67,
+                                255,
+                                534,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        255,
+                                        534,
+                                        267
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agency, provided, however, that all funds shall be invested in accord with lowa Code",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                269,
+                                454,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        269,
+                                        454,
+                                        283
+                                    ],
+                                    "score": 0.98,
+                                    "content": "sections 12B.10 and 12B.10A through 12B.10C (2005), 0r successor laws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        298,
+                        537,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                299,
+                                534,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        299,
+                                        534,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Nine. The Board of Trustees shall annually adopt a budget prior to the start of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                314,
+                                534,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        314,
+                                        534,
+                                        330
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agency's fiscal year. The budget shall provide for such contributions from Members as may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                329,
+                                536,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        329,
+                                        536,
+                                        344
+                                    ],
+                                    "score": 0.99,
+                                    "content": "be deemed necessary. A copy of a proposed budget shall be forwarded to each Member at",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                344,
+                                534,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        344,
+                                        534,
+                                        360
+                                    ],
+                                    "score": 0.99,
+                                    "content": "least 30 days before adoption. A copy of the budget as adopted shall be sent to each Member",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                360,
+                                221,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        360,
+                                        221,
+                                        373
+                                    ],
+                                    "score": 0.99,
+                                    "content": "within ten days after adoption",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        388,
+                        535,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                389,
+                                534,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        389,
+                                        534,
+                                        404
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Ten. The Agency may join or form joint action agencies under the laws of this or any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                66,
+                                405,
+                                534,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        405,
+                                        534,
+                                        419
+                                    ],
+                                    "score": 0.99,
+                                    "content": "other state to carry out the purposes of this Agreement to the same extent as any Member",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                419,
+                                244,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        419,
+                                        244,
+                                        433
+                                    ],
+                                    "score": 0.99,
+                                    "content": "could join or form such an agency.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        447,
+                        536,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                450,
+                                533,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        450,
+                                        533,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Eleven. The Agency is specifically empowered to exercise all powers available under",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                464,
+                                534,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        464,
+                                        534,
+                                        479
+                                    ],
+                                    "score": 0.98,
+                                    "content": "lowa Code chapter 28F and lowa Code section 476A, subchapter II (2005, or successor laws)",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                480,
+                                533,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        480,
+                                        533,
+                                        495
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and for purposes of such chapters shall be an electric power agency. The terms \"city utility,\"",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                493,
+                                534,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        493,
+                                        534,
+                                        511
+                                    ],
+                                    "score": 0.95,
+                                    "content": "\"electric power agency,\" \"project” or \"projects, “\"facility” and other terms used in this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                510,
+                                533,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        510,
+                                        533,
+                                        524
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement or in Bylaws shall have the meanings ascribed in lowa Code sections 28F.2,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                525,
+                                272,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        525,
+                                        272,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "362.2 and 476A.20 (2005), as amended.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        552,
+                        536,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                65,
+                                553,
+                                535,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        553,
+                                        535,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Twelve. The Agency shall hold all real, personal and intangible property which it",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                570,
+                                533,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        570,
+                                        533,
+                                        584
+                                    ],
+                                    "score": 0.98,
+                                    "content": "acquires in its own name. The Agency may acquire such property as it needs to accomplish",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                584,
+                                534,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        584,
+                                        534,
+                                        598
+                                    ],
+                                    "score": 0.98,
+                                    "content": "its pubfic purposes by sale, exchange or otherwise. The Agency may also acquire real",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                600,
+                                534,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        600,
+                                        534,
+                                        613
+                                    ],
+                                    "score": 0.99,
+                                    "content": "property by use of the power of eminent domain and is authorized to bring an action in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                614,
+                                534,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        614,
+                                        534,
+                                        629
+                                    ],
+                                    "score": 0.99,
+                                    "content": "eminent domain for a public purpose in its own name or may request a Member to bring such",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                629,
+                                533,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        629,
+                                        533,
+                                        644
+                                    ],
+                                    "score": 0.99,
+                                    "content": "action, which the Member shall then do, but the agency shall fully reimburse the Member for",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                644,
+                                533,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        644,
+                                        533,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "all costs of acquisition including not only damages to be paid the owner but all administrative",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                659,
+                                533,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        659,
+                                        533,
+                                        675
+                                    ],
+                                    "score": 0.98,
+                                    "content": "and related costs incurred by the Member to compiete the acquisition. The Agency may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                65,
+                                675,
+                                533,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        675,
+                                        533,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "dispose of any of its property in the same manner as a city. All proceeds from the sale or",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "layout_bboxes": [
+                {
+                    "layout_bbox": [
+                        0,
+                        87,
+                        610.5599975585938,
+                        687
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                610.5599975585938,
+                789.1199951171875
+            ],
+            "_layout_tree": [
+                {
+                    "layout_bbox": [
+                        0,
+                        87,
+                        610.5599975585938,
+                        687
+                    ],
+                    "layout_label": "H",
+                    "sub_layout": []
+                }
+            ],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        294,
+                        692,
+                        302,
+                        703
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                295,
+                                692,
+                                302,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        295,
+                                        692,
+                                        302,
+                                        703
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        87,
+                        537,
+                        162
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                89,
+                                536,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        89,
+                                        535,
+                                        103
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Six. The Board of Trustees shall adopt Bylaws consistent with this Agreement. The",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                104,
+                                536,
+                                118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        68,
+                                        104,
+                                        535,
+                                        118
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Bylaws shall provide for officers of the Agency. The Bylaws shall provide for the periodic",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                120,
+                                536,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        120,
+                                        536,
+                                        133
+                                    ],
+                                    "score": 0.99,
+                                    "content": "meeting of the Board of Trustees and may provide for an executive committee which may act",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                134,
+                                536,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        134,
+                                        535,
+                                        149
+                                    ],
+                                    "score": 0.98,
+                                    "content": "On behaif of the Agency between meetings of the Board of Trustees. The Agency's fiscal",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                150,
+                                221,
+                                162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        150,
+                                        220,
+                                        162
+                                    ],
+                                    "score": 0.98,
+                                    "content": "year shall be set in its Bylaws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        89,
+                        536,
+                        162
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        178,
+                        537,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                179,
+                                536,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        179,
+                                        535,
+                                        194
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Seven. The Board of Trustees may employ an executive director for the Agency and",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                195,
+                                527,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        195,
+                                        527,
+                                        208
+                                    ],
+                                    "score": 0.99,
+                                    "content": "provide for direct employment of such other persons as are deemed necessary or prudent",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        179,
+                        536,
+                        208
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        222,
+                        537,
+                        282
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                224,
+                                536,
+                                238
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        224,
+                                        534,
+                                        238
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Eight. The Board of Trustees shall control the finances of the Agency and may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                239,
+                                536,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        239,
+                                        534,
+                                        253
+                                    ],
+                                    "score": 0.99,
+                                    "content": "expend or invest funds of the Agency as it deems necessary to accomplish the purposes of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                255,
+                                536,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        255,
+                                        534,
+                                        267
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agency, provided, however, that all funds shall be invested in accord with lowa Code",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                269,
+                                454,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        269,
+                                        454,
+                                        283
+                                    ],
+                                    "score": 0.98,
+                                    "content": "sections 12B.10 and 12B.10A through 12B.10C (2005), 0r successor laws.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        224,
+                        536,
+                        283
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        298,
+                        537,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                299,
+                                536,
+                                314
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        299,
+                                        534,
+                                        314
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Nine. The Board of Trustees shall annually adopt a budget prior to the start of the",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                314,
+                                536,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        314,
+                                        534,
+                                        330
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agency's fiscal year. The budget shall provide for such contributions from Members as may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                329,
+                                536,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        329,
+                                        536,
+                                        344
+                                    ],
+                                    "score": 0.99,
+                                    "content": "be deemed necessary. A copy of a proposed budget shall be forwarded to each Member at",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                344,
+                                536,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        344,
+                                        534,
+                                        360
+                                    ],
+                                    "score": 0.99,
+                                    "content": "least 30 days before adoption. A copy of the budget as adopted shall be sent to each Member",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                360,
+                                221,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        360,
+                                        221,
+                                        373
+                                    ],
+                                    "score": 0.99,
+                                    "content": "within ten days after adoption",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        299,
+                        536,
+                        373
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        65,
+                        388,
+                        535,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                389,
+                                536,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        389,
+                                        534,
+                                        404
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Ten. The Agency may join or form joint action agencies under the laws of this or any",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                405,
+                                536,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        66,
+                                        405,
+                                        534,
+                                        419
+                                    ],
+                                    "score": 0.99,
+                                    "content": "other state to carry out the purposes of this Agreement to the same extent as any Member",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                419,
+                                244,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        419,
+                                        244,
+                                        433
+                                    ],
+                                    "score": 0.99,
+                                    "content": "could join or form such an agency.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        389,
+                        536,
+                        433
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        447,
+                        536,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                450,
+                                536,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        450,
+                                        533,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Eleven. The Agency is specifically empowered to exercise all powers available under",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                464,
+                                536,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        464,
+                                        534,
+                                        479
+                                    ],
+                                    "score": 0.98,
+                                    "content": "lowa Code chapter 28F and lowa Code section 476A, subchapter II (2005, or successor laws)",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                480,
+                                536,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        480,
+                                        533,
+                                        495
+                                    ],
+                                    "score": 0.99,
+                                    "content": "and for purposes of such chapters shall be an electric power agency. The terms \"city utility,\"",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                493,
+                                536,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        493,
+                                        534,
+                                        511
+                                    ],
+                                    "score": 0.95,
+                                    "content": "\"electric power agency,\" \"project” or \"projects, “\"facility” and other terms used in this",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                510,
+                                536,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        510,
+                                        533,
+                                        524
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Agreement or in Bylaws shall have the meanings ascribed in lowa Code sections 28F.2,",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                525,
+                                272,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        525,
+                                        272,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "362.2 and 476A.20 (2005), as amended.",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        450,
+                        536,
+                        538
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        64,
+                        552,
+                        536,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                553,
+                                536,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        553,
+                                        535,
+                                        570
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Article Twelve. The Agency shall hold all real, personal and intangible property which it",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                570,
+                                536,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        570,
+                                        533,
+                                        584
+                                    ],
+                                    "score": 0.98,
+                                    "content": "acquires in its own name. The Agency may acquire such property as it needs to accomplish",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                584,
+                                536,
+                                598
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        584,
+                                        534,
+                                        598
+                                    ],
+                                    "score": 0.98,
+                                    "content": "its pubfic purposes by sale, exchange or otherwise. The Agency may also acquire real",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                600,
+                                536,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        600,
+                                        534,
+                                        613
+                                    ],
+                                    "score": 0.99,
+                                    "content": "property by use of the power of eminent domain and is authorized to bring an action in",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                614,
+                                536,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        614,
+                                        534,
+                                        629
+                                    ],
+                                    "score": 0.99,
+                                    "content": "eminent domain for a public purpose in its own name or may request a Member to bring such",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                629,
+                                536,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        629,
+                                        533,
+                                        644
+                                    ],
+                                    "score": 0.99,
+                                    "content": "action, which the Member shall then do, but the agency shall fully reimburse the Member for",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                644,
+                                536,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        644,
+                                        533,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "all costs of acquisition including not only damages to be paid the owner but all administrative",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                659,
+                                536,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        659,
+                                        533,
+                                        675
+                                    ],
+                                    "score": 0.98,
+                                    "content": "and related costs incurred by the Member to compiete the acquisition. The Agency may",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                64,
+                                675,
+                                536,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        675,
+                                        533,
+                                        689
+                                    ],
+                                    "score": 1.0,
+                                    "content": "dispose of any of its property in the same manner as a city. All proceeds from the sale or",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "bbox_fs": [
+                        64,
+                        553,
+                        536,
+                        689
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "0.8.1"
+}

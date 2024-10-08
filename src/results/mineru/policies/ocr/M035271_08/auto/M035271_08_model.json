@@ -1,0 +1,632 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    260.5467529296875,
+                    256.9197082519531,
+                    1468.178466796875,
+                    256.9197082519531,
+                    1468.178466796875,
+                    369.2459716796875,
+                    260.5467529296875,
+                    369.2459716796875
+                ],
+                "score": 0.9999836683273315
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    263.6612548828125,
+                    401.993896484375,
+                    1470.7281494140625,
+                    401.993896484375,
+                    1470.7281494140625,
+                    878.2503662109375,
+                    263.6612548828125,
+                    878.2503662109375
+                ],
+                "score": 0.999956488609314
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    535.688232421875,
+                    149.01290893554688,
+                    1466.913330078125,
+                    149.01290893554688,
+                    1466.913330078125,
+                    218.41246032714844,
+                    535.688232421875,
+                    218.41246032714844
+                ],
+                "score": 0.99992436170578
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    263.15216064453125,
+                    1021.9899291992188,
+                    1475.280517578125,
+                    1021.9899291992188,
+                    1475.280517578125,
+                    1211.7879638671875,
+                    263.15216064453125,
+                    1211.7879638671875
+                ],
+                "score": 0.9999217391014099
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    857.551025390625,
+                    2013.1912841796875,
+                    878.81982421875,
+                    2013.1912841796875,
+                    878.81982421875,
+                    2040.9493408203125,
+                    857.551025390625,
+                    2040.9493408203125
+                ],
+                "score": 0.999886155128479
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    259.9778137207031,
+                    1240.1065673828125,
+                    686.8572998046875,
+                    1240.1065673828125,
+                    686.8572998046875,
+                    1280.145751953125,
+                    259.9778137207031,
+                    1280.145751953125
+                ],
+                "score": 0.9998554587364197
+            },
+            {
+                "category_id": 3,
+                "poly": [
+                    106.6984634399414,
+                    1460.743896484375,
+                    1635.478515625,
+                    1460.743896484375,
+                    1635.478515625,
+                    1831.39111328125,
+                    106.6984634399414,
+                    1831.39111328125
+                ],
+                "score": 0.9997087717056274
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    260.4722900390625,
+                    912.2791748046875,
+                    1471.22119140625,
+                    912.2791748046875,
+                    1471.22119140625,
+                    990.1463012695312,
+                    260.4722900390625,
+                    990.1463012695312
+                ],
+                "score": 0.999640703201294
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    260.939453125,
+                    1314.546875,
+                    1473.402099609375,
+                    1314.546875,
+                    1473.402099609375,
+                    1462.664794921875,
+                    260.939453125,
+                    1462.664794921875
+                ],
+                "score": 0.9991161227226257
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    264.0,
+                    261.0,
+                    1461.0,
+                    261.0,
+                    1461.0,
+                    293.0,
+                    264.0,
+                    293.0
+                ],
+                "score": 0.99,
+                "text": "13.15 Successors in Interest. All the terms, provisions and conditions of the Agreement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    295.0,
+                    1463.0,
+                    295.0,
+                    1463.0,
+                    331.0,
+                    360.0,
+                    331.0
+                ],
+                "score": 0.97,
+                "text": "shall be binding upon and inure to the benefir of the parries hereto and their"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    335.0,
+                    1053.0,
+                    335.0,
+                    1053.0,
+                    366.0,
+                    360.0,
+                    366.0
+                ],
+                "score": 0.98,
+                "text": "respective sliccessors, assigns and legal representatives."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    263.0,
+                    405.0,
+                    1463.0,
+                    405.0,
+                    1463.0,
+                    436.0,
+                    263.0,
+                    436.0
+                ],
+                "score": 0.99,
+                "text": "13.16 Record Retention and Access. The Department shall maintain books, records and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    359.0,
+                    440.0,
+                    1464.0,
+                    440.0,
+                    1464.0,
+                    476.0,
+                    359.0,
+                    476.0
+                ],
+                "score": 0.99,
+                "text": "documents which sufficiently and properly document and calculate all charges billed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    477.0,
+                    1464.0,
+                    477.0,
+                    1464.0,
+                    511.0,
+                    361.0,
+                    511.0
+                ],
+                "score": 0.99,
+                "text": "to ABD throughout the term of the Agreement for a period of ar least three (3) years"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    515.0,
+                    1466.0,
+                    515.0,
+                    1466.0,
+                    547.0,
+                    363.0,
+                    547.0
+                ],
+                "score": 0.99,
+                "text": "following the date of final payment or completion of any required audit, whichever is"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    367.0,
+                    555.0,
+                    429.0,
+                    555.0,
+                    429.0,
+                    580.0,
+                    367.0,
+                    580.0
+                ],
+                "score": 0.93,
+                "text": "ater,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    459.0,
+                    551.0,
+                    1466.0,
+                    551.0,
+                    1466.0,
+                    585.0,
+                    459.0,
+                    585.0
+                ],
+                "score": 0.96,
+                "text": "The Department shall permit the Auditor of the Stare of Iowa or any"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    590.0,
+                    1464.0,
+                    590.0,
+                    1464.0,
+                    619.0,
+                    363.0,
+                    619.0
+                ],
+                "score": 0.98,
+                "text": "authorized representative of the State and where federal funds are involved, the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    624.0,
+                    1468.0,
+                    624.0,
+                    1468.0,
+                    656.0,
+                    363.0,
+                    656.0
+                ],
+                "score": 0.97,
+                "text": "Comptroller General of the United States or any other authorized representarive of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    360.0,
+                    659.0,
+                    1464.0,
+                    659.0,
+                    1464.0,
+                    698.0,
+                    360.0,
+                    698.0
+                ],
+                "score": 0.99,
+                "text": "the United States government, to access and examine, audit, excerpt and transcribe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    696.0,
+                    1466.0,
+                    696.0,
+                    1466.0,
+                    734.0,
+                    361.0,
+                    734.0
+                ],
+                "score": 1.0,
+                "text": "any directly pertinent books, documents, papers, electronic or optically stored and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    737.0,
+                    1466.0,
+                    737.0,
+                    1466.0,
+                    768.0,
+                    363.0,
+                    768.0
+                ],
+                "score": 0.98,
+                "text": "created records or other records of the Department relating to orders, invoices, or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    777.0,
+                    1058.0,
+                    777.0,
+                    1058.0,
+                    802.0,
+                    361.0,
+                    802.0
+                ],
+                "score": 0.98,
+                "text": "payments or any other documentation or materials"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1068.0,
+                    774.0,
+                    1461.0,
+                    774.0,
+                    1461.0,
+                    802.0,
+                    1068.0,
+                    802.0
+                ],
+                "score": 0.99,
+                "text": "pertaining to the Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    807.0,
+                    1467.0,
+                    807.0,
+                    1467.0,
+                    839.0,
+                    363.0,
+                    839.0
+                ],
+                "score": 0.98,
+                "text": "The Department shall not impose a charge for audit or examination of the books and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    849.0,
+                    462.0,
+                    849.0,
+                    462.0,
+                    874.0,
+                    361.0,
+                    874.0
+                ],
+                "score": 0.99,
+                "text": "fecords."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    540.0,
+                    151.0,
+                    1462.0,
+                    151.0,
+                    1462.0,
+                    181.0,
+                    540.0,
+                    181.0
+                ],
+                "score": 0.99,
+                "text": "Agreement constirutes a legal, valid and binding obligation upon itself"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    537.0,
+                    189.0,
+                    902.0,
+                    189.0,
+                    902.0,
+                    215.0,
+                    537.0,
+                    215.0
+                ],
+                "score": 1.0,
+                "text": "in accordance with its terms."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    264.0,
+                    1028.0,
+                    1463.0,
+                    1028.0,
+                    1463.0,
+                    1059.0,
+                    264.0,
+                    1059.0
+                ],
+                "score": 0.99,
+                "text": "13.18 Further Assurances and Corrective Instruments. The parties agree that they shall."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    1063.0,
+                    1463.0,
+                    1063.0,
+                    1463.0,
+                    1094.0,
+                    363.0,
+                    1094.0
+                ],
+                "score": 0.99,
+                "text": "from time to time, execute, acknowledge and deliver, or cause to be executed,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    363.0,
+                    1097.0,
+                    1469.0,
+                    1097.0,
+                    1469.0,
+                    1134.0,
+                    363.0,
+                    1134.0
+                ],
+                "score": 0.98,
+                "text": "acknowiedged and delivered, such supplements hereto and such further instruments"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    361.0,
+                    1137.0,
+                    1467.0,
+                    1137.0,
+                    1467.0,
+                    1168.0,
+                    361.0,
+                    1168.0
+                ],
+                "score": 0.96,
+                "text": "as may reasonably be required for carrying out the expressed intention of the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    365.0,
+                    1177.0,
+                    512.0,
+                    1177.0,
+                    512.0,
+                    1208.0,
+                    365.0,
+                    1208.0
+                ],
+                "score": 1.0,
+                "text": "Agreement."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    858.0,
+                    2015.0,
+                    878.0,
+                    2015.0,
+                    878.0,
+                    2043.0,
+                    858.0,
+                    2043.0
+                ],
+                "score": 1.0,
+                "text": "8"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    267.0,
+                    1250.0,
+                    678.0,
+                    1250.0,
+                    678.0,
+                    1276.0,
+                    267.0,
+                    1276.0
+                ],
+                "score": 0.96,
+                "text": "SECT1ON 14. EXECUTION"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    261.0,
+                    918.0,
+                    1464.0,
+                    918.0,
+                    1464.0,
+                    950.0,
+                    261.0,
+                    950.0
+                ],
+                "score": 0.97,
+                "text": "13.17 Additional Provisions.  The parties agree that any Addendum, Rider or Exhibit,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    955.0,
+                    1397.0,
+                    955.0,
+                    1397.0,
+                    987.0,
+                    362.0,
+                    987.0
+                ],
+                "score": 0.99,
+                "text": "attached hereto by the parties, shall be deemed incorporated herein by reference."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    362.0,
+                    1320.0,
+                    1466.0,
+                    1320.0,
+                    1466.0,
+                    1352.0,
+                    362.0,
+                    1352.0
+                ],
+                "score": 0.97,
+                "text": "IN WITNESS WHEREOA, in consideration of the mutual covenants set forth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    262.0,
+                    1356.0,
+                    1467.0,
+                    1356.0,
+                    1467.0,
+                    1394.0,
+                    262.0,
+                    1394.0
+                ],
+                "score": 0.98,
+                "text": "above and for other good and/vqluable consideration, the receipt, adequacy and legal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    263.0,
+                    1396.0,
+                    1468.0,
+                    1396.0,
+                    1468.0,
+                    1427.0,
+                    263.0,
+                    1427.0
+                ],
+                "score": 0.97,
+                "text": "sufficiency of which are hgreby Aclnowledged, the parties have entered into the Agreement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    262.0,
+                    1431.0,
+                    1295.0,
+                    1431.0,
+                    1295.0,
+                    1465.0,
+                    262.0,
+                    1465.0
+                ],
+                "score": 0.99,
+                "text": "and have caused their dulyautbrjzed representatives to execute the Agreement."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "height": 2192,
+            "width": 1696
+        }
+    }
+]
