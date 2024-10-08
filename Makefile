@@ -110,6 +110,20 @@ surya-reading-order:
 	mkdir -p $(SURYA_RES)/courses/reading-order
 	surya_order $(COURSES_DIR) --images --results_dir $(SURYA_RES)/courses/reading-order
 
+# ----------------------------
+
+surya-ocr-p:
+	mkdir -p $(SURYA_RES)/policies/ocr
+	surya_ocr $(POLICIES_DIR) --images --langs en --results_dir $(SURYA_RES)/policies/ocr
+
+surya-layout-p:
+	mkdir -p $(SURYA_RES)/policies/layout
+	surya_layout $(POLICIES_DIR) --images --results_dir $(SURYA_RES)/policies/layout
+
+surya-reading-order-p:
+	mkdir -p $(SURYA_RES)/policies/reading-order
+	surya_order $(POLICIES_DIR) --images --results_dir $(SURYA_RES)/policies/reading-order
+
 #########################
 #
 #         TEXTRA        #
