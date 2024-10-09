@@ -81,20 +81,18 @@ pip install -U magic-pdf[full] --extra-index-url https://wheels.myhloli.com
 #### [PDF Extract Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 tags: `#toolkit`, `#model-based`
 
-## LLMs 
-
 #### [GOT-ocr2](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
-tags: `#generative`. 
-paper: 2405.14295. 
-date: Sep 2024
+tags: `#llm`   
+paper: 2405.14295  
+date: Sep 2024  
 
 #### [florence](https://huggingface.co/microsoft/Florence-2-large)
-tags: `#generative`. 
-paper: 2311.06242. 
-date: July 2024
+tags: `#llm`  
+paper: 2311.06242  
+date: July 2024  
 
 #### [kosmos-2.5](https://github.com/microsoft/unilm/tree/master/kosmos-2.5)
-tags: `#generative`, `#multiModal`  
+tags: `#llm`, `#multiModal`  
 date: Sep 2023  
 > Kosmos-2.5 is a multimodal literate model by Microsoft for machine reading of text-intensive images [^1]
 
