@@ -75,7 +75,7 @@ const pngdata = [
 
 ```sql
 SELECT * FROM results 
-WHERE fname = ${select_fname} AND doc_type = ${select_type}
+WHERE doc_type = ${select_type}
 ```
 
 ```js

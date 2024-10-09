@@ -5,7 +5,7 @@ import pyarrow.parquet as pq
 from pathlib import Path
 import json
 
-results_dirs = [_ for _ in Path("src/results").glob("*") if _ != '.DS_Store']
+results_dirs = [_ for _ in Path("src/results").glob("*") if _.name != '.DS_Store']
 
 # Combined all results into a single dataframe
 
@@ -22,10 +22,12 @@ lib2text = {
 for lib_res in results_dirs:
     libname = lib_res.name
 
-    # if libname == 'surya':
+    # if libname == 'mineru':
     #     break
- 
-    for document_type in lib_res.glob("*"):
+    
+    lib_dirs = [_ for _ in lib_res.glob("*") if _.name != '.DS_Store']
+
+    for document_type in lib_dirs:
         
         res_file = document_type / lib2text[libname] / "results.json"
         
