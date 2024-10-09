@@ -115,8 +115,6 @@ surya-task:
 	else \
 	    rename 's/_\d{1,2}_$(TASK)//' $(SURYA_RES)/$(DOC_TYPE)/$(TASK)/*png; \
 	fi
-	mv $(SURYA_RES)/$(DOC_TYPE)/order $(SURYA_RES)/$(DOC_TYPE)/reading-order
-
 
 #########################
 #
