@@ -142,7 +142,7 @@ live: https://molmo.allenai.org/
 │   │         └── [fname-convention].pdf
 │   └── results
 │        └── pkg*
-│             ├── reading-order
+│             ├── order
 │             ├── ocr
 │             └── layout
 │                ├── courses
@@ -237,10 +237,10 @@ convert-policies-dir-pdf-to-png:
 mineru-ocr-policies:
 	mkdir -p $(MINERU_RES)/policies/ocr
 	magic-pdf -p $(POLICIES_DIR) -o $(MINERU_RES)/policies/ocr -m auto
-	mkdir -p $(MINERU_RES)/policies/reading-order
-	for dir in $(MINERU_RES)/policies/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/policies/reading-order; done;
+	mkdir -p $(MINERU_RES)/policies/order
+	for dir in $(MINERU_RES)/policies/ocr/*; do mv $dir/auto/*layout.pdf $(MINERU_RES)/policies/order; done;
 ```
- - When adding documents to `reading-order/`, we must make sure to provide PNGs. Then they must be pushed to the github.
+ - When adding documents to `order/`, we must make sure to provide PNGs. Then they must be pushed to the github.
  - Finally, we wrangle the data in `wrangle.py` if the output from previous step is not formatted properly. The data app is expecting a single `results.json` in OCR following the aforementionned format.
 
 

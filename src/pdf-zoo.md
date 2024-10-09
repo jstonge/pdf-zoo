@@ -42,7 +42,7 @@ WHERE fname = ${select_fname} AND libname = ${select_libname} AND doc_type = ${s
 ```js
 // CONFIG == different modes of the software. Maybe there is a better name.
 // see below for more.
-const select_config = view(Inputs.select(config, {value: 'reading-order', label: "config"}));
+const select_config = view(Inputs.select(config, {value: 'order', label: "config"}));
 ```
 
 <div class="grid grid-cols-2">
@@ -97,10 +97,10 @@ For instance
 ```js
 // Conditional on the library, different configs will be possible.
 // config name should correspond to path, aka OCR / CONFIGS / DOCUMENT_TYPE / *
-const config_surya = ['reading-order', 'layout']
+const config_surya = ['order', 'layout']
 const config_kosmo = []
 const config_pymupdf = []
-const config_mineru = ['reading-order']
+const config_mineru = ['order']
 ```
 
 ```js
