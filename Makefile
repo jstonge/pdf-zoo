@@ -24,31 +24,28 @@ PYMUPDF_RES=$(RESULTS_DIR)/pymupdf
 TEXTRA_RES=$(RESULTS_DIR)/textra
 MINERU_RES=$(RESULTS_DIR)/mineru
 
+TASK ?= ocr
+DOC_TYPE ?= policies
+
+
 #############################
 #
 #  PDF to PNG conversion    #
 #
 #############################
 
-convert-course-dir-pdf-to-png:
-	for file in $(COURSES_DIR)/*.pdf; do \
+convert-dir-pdf-to-png:
+	for file in $(DATA_DIR)/$(DOC_TYPE)/*.pdf; do \
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
-
-convert-policies-dir-pdf-to-png:
-	for file in $(POLICIES_DIR)/*.pdf; do \
-		pdftoppm "$$file" "$${file%.pdf}" -png; \
-	done
-	mv $(POLICIES_DIR)/*.png src/assets/
-	cd src/assets && rename 's/-/_/' * && rename 's/_1//' *
-
-convert-faculties-dir-pdf-to-png:
-	for file in $(FACULTY_DIR)/*.pdf; do \
-		pdftoppm "$$file" "$${file%.pdf}" -png; \
-	done
-	mv $(FACULTY_DIR)/*.png src/assets/
+	mv $(DATA_DIR)/$(DOC_TYPE)/*.png src/assets/
 	cd src/assets && rename 's/-1//' *
 
+# To handle all types of PDF to PNG conversions
+pdf2pngs:
+	$(MAKE) convert-dir-pdf-to-png DOC_TYPE=courses
+	$(MAKE) convert-dir-pdf-to-png DOC_TYPE=policies
+	$(MAKE) convert-dir-pdf-to-png DOC_TYPE=faculties
 
 #########################
 #
@@ -96,33 +93,30 @@ mineru-ocr-policies:
 #
 #########################
 
-# https://github.com/VikParuchuri/surya
+# ref: https://github.com/VikParuchuri/surya
+# usage: `make surya DOC_TYPE=policies`
 
-surya-ocr:
-	mkdir -p $(SURYA_RES)/courses/ocr
-	surya_ocr $(COURSES_DIR) --images --langs en --results_dir $(SURYA_RES)/courses/ocr
+surya:
+	$(MAKE) surya-task TASK=ocr DOC_TYPE=$(DOC_TYPE)
+	$(MAKE) surya-task TASK=layout DOC_TYPE=$(DOC_TYPE)
+	$(MAKE) surya-task TASK=order DOC_TYPE=$(DOC_TYPE)
 
-surya-layout:
-	mkdir -p $(SURYA_RES)/courses/layout
-	surya_layout $(COURSES_DIR) --images --results_dir $(SURYA_RES)/courses/layout
+surya-task:
+	mkdir -p $(SURYA_RES)/$(DOC_TYPE)/$(TASK)
+	@if [ "$(TASK)" = "ocr" ]; then \
+	    surya_$(TASK) $(DATA_DIR)/$(DOC_TYPE) --images --langs en --results_dir $(SURYA_RES)/$(DOC_TYPE)/$(TASK);\
+	else \
+	    surya_$(TASK) $(DATA_DIR)/$(DOC_TYPE) --images --results_dir $(SURYA_RES)/$(DOC_TYPE)/$(TASK); \
+	fi
+	mv $(SURYA_RES)/$(DOC_TYPE)/$(TASK)/$(DOC_TYPE)/* $(SURYA_RES)/$(DOC_TYPE)/$(TASK)
+	rmdir $(SURYA_RES)/$(DOC_TYPE)/$(TASK)/$(DOC_TYPE)
+	@if [ "$(TASK)" = "ocr" ]; then \
+	    rename 's/_\d{1,2}_text//' $(SURYA_RES)/$(DOC_TYPE)/$(TASK)/*png; \
+	else \
+	    rename 's/_\d{1,2}_$(TASK)//' $(SURYA_RES)/$(DOC_TYPE)/$(TASK)/*png; \
+	fi
+	mv $(SURYA_RES)/$(DOC_TYPE)/order $(SURYA_RES)/$(DOC_TYPE)/reading-order
 
-surya-reading-order:
-	mkdir -p $(SURYA_RES)/courses/reading-order
-	surya_order $(COURSES_DIR) --images --results_dir $(SURYA_RES)/courses/reading-order
-
-# ----------------------------
-
-surya-ocr-p:
-	mkdir -p $(SURYA_RES)/policies/ocr
-	surya_ocr $(POLICIES_DIR) --images --langs en --results_dir $(SURYA_RES)/policies/ocr
-
-surya-layout-p:
-	mkdir -p $(SURYA_RES)/policies/layout
-	surya_layout $(POLICIES_DIR) --images --results_dir $(SURYA_RES)/policies/layout
-
-surya-reading-order-p:
-	mkdir -p $(SURYA_RES)/policies/reading-order
-	surya_order $(POLICIES_DIR) --images --results_dir $(SURYA_RES)/policies/reading-order
 
 #########################
 #
@@ -151,5 +145,5 @@ textra-ocr-p:
 #############################
 
 # https://github.com/microsoft/unilm/tree/master/kosmos-2.5
-kosmo:
-	python $(PYTHON_DIR)/kosmo.py $(COURSES_DIR) $(RESULTS_DIR)
+# kosmo:
+# 	python $(PYTHON_DIR)/kosmo.py $(COURSES_DIR) $(RESULTS_DIR)
