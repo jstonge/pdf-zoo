@@ -63,28 +63,49 @@ pymupdf-ocr:
 #
 #########################
 
+
+mineru:
+	$(MAKE) mineru-ocr DOC_TYPE=courses
+	$(MAKE) mineru-ocr DOC_TYPE=faculties
+	$(MAKE) mineru-ocr DOC_TYPE=policies
+
 mineru-ocr:
-	mkdir -p $(MINERU_RES)/courses/ocr
-	magic-pdf -p $(COURSES_DIR) -o $(MINERU_RES)/courses/ocr -m auto
-	mkdir -p $(MINERU_RES)/courses/order
-	for dir in $(MINERU_RES)/courses/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/courses/order; done;
-
-mineru-ocr-faculties:
-	mkdir -p $(MINERU_RES)/faculties/ocr
-	magic-pdf -p $(FACULTY_DIR) -o $(MINERU_RES)/faculties/ocr -m auto
-	mkdir -p $(MINERU_RES)/faculties/order
-	for dir in $(MINERU_RES)/faculties/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/faculties/order; done;
-
-mineru-ocr-policies:
-	mkdir -p $(MINERU_RES)/policies/ocr
-	magic-pdf -p $(POLICIES_DIR) -o $(MINERU_RES)/policies/ocr -m auto
-	mkdir -p $(MINERU_RES)/policies/order
-	for dir in $(MINERU_RES)/policies/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/policies/order; done;
-	for file in $(MINERU_RES)/policies/order/*pdf; do \
+	mkdir -p $(MINERU_RES)/$(DOC_TYPE)/ocr
+	magic-pdf -p $(DATA_DIR)/$(DOC_TYPE) -o $(MINERU_RES)/$(DOC_TYPE)/ocr -m auto
+	mkdir -p $(MINERU_RES)/$(DOC_TYPE)/order
+	for dir in $(MINERU_RES)/$(DOC_TYPE)/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/$(DOC_TYPE)/order; done;
+	for file in $(MINERU_RES)/$(DOC_TYPE)/order/*pdf; do \
 		pdftoppm "$$file" "$${file%.pdf}" -png; \
 	done
-	rm $(MINERU_RES)/policies/order/*pdf
-	rename 's/_layout-1//' $(MINERU_RES)/policies/order/*png
+	rm $(MINERU_RES)/$(DOC_TYPE)/order/*pdf
+	@if [ "$(DOC_TYPE)" = "policies" ]; then \
+	    rename 's/_layout-1//' $(MINERU_RES)/$(DOC_TYPE)/order/*png; \
+	else \
+	    rename 's/_layout//' $(MINERU_RES)/$(DOC_TYPE)/order/*png; \
+	fi
+
+# mineru-ocr:
+# 	mkdir -p $(MINERU_RES)/courses/ocr
+# 	magic-pdf -p $(COURSES_DIR) -o $(MINERU_RES)/courses/ocr -m auto
+# 	mkdir -p $(MINERU_RES)/courses/order
+# 	for dir in $(MINERU_RES)/courses/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/courses/order; done;
+
+# mineru-ocr-faculties:
+# 	mkdir -p $(MINERU_RES)/faculties/ocr
+# 	magic-pdf -p $(FACULTY_DIR) -o $(MINERU_RES)/faculties/ocr -m auto
+# 	mkdir -p $(MINERU_RES)/faculties/order
+# 	for dir in $(MINERU_RES)/faculties/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/faculties/order; done;
+
+# mineru-ocr-policies:
+# 	mkdir -p $(MINERU_RES)/policies/ocr
+# 	magic-pdf -p $(POLICIES_DIR) -o $(MINERU_RES)/policies/ocr -m auto
+# 	mkdir -p $(MINERU_RES)/policies/order
+# 	for dir in $(MINERU_RES)/policies/ocr/*; do mv $$dir/auto/*layout.pdf $(MINERU_RES)/policies/order; done;
+# 	for file in $(MINERU_RES)/policies/order/*pdf; do \
+# 		pdftoppm "$$file" "$${file%.pdf}" -png; \
+# 	done
+# 	rm $(MINERU_RES)/policies/order/*pdf
+# 	rename 's/_layout-1//' $(MINERU_RES)/policies/order/*png
 
 	
 #########################

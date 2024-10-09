@@ -5,7 +5,7 @@ import pyarrow.parquet as pq
 from pathlib import Path
 import json
 
-results_dirs = Path("src/results")
+results_dirs = [_ for _ in Path("src/results").glob("*") if _ != '.DS_Store']
 
 # Combined all results into a single dataframe
 
@@ -19,7 +19,7 @@ lib2text = {
     'mineru': 'ocr'
 }
 
-for lib_res in results_dirs.glob("*"):
+for lib_res in results_dirs:
     libname = lib_res.name
 
     # if libname == 'surya':

@@ -73,7 +73,14 @@ const pngdata = [
 ]
 ```
 
+```sql
+SELECT * FROM results 
+WHERE fname = ${select_fname} AND doc_type = ${select_type}
+```
 
+```js
+filtered_data.map(d => d.text)
+```
 ---
 
 ## File naming conventions
