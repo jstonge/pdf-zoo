@@ -83,6 +83,16 @@ tags: `#toolkit`, `#model-based`
 
 ## LLMs 
 
+#### [GOT-ocr2](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
+tags: `#generative`. 
+paper: 2405.14295. 
+date: Sep 2024
+
+#### [florence](https://huggingface.co/microsoft/Florence-2-large)
+tags: `#generative`. 
+paper: 2311.06242. 
+date: July 2024
+
 #### [kosmos-2.5](https://github.com/microsoft/unilm/tree/master/kosmos-2.5)
 tags: `#generative`, `#multiModal`  
 date: Sep 2023  
