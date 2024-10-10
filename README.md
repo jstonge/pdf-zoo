@@ -53,7 +53,7 @@ tags: `#model-based`
 
 #### [marker](https://github.com/VikParuchuri/marker)
 tags: `#pdf2markdown`  
-deps: [surya](#surya) (OCR), [texify](#texify) (clean and format each block), 
+deps: [surya](#surya) (OCR), [texify](#texify) (clean and format each block)  
 models: [pdf_postprocessor_t5](#pdf_postprocessor_t5)
 >  Convert PDF to markdown quickly with high accuracy 
 
@@ -66,11 +66,9 @@ tags: `#ocr-free`
 
 #### [MinerU](https://github.com/opendatalab/MinerU)
 tags: `#layoutAnalysis`, `#pdf2markdown`  
-deps: [PDF-Extract-Kit](#pdfextractkit), , [LayoutLMv3](#layoutlmv3), [YOLOv8](#yolov8), [UniMERNet](#unimernet), [StructEqTable](#structeqtable), [PaddleOCR](#paddleocr)
+deps: [PDF-Extract-Kit](#pdfextractkit), , [LayoutLMv3](#layoutlmv3), [YOLOv8](#yolov8), [UniMERNet](#unimernet), [StructEqTable](#structeqtable), [PaddleOCR](#paddleocr)  
 paper: https://arxiv.org/abs/2409.18839  
-
-<img width="641" alt="Screenshot 2024-10-05 at 3 18 58 PM" src="https://github.com/user-attachments/assets/b53bc207-16f3-4d47-8145-0792e1b0a57c">
-
+<img width="641" alt="minerU_pipeline" src="https://github.com/user-attachments/assets/1d041939-1c51-40f7-a634-94b7f2fc3a70">
 ```
 # minerU has its own environment
 conda create -n MinerU python=3.10
