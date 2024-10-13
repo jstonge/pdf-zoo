@@ -38,6 +38,15 @@ tags: `#model-based`
 tags: `#model-based`, `#readingOrder`, `#layoutAnalysis`  
 deps: [Donut](#donut)
 
+#### [pypdfium2](https://github.com/pypdfium2-team/pypdfium2)
+tags: `#PDF-wrangling`
+inst: `google`  
+> Python 3 binding to PDFium, a powerful and liberal-licensed library for PDF rendering, inspection, manipulation and creation.
+
+#### [pdfium](https://pdfium.googlesource.com/pdfium/)
+tags: `#PDF-wrangling`
+> This example shows that a PDF document can be dynamically created using page objects. You can create multiple page objects and place them anywhere on the page. There are several types of page objects: paths, forms, images and text objects
+
 #### [textra](https://github.com/freedmand/textra)
 tags: `#model-based`
 > Can be used as CLI to convert images, PDFs, and audio files to text. It uses Apple's APIs, which is annoying when we deploy to a server.
@@ -87,7 +96,7 @@ date: Sep 2024
 #### [docling](https://github.com/DS4SD/docling)
 tags: `#layout`   
 paper: https://arxiv.org/pdf/2408.09869  
-deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal)
+deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal), [pypdfium2](#pypdfium2)
 
 #### [florence](https://huggingface.co/microsoft/Florence-2-large)
 tags: `#llm`  
