@@ -84,6 +84,11 @@ tags: `#llm`
 paper: 2405.14295  
 date: Sep 2024  
 
+#### [docling](https://github.com/DS4SD/docling)
+tags: `#layout`   
+paper: https://arxiv.org/pdf/2408.09869  
+deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal)
+
 #### [florence](https://huggingface.co/microsoft/Florence-2-large)
 tags: `#llm`  
 paper: 2311.06242  
