@@ -96,7 +96,7 @@ live: https://molmo.allenai.org/
 
 #### [olmocr](https://github.com/allenai/olmocr)
 tags: `#pdf2markdown`, `#llm`    
-deps: poppler-utils	  
+deps: poppler-utils, [Qen2-VL-7B-Instruct](#Qen2-VL-7B-Instruct)
 date: Feb 2025  
 live: https://olmocr.allenai.org/  
 paper: https://arxiv.org/abs/2502.18443
@@ -211,7 +211,6 @@ tags: `#llms`
 ## Relevant Models
 
 #### [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
-tags: `#model-based`  
 > Practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices
 
 #### [StructEqTable Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy)
@@ -226,8 +225,7 @@ tags: `#model-based`
 
 #### [unilm](https://github.com/microsoft/unilm)
 
-## Tagxonomy
- - `ocr-free`: OCR-free transformer models mean that that the authors found a way to not do OCR (e.g. Tesseract or something like that) as preliminary steps in their modeling workflow.
+#### [Qen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)
 
 ## Other ressources
 
