@@ -15,9 +15,9 @@ models: [model_name](#model_name)
 <img src="image-url" alt="schema workflow" width="600">
 ```
 
-where dependencies are other libraries in the documents.
+where dependencies are other libraries in the documents and tags can be found in the TAGxonomy below.
 
-<details><summary>tagxonomy!</summary>
+<details><summary>TAGxonomy!</summary>
 	
 ## Primary Category Tags
 - `#trad` - Traditional/classic OCR approaches
@@ -33,8 +33,12 @@ where dependencies are other libraries in the documents.
 - `#layout` - General layout processing capabilities
 - `#multiModal` - Handles multiple input types (text, images, etc.)
 - `#PDF-wrangling` - PDF manipulation and processing
-
-## Special Purpose Tags
+- `#tableExtraction` - Specialized table detection and extraction
+- `#formulaOCR` - Mathematical formula and equation recognition
+- `#handwriting` - Handwritten text recognition
+- `#multilingual` - Multi-language support
+- `#structuring` - Converting unstructured text to structured data
+- `#gpu` - GPU acceleration support
 - `addTextLayer` - Adds searchable text layers to PDFs (note: no # symbol)
 </details>
 
