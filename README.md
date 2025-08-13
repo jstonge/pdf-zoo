@@ -102,6 +102,15 @@ live: https://olmocr.allenai.org/
 paper: https://arxiv.org/abs/2502.18443
 > LLM-based approach for converting PDFs to markdown with OCR capabilities.
 
+OLMOcr provides a cool innovation note in their technical report, called "document anchoring":
+
+> Document anchoring extracts coordinates of salient elements in each page (e.g., text blocks and images) and injects them alongside raw text extracted from the PDF binary file. [...]
+>
+>Document anchoring processes PDF document pages via the PyPDF library to extract a representation of the page’s structure from the underlying PDF. All of the text blocks and images in the page are extracted, including position information. Starting with the most relevant text blocks and images, these are sampled and added to the prompt of the VLM, up to a defined maximum character limit. This extra information is then available to the model when processing the document.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/bd07424c-a989-4e5d-b8b8-bba3a97f86cf" />
+
+
 ## Advanced OCR with Layout Analysis
 
 #### [surya](https://github.com/VikParuchuri/surya) 
