@@ -1,4 +1,42 @@
-# OCR Library Categories
+# PDF zoo
+
+Each entry looks like
+```
+#### [Library Name](https://github.com/username/repo-name)
+tags: `#tag1`, `#tag2`, `#tag3`  
+deps: [dependency1](#dependency1), [dependency2](#dependency2)  
+inst: `organization/company`  
+paper: https://arxiv.org/abs/paper-id  
+date: Month Year  
+live: https://demo-url.com/  
+models: [model_name](#model_name)  
+> Brief description of what the tool does and its key capabilities or strengths.
+
+<img src="image-url" alt="schema workflow" width="600">
+```
+
+where dependencies are other libraries in the documents.
+
+<details><summary>tagxonomy!</summary>
+	
+## Primary Category Tags
+- `#trad` - Traditional/classic OCR approaches
+- `#model-based` - Modern neural network-based OCR
+- `#llm` - Large language model-based OCR
+- `#toolkit` - Multi-purpose libraries with various features
+- `#ocr-free` - Transformer models that bypass traditional OCR steps
+
+## Functionality Tags
+- `#readingOrder` - Tools that determine text reading sequence
+- `#layoutAnalysis` - Document layout understanding and analysis
+- `#pdf2markdown` - PDF to markdown conversion
+- `#layout` - General layout processing capabilities
+- `#multiModal` - Handles multiple input types (text, images, etc.)
+- `#PDF-wrangling` - PDF manipulation and processing
+
+## Special Purpose Tags
+- `addTextLayer` - Adds searchable text layers to PDFs (note: no # symbol)
+</details>
 
 ## Traditional/Classic OCR Engines
 
