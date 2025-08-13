@@ -99,6 +99,13 @@ paper: https://arxiv.org/pdf/2408.09869
 deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal), [pypdfium2](#pypdfium2)  
 <img width="699" alt="Screenshot 2024-10-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/7201f24c-acc5-482f-b280-283b65812f9e">
 
+#### [spacylayout](https://github.com/explosion/spacy-layout)
+tags: `#layout` 
+paper: https://explosion.ai/blog/pdfs-nlp-structured-data
+deps:  [docling](#docling) (ocr, default)
+<img width="699" alt="Screenshot 2024-10-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/7201f24c-acc5-482f-b280-283b65812f9e">
+
+
 #### [florence](https://huggingface.co/microsoft/Florence-2-large)
 tags: `#llm`  
 paper: 2311.06242  
