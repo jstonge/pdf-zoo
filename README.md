@@ -1,79 +1,115 @@
-# Pdf Zoo
+# OCR Library Categories
 
-See [Makefile](./Makefile) for which OCR has been done.
+## Traditional/Classic OCR Engines
 
-## OCR-tools
+The original OCR approach using rule-based algorithms and pattern matching.
 
 #### [tesseract](https://github.com/tesseract-ocr/tesseract) 
 tags: `#trad`
 > Mother of all OCR tools. It was there when the world wide web was invented. More recently runs LSTM under the hood.
 
-#### [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
-tags: `#trad` 
-> Community maintained fork of `pdfminer` to support Python3.0. It is not model-based in that it uses layout embedded in pdfs to extract content (I think?).
+## Modern Model-Based OCR
 
-#### [pdfplumber](https://github.com/jsvine/pdfplumber)
-tags: `#toolkit`  
-deps: [pdfminer.six](#pdfminer.six)
->  Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables. 
-
-#### [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
-tags: `addTextLayer`
-> OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched.
-
-#### [pypdf2](https://github.com/py-pdf/pypdf)
-tags: `#toolkit`  
-> A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files 
-
-#### [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
-tags: `#toolkit`  
-deps: [tesseract](#tesseract) (OCR)
+OCR powered by deep learning neural networks, trained on large datasets.
 
 #### [easyOCR](https://github.com/JaidedAI/EasyOCR)
 tags: `#model-based`
+> Ready-to-use OCR with 80+ language support and minimal setup required.
 
- <img src="https://github.com/JaidedAI/EasyOCR/raw/master/examples/easyocr_framework.jpeg" alt="easyOCR" width="600"> 
-
-#### [surya](https://github.com/VikParuchuri/surya) 
-tags: `#model-based`, `#readingOrder`, `#layoutAnalysis`  
-deps: [Donut](#donut)
-
-#### [pypdfium2](https://github.com/pypdfium2-team/pypdfium2)
-tags: `#PDF-wrangling`
-inst: `google`  
-> Python 3 binding to PDFium, a powerful and liberal-licensed library for PDF rendering, inspection, manipulation and creation.
-
-#### [pdfium](https://pdfium.googlesource.com/pdfium/)
-tags: `#PDF-wrangling`
-> This example shows that a PDF document can be dynamically created using page objects. You can create multiple page objects and place them anywhere on the page. There are several types of page objects: paths, forms, images and text objects
+<img src="https://github.com/JaidedAI/EasyOCR/raw/master/examples/easyocr_framework.jpeg" alt="easyOCR" width="600"> 
 
 #### [textra](https://github.com/freedmand/textra)
 tags: `#model-based`
-> Can be used as CLI to convert images, PDFs, and audio files to text. It uses Apple's APIs, which is annoying when we deploy to a server.
-
-
+> CLI tool using Apple's APIs for OCR on images, PDFs, and audio files (macOS only).
 
 #### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 tags: `#model-based`, `#toolkit`  
 deps: [PaddlePaddle](#PaddlePaddle)
-> Awesome multilingual OCR toolkits
+> Comprehensive multilingual OCR toolkit with training capabilities and mobile deployment support.
 
-#### [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
-tags: `#model-based`  
-> Practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices
+## Modern LLM-Based OCR
+
+Large language models that can "read" images and understand context.
+
+#### [GOT-ocr2](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
+tags: `#llm`   
+paper: 2405.14295  
+date: Sep 2024  
+> Large language model specifically designed for optical character recognition tasks.
+
+#### [florence](https://huggingface.co/microsoft/Florence-2-large)
+tags: `#llm`  
+paper: 2311.06242  
+date: Feb 2025 
+> Microsoft's multimodal LLM capable of OCR along with other vision-language tasks.
+
+#### [kosmos-2.5](https://github.com/microsoft/unilm/tree/master/kosmos-2.5)
+tags: `#llm`, `#multiModal`  
+date: Sep 2023  
+> Microsoft's multimodal model specialized for reading text-intensive images.
+
+#### [molmo](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
+live: https://molmo.allenai.org/  
+> AllenAI's multimodal model with OCR capabilities.
+
+#### [olmocr](https://github.com/allenai/olmocr)
+tags: `#pdf2markdown`, `#llm`    
+deps: poppler-utils	  
+date: Feb 2025  
+live: https://olmocr.allenai.org/  
+paper: https://arxiv.org/abs/2502.18443
+> LLM-based approach for converting PDFs to markdown with OCR capabilities.
+
+## Advanced OCR with Layout Analysis
+
+#### [surya](https://github.com/VikParuchuri/surya) 
+tags: `#model-based`, `#readingOrder`, `#layoutAnalysis`  
+deps: [Donut](#donut)
+> Modern OCR with advanced layout analysis and reading order detection.
+
+#### [donut](https://github.com/clovaai/donut/)
+tags: `#ocr-free`
+> Document understanding transformer that processes documents without traditional OCR preprocessing.
+
+## OCR-Enabled Toolkits
+
+Libraries that include OCR as one feature among many document processing tools.
+
+#### [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
+tags: `addTextLayer`
+> Adds searchable OCR text layers to scanned PDFs using tesseract or other engines.
+
+#### [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+tags: `#toolkit`  
+deps: [tesseract](#tesseract) (OCR)
+> PDF manipulation library with optional OCR capabilities via tesseract.
+
+#### [docling](https://github.com/DS4SD/docling)
+tags: `#layout`   
+paper: https://arxiv.org/pdf/2408.09869  
+deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal), [pypdfium2](#pypdfium2)  
+<img width="699" alt="Screenshot 2024-10-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/7201f24c-acc5-482f-b280-283b65812f9e">
+> Document layout analysis toolkit with integrated OCR options.
+
+#### [spacylayout](https://github.com/explosion/spacy-layout)
+tags: `#layout`, `#llm`   
+paper: https://explosion.ai/blog/pdfs-nlp-structured-data  
+deps:  [docling](#docling) (ocr, default)  
+date: Dec 2024  
+> SpaCy extension for PDF layout analysis with OCR integration.
+
+## PDF-to-Markdown with OCR
 
 #### [marker](https://github.com/VikParuchuri/marker)
 tags: `#pdf2markdown`  
 deps: [surya](#surya) (OCR), [texify](#texify) (clean and format each block)  
 models: [pdf_postprocessor_t5](#pdf_postprocessor_t5)
->  Convert PDF to markdown quickly with high accuracy 
+> High-accuracy PDF to markdown conversion using advanced OCR and post-processing.
 
 #### [nougat](https://github.com/facebookresearch/nougat)
 tags: `#pdf2markdown`  
 deps: [donut](#donut)
-
-#### [donut](https://github.com/clovaai/donut/)
-tags: `#ocr-free`
+> Facebook Research's neural OCR model for academic document processing.
 
 #### [MinerU](https://github.com/opendatalab/MinerU)
 tags: `#layoutAnalysis`, `#pdf2markdown`  
@@ -86,49 +122,55 @@ conda create -n MinerU python=3.10
 conda activate MinerU
 pip install -U magic-pdf[full] --extra-index-url https://wheels.myhloli.com
 ```
+> Comprehensive PDF processing pipeline with OCR, layout analysis, and markdown conversion.
 
-#### [olmocr](https://github.com/allenai/olmocr)
-tags: `#pdf2markdown`, `#llm`    
-deps: poppler-utils	  
-date: Feb 2025  
-live: https://olmocr.allenai.org/  
-paper: https://arxiv.org/abs/2502.18443
+## Text Extraction (Not OCR)
+
+These tools extract text already embedded in PDFs rather than performing OCR on images:
+
+#### [pdfminer.six](https://github.com/pdfminer/pdfminer.six)
+tags: `#trad` 
+> Python3 fork of pdfminer for extracting embedded text from PDFs using layout information.
+
+#### [pdfplumber](https://github.com/jsvine/pdfplumber)
+tags: `#toolkit`  
+deps: [pdfminer.six](#pdfminer.six)
+> Detailed PDF analysis for characters, lines, and tables using embedded text.
+
+#### [pypdf2](https://github.com/py-pdf/pypdf)
+tags: `#toolkit`  
+> Pure Python library for PDF manipulation (splitting, merging, text extraction).
+
+#### [pypdfium2](https://github.com/pypdfium2-team/pypdfium2)
+tags: `#PDF-wrangling`
+inst: `google`  
+> Python binding to Google's PDFium for PDF rendering and text extraction.
+
+#### [pdfium](https://pdfium.googlesource.com/pdfium/)
+tags: `#PDF-wrangling`
+> Google's PDF library for rendering, inspection, and dynamic document creation.
 
 #### [PDF Extract Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 tags: `#toolkit`, `#model-based`
+> Comprehensive PDF processing toolkit with both text extraction and OCR capabilities.
 
-#### [GOT-ocr2](https://huggingface.co/stepfun-ai/GOT-OCR2_0)
-tags: `#llm`   
-paper: 2405.14295  
-date: Sep 2024  
+## Structuring unstructured text using LLMs
 
-#### [docling](https://github.com/DS4SD/docling)
-tags: `#layout`   
-paper: https://arxiv.org/pdf/2408.09869  
-deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionnal), [pypdfium2](#pypdfium2)  
-<img width="699" alt="Screenshot 2024-10-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/7201f24c-acc5-482f-b280-283b65812f9e">
+Tools that take raw or unstructured text and convert it into structured formats like JSON, tables, or organized data.
 
-#### [spacylayout](https://github.com/explosion/spacy-layout)
-tags: `#layout`, `#llm`   
-paper: https://explosion.ai/blog/pdfs-nlp-structured-data  
-deps:  [docling](#docling) (ocr, default)  
-date: Dec 2024  
+#### [NuExtract](https://huggingface.co/numind/NuExtract)
+tags: `#llms`  
+> NuExtract is a version of phi-3-mini, fine-tuned on a private high-quality synthetic dataset for information extraction. To use the model, provide an input text (less than 2000 tokens) and a JSON template describing the information you need to extract.
 
-
-#### [florence](https://huggingface.co/microsoft/Florence-2-large)
-tags: `#llm`  
-paper: 2311.06242  
-date: Feb 2025 
-
-#### [kosmos-2.5](https://github.com/microsoft/unilm/tree/master/kosmos-2.5)
-tags: `#llm`, `#multiModal`  
-date: Sep 2023  
-> Kosmos-2.5 is a multimodal literate model by Microsoft for machine reading of text-intensive images [^1]
-
-#### [molmo](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
-live: https://molmo.allenai.org/  
+#### [langextract](https://github.com/google/langextract)
+tags: `#llms`  
+>  A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. 
 
 ## Relevant Models
+
+#### [PaddlePaddle](https://github.com/PaddlePaddle/Paddle)
+tags: `#model-based`  
+> Practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices
 
 #### [StructEqTable Deploy](https://github.com/UniModal4Reasoning/StructEqTable-Deploy)
 
@@ -142,10 +184,8 @@ live: https://molmo.allenai.org/
 
 #### [unilm](https://github.com/microsoft/unilm)
 
-
 ## Tagxonomy
  - `ocr-free`: OCR-free transformer models mean that that the authors found a way to not do OCR (e.g. Tesseract or something like that) as preliminary steps in their modeling workflow.
-
 
 ## Other ressources
 
@@ -154,32 +194,31 @@ live: https://molmo.allenai.org/
  - [pypdf's why extraction is hard](https://pypdf.readthesrc.io/en/latest/user/extract-text.html#why-text-extraction-is-hard)
  - [OCR vs text extraction](https://pypdf.readthesrc.io/en/latest/user/extract-text.html#ocr-vs-text-extraction)
 
-
 ## Repo organization
 
 ```
 ├── Makefile                         
 ├── src
-│   ├── data
-│   │    ├── courses
-│   │    |    └── [fname-convention].pdf
-│   │    ├── faculties
-│   │    |    └── [fname-convention].pdf
-│   │    └── catalog-info
-│   │         └── [fname-convention].pdf
-│   └── results
-│        └── pkg*
+│   ├── data
+│   │    ├── courses
+│   │    |    └── [fname-convention].pdf
+│   │    ├── faculties
+│   │    |    └── [fname-convention].pdf
+│   │    └── catalog-info
+│   │         └── [fname-convention].pdf
+│   └── results
+│        └── pkg*
 │             ├── order
 │             ├── ocr
-│             └── layout
-│                ├── courses
-│                  ├── [fname-convention].png
+│             └── layout
+│                ├── courses
+│                  ├── [fname-convention].png
 |                  └── results.json
-│                ├── faculties
-│                  ├── [fname-convention].png
+│                ├── faculties
+│                  ├── [fname-convention].png
 |                  └── results.json
-│                └── catalog-info
-│                  ├── [fname-convention].png
+│                └── catalog-info
+│                  ├── [fname-convention].png
 |                  └── results.json
 └── src                             
    └── run-pkg*.py
@@ -269,7 +308,6 @@ mineru-ocr-policies:
 ```
  - When adding documents to `order/`, we must make sure to provide PNGs. Then they must be pushed to the github.
  - Finally, we wrangle the data in `wrangle.py` if the output from previous step is not formatted properly. The data app is expecting a single `results.json` in OCR following the aforementionned format.
-
 
 ## Changelog
 
