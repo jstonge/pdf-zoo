@@ -15,7 +15,7 @@ models: [model_name](#model_name)
 <img src="image-url" alt="schema workflow" width="600">
 ```
 
-where dependencies are other libraries in the documents and tags can be found in the TAGxonomy below.
+where dependencies are other libraries in the document and tags can be found in the following TAGxonomy
 
 <details><summary>TAGxonomy!</summary>
 	
