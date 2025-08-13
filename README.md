@@ -51,6 +51,8 @@ tags: `#PDF-wrangling`
 tags: `#model-based`
 > Can be used as CLI to convert images, PDFs, and audio files to text. It uses Apple's APIs, which is annoying when we deploy to a server.
 
+
+
 #### [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 tags: `#model-based`, `#toolkit`  
 deps: [PaddlePaddle](#PaddlePaddle)
@@ -85,6 +87,21 @@ conda activate MinerU
 pip install -U magic-pdf[full] --extra-index-url https://wheels.myhloli.com
 ```
 
+#### [olmocr](https://github.com/allenai/olmocr)
+tags: `#pdf2markdown`  
+deps: poppler-utils
+date: 
+live: https://olmocr.allenai.org/
+paper: https://arxiv.org/abs/2502.18443
+<img width="641" alt="minerU_pipeline" src="https://github.com/user-attachments/assets/1d041939-1c51-40f7-a634-94b7f2fc3a70">
+```
+# minerU has its own environment
+conda create -n MinerU python=3.10
+conda activate MinerU
+pip install -U magic-pdf[full] --extra-index-url https://wheels.myhloli.com
+```
+
+
 #### [PDF Extract Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 tags: `#toolkit`, `#model-based`
 
@@ -103,13 +120,14 @@ deps:  [easyocr](#easyocr) (ocr, default), [tesseract](#tesseract) (ocr, optionn
 tags: `#layout` 
 paper: https://explosion.ai/blog/pdfs-nlp-structured-data
 deps:  [docling](#docling) (ocr, default)
+date: Dec 2024
 <img width="699" alt="Screenshot 2024-10-13 at 9 35 40 AM" src="https://github.com/user-attachments/assets/7201f24c-acc5-482f-b280-283b65812f9e">
 
 
 #### [florence](https://huggingface.co/microsoft/Florence-2-large)
 tags: `#llm`  
 paper: 2311.06242  
-date: July 2024  
+date: Feb 2025 
 
 #### [kosmos-2.5](https://github.com/microsoft/unilm/tree/master/kosmos-2.5)
 tags: `#llm`, `#multiModal`  
